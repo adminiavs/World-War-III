@@ -1,6 +1,6 @@
 # Professor Jang: US–Iran war class (three forces, trapped troops, historical analogues, game theory)
 
-**Date:** 2026-03-04  
+**Date:** ~March 2025 (approximately one year before the war; filed 2026-03-04)  
 **Source:** YouTube  
 **URL:** https://www.youtube.com/watch?v=7y_hbz6loEo&t=3258s
 

@@ -29,6 +29,10 @@
 | Inflation from war spending | Ron Paul (2006) | **Realized** -- oil up 9%, gas at highs, 11k flights cancelled, $891M/day |
 | "Israel will never defeat Hezbollah decisively" | Ritter (2006) | **In progress** -- Israel escalating in Lebanon exactly as predicted |
 | Costs of Iraq pale in comparison | Ritter (2006) | **Realized** -- $3.7B in 100 hours; $3.5B unbudgeted; multi-front war |
+| US military hubris: "they cannot imagine the possibility that they could be defeated" | Jiang (~Mar 2025) | **Realized** -- Hegseth: "Only just begun to fight"; "no shortage of munitions or American will" |
+| Iran will not capitulate: "Iranians hate Americans"; four reasons (Shah, Iraq, civilization, religion) | Jiang (~Mar 2025) | **Realized** -- Araghchi: "We are waiting for them" |
+| Costs dwarf Iraq; US can't sustain war economically | Jiang (~Mar 2025) | **Realized** -- $3.7B in 100 hours confirms |
+| Operation Prosperity Guardian proved Houthis couldn't be beaten; same limitations now visible | Jiang (~Mar 2025) | **Realized** -- air supremacy not translating to strategic victory |
 
 ## Predictions In Progress
 
@@ -39,6 +43,9 @@
 | China opportunity / US overstretch | Chomsky (2007) | USS Lincoln redeployed; US stretched across 3 theaters |
 | Short-term thinking / worse than Iraq | Chomsky (2007), Ritter (2006) | $3.7B in 4 days; fertiliser crisis; regional destabilization |
 | Economic blowback to US | Ron Paul, Ritter | Gas prices, flight cancellations, stockpile concerns beginning |
+| Trump = Zelensky: TV personality prioritizing image over strategy | Jiang (~Mar 2025) | Trump's rhetoric vs strategic reality |
+| Vietnam analogue: mission creep, sunk cost, leadership knows it's unwinnable | Jiang (~Mar 2025) | Trajectory matching |
+| Russia providing support behind the scenes; Putin as "master manipulator" | Jiang (~mid-2024, ~Mar 2025) | Russia not yet publicly involved |
 
 ## Likely Next Stages (as of end of Day 6)
 
