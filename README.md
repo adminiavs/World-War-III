@@ -8,6 +8,7 @@ This repository tracks news, analysis, and primary sources related to the US-Isr
 
 The archive contains:
 
+- **`basic-guide/`** -- **Start here if you are new.** A plain-language, jargon-free guide to the war, the people who predicted it (Ron Paul, Noam Chomsky, Professor Jiang), what they got right, and what is likely to happen next. No prior knowledge required.
 - **`news/`** -- News stubs and full articles. Each file has a tl;dr summary, source URL, date, and where available the full article text.
 - **`transcripts/`** -- Lecture and video transcripts (e.g. Professor Jiang classes, wartime analysis). Same document format as news where applicable.
 - **`books/`** -- Companion notes to source books (Ritter, Chomsky/Barsamian) with predictions and analysis.
