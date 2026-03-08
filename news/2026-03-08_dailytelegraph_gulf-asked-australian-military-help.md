@@ -3,6 +3,7 @@
 **Date:** 2026-03-08  
 **Source:** Daily Telegraph  
 **URL:** https://www.dailytelegraph.com.au/news/breaking-news/gulf-countries-have-asked-for-australian-military-assistance-wong/news-story/3fff3768cdffc6c5babddcddd0dcf020
+**Tags:** australia, gulf, wong, military-request, cross-ref: news/2026-03-08_guardian_australia-live-albanese-wong-middle-east.md
 
 ---
 

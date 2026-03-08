@@ -3,6 +3,7 @@
 **Date:** 2006-04-06  
 **Source:** Speech to U.S. House of Representatives (via mohammadmossadegh.com)  
 **URL:** https://www.mohammadmossadegh.com/news/ron-paul/iran-the-next-neocon-target/
+**Tags:** predictions, ron-paul, regime-change, hormuz, oil, congress, blowback
 
 ---
 

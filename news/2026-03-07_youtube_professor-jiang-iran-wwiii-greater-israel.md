@@ -1,14 +1,15 @@
-# Professor Jung: Iran War, WWIII, Greater Israel, Eschatology (YouTube Podcast, Mar 7, 2026)
+# Professor Jiang: Iran War, WWIII, Greater Israel, Eschatology (YouTube Podcast, Mar 7, 2026)
 
 **Date:** 2026-03-07 (Saturday)  
 **Source:** YouTube (podcast interview)  
 **URL:** https://www.youtube.com/watch?v=0rIgZD-tk3s
+**Tags:** predictions-jiang, wwiii, greater-israel, gcc, ground-troops, cross-ref: transcripts/2026-03-07_youtube_professor-jiang-iran-wwiii-greater-israel-transcript.md
 
 ---
 
 ## tl;dr
 
-**Guest:** Professor Jung (Jiang). **Themes:** We are in World War III; ground troops = point of no return; Ukraine–Iran link; Greater Israel (Nile to Euphrates, Kingdom of David, Turkey “new Iran”); GCC as imperial constructs, mirage (no water, no food sovereignty, no knowledge economy); false flags (Azerbaijan drone, Saudi oil from Lebanon/west, Mossad in Qatar); US military not tested in “real war” since Vietnam; Israel censors damage after 12-day war humiliation; Oman mediation – Iran gave everything, US still attacked; eschatology (war for second coming, Trump divinely ordained, Al-Aqsa/Third Temple, Gog and Magog); America in war to lose; BRICS doesn’t matter, “law of the jungle”; nation states not real powers, “parasite” (transnational capital, secret societies) controls host; outcome pre-ordained (ground troops, disaster, US out, Israel only power, Pax Judaica); 80% Americans against war, Congress enabled not stopped; Plato’s cave – seek truth behind the shadows.
+**Guest:** Professor Jiang. **Themes:** We are in World War III; ground troops = point of no return; Ukraine–Iran link; Greater Israel (Nile to Euphrates, Kingdom of David, Turkey “new Iran”); GCC as imperial constructs, mirage (no water, no food sovereignty, no knowledge economy); false flags (Azerbaijan drone, Saudi oil from Lebanon/west, Mossad in Qatar); US military not tested in “real war” since Vietnam; Israel censors damage after 12-day war humiliation; Oman mediation – Iran gave everything, US still attacked; eschatology (war for second coming, Trump divinely ordained, Al-Aqsa/Third Temple, Gog and Magog); America in war to lose; BRICS doesn’t matter, “law of the jungle”; nation states not real powers, “parasite” (transnational capital, secret societies) controls host; outcome pre-ordained (ground troops, disaster, US out, Israel only power, Pax Judaica); 80% Americans against war, Congress enabled not stopped; Plato’s cave – seek truth behind the shadows.
 
 ---
 
@@ -52,10 +53,10 @@
 
 **Iran.** Iranians: come invade, we’re waiting. Jung: US will invade, Iranians will destroy them – **but that’s what they want you to focus on.** What matters: who’s behind curtain. “War of self-knowledge” – courage to seek truth. **Plato’s cave:** chained, shadows on wall, we invent reality; elite behind fire with puppets; US, Russia, China, US–Iran = illusion to distract. Doesn’t matter who wins; what matters is understanding, seeking truth.
 
-YouTube, video ID 0rIgZD-tk3s. Podcast; guest "Professor Jung" (Jiang).
+YouTube, video ID 0rIgZD-tk3s. Podcast; guest Professor Jiang.
 
 ---
 
 ## Full transcript
 
-The full verbatim transcript of the podcast (Saturday, 7 March 2026) is in **`news/transcript_0rIgZD-tk3s_professor-jung.txt`**. It includes the full dialogue on World War III, 82nd Airborne, ground troops, Greater Israel, false flags, GCC as mirage, US military, 12-day war, proxies, eschatology, Al-Aqsa/Third Temple, nuclear, BRICS, who controls, outcome, Plato's cave, and closing. Source: [YouTube](https://www.youtube.com/watch?v=0rIgZD-tk3s). “Professor Jung” (Jiang).
+The full verbatim transcript of the podcast (Saturday, 7 March 2026) is in **`transcripts/2026-03-07_youtube_professor-jiang-iran-wwiii-greater-israel-transcript.md`**. It includes the full dialogue on World War III, 82nd Airborne, ground troops, Greater Israel, false flags, GCC as mirage, US military, 12-day war, proxies, eschatology, Al-Aqsa/Third Temple, nuclear, BRICS, who controls, outcome, Plato's cave, and closing. Source: [YouTube](https://www.youtube.com/watch?v=0rIgZD-tk3s). “Professor Jung” (Jiang).

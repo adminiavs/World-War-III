@@ -3,6 +3,7 @@
 **Date:** 2026-03-08  
 **Source:** The Guardian (live blog)  
 **URL:** https://www.theguardian.com/australia-news/live/2026/mar/08/australia-news-live-anthony-albanese-penny-wong-angus-taylor-middle-east-queensland-weather-melbourne-stabbing-ntwnfb
+**Tags:** australia, gulf, wong, military-request, live-blog
 
 ---
 

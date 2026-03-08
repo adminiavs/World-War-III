@@ -9,8 +9,31 @@ This repository tracks news, analysis, and primary sources related to the US-Isr
 The archive contains:
 
 - **`news/`** -- News stubs and full articles. Each file has a tl;dr summary, source URL, date, and where available the full article text.
+- **`transcripts/`** -- Lecture and video transcripts (e.g. Professor Jiang classes, wartime analysis). Same document format as news where applicable.
 - **`books/`** -- Companion notes to source books (Ritter, Chomsky/Barsamian) with predictions and analysis.
-- **`updates and predictions/`** -- Day-by-day war summaries and prediction tracking.
+- **`updates-and-predictions/`** -- Day-by-day war summaries and prediction tracking.
+
+### Document format (news and transcripts)
+
+Each item in `news/` and `transcripts/` should include, in this order:
+
+1. **Title** (as `# Title` on line 1)
+2. **Date published** (`**Date:**` YYYY-MM-DD or approximate)
+3. **Date archived** (optional; when the item was first saved to this archive)
+4. **Source** (`**Source:**`)
+5. **Author or speaker** (optional; `**Author:**` or `**Speaker:**`)
+6. **URL** (`**URL:**`)
+7. **Content type** (optional; `news` or `transcript`)
+8. **Region/country** (optional; e.g. Iran, Gulf, Australia)
+9. **Tags** (optional; comma-separated: themes like `hormuz`, `regime-change`, `predictions-jiang`, and cross-refs like `cross-ref: 2026-03-08_guardian_...`)
+10. **TL;DR** (section `## tl;dr` — brief factual summary)
+11. **Full text** (section `## Full story` or `## Full transcript`)
+
+Filenames: `YYYY-MM-DD_source_short-title.md` (lowercase, hyphens). If the exact date is unknown, use `undated_source_short-title.md`. When the same story appears from multiple sources, save each as a separate document and cross-reference in tags or notes.
+
+**Stubs:** News items without full article text are listed in `news/STUBS_WITHOUT_FULL_ARTICLE_URLS.md` with their source URLs. Regenerate that list with `./scripts/regenerate-stubs.sh` from the repo root.
+
+**Lint:** Run `./scripts/lint-archive.sh` to check that each item in `news/` and `transcripts/` has the required fields (title, **Date:**, **Source:**, **URL:**, ## tl;dr) and that filenames follow the convention. Some older files may not pass; fix or add exceptions as needed.
 
 ---
 
@@ -80,7 +103,7 @@ Chomsky's key predictions and warnings across both books:
 
 ---
 
-### Professor Jiang (Jung) -- Pre-war lectures (~April-July 2024, roughly two years before the war)
+### Professor Jiang -- Pre-war lectures (~April-July 2024, roughly two years before the war)
 
 **Sources:**
 - [Operation True Promise / asymmetric warfare lecture](https://www.youtube.com/watch?v=xEEpOxqdU5E) (~April 2024)
@@ -127,7 +150,7 @@ The earliest lectures (roughly two years before the war) established the theoret
 
 ---
 
-### Professor Jiang (Jung) -- War scenario lecture (~March 2025, roughly one year before the war)
+### Professor Jiang -- War scenario lecture (~March 2025, roughly one year before the war)
 
 **Source:** [US-Iran war scenario / trapped troops / historical analogues / game theory](https://www.youtube.com/watch?v=7y_hbz6loEo&t=3258s) (~March 2025)
 
@@ -198,7 +221,7 @@ Approximately one year before the war, Jiang delivered his most detailed and spe
 
 ---
 
-### Professor Jiang (Jung) -- Early war analysis (late February-early March 2026)
+### Professor Jiang -- Early war analysis (late February-early March 2026)
 
 **Sources:**
 - [First analysis from Toronto](https://youtu.be/8XdL-7tAqnU) (~1 Mar 2026)
@@ -221,7 +244,7 @@ Within days of the war starting, Jiang began publishing wartime analysis from To
 
 ---
 
-### Professor Jiang (Jung) -- War enters second week, 7 March 2026
+### Professor Jiang -- War enters second week, 7 March 2026
 
 **Source:** [YouTube podcast, 7 March 2026](https://www.youtube.com/watch?v=0rIgZD-tk3s)
 
@@ -288,7 +311,8 @@ See also:
 - `books/CHOMSKY_WHAT_WE_SAY_GOES_COMPANION.md`
 - `books/BARSAMIAN_TARGETING_IRAN_COMPANION.md`
 - `news/2006-04-06_ronpaul_iran-next-neocon-target-house-speech.md`
-- `news/2026-03-07_youtube_professor-jung-iran-wwiii-greater-israel.md`
+- `news/2026-03-07_youtube_professor-jiang-iran-wwiii-greater-israel.md`
+- `transcripts/2026-03-07_youtube_professor-jiang-iran-wwiii-greater-israel-transcript.md` -- full verbatim transcript of 7 Mar 2026 podcast
 - `transcripts/` -- full lecture transcripts for all Jiang classes and wartime analysis
 
 ---

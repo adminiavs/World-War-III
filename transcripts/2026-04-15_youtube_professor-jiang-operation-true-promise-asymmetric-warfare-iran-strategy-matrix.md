@@ -1,4 +1,4 @@
-# Professor Jang: Operation True Promise, asymmetric warfare, Iran strategy matrix
+# Professor Jiang: Operation True Promise, asymmetric warfare, Iran strategy matrix
 
 **Date:** 2026-04-15  
 **Source:** YouTube  

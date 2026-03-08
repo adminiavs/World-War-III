@@ -1,4 +1,4 @@
-# Professor Jang: First analysis of the Middle East war (US-Iran)
+# Professor Jiang: First analysis of the Middle East war (US-Iran)
 
 **Date:** 2026-03-04  
 **Source:** YouTube, Professor Jang (Predictive History)  

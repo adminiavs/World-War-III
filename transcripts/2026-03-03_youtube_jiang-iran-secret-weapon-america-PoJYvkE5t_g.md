@@ -3,6 +3,7 @@
 **Date:** 2026-03-03  
 **Source:** YouTube (Contrarian History Thesis)  
 **URL:** https://www.youtube.com/watch?v=PoJYvkE5t_g
+**Tags:** predictions-jiang, gcc, hormuz, desalination, petrodollar, regime-change, asymmetric-warfare
 
 ---
 

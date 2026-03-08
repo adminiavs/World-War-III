@@ -1,4 +1,4 @@
-# Professor Jang: How and why did Iranian president Ibrahim Raisi die? (Game theory, IRGC)
+# Professor Jiang: How and why did Iranian president Ibrahim Raisi die? (Game theory, IRGC)
 
 **Date:** 2026-05-22  
 **Source:** YouTube  

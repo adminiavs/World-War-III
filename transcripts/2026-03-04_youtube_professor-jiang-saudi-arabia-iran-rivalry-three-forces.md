@@ -1,4 +1,4 @@
-# Professor Jang: Saudi Arabia vs Iran (third force driving US toward war)
+# Professor Jiang: Saudi Arabia vs Iran (third force driving US toward war)
 
 **Date:** 2026-03-04  
 **Source:** YouTube  

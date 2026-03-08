@@ -1,4 +1,4 @@
-# Professor Jang: Israel Lobby, Christianity, dispensationalism, Christian Zionism
+# Professor Jiang: Israel Lobby, Christianity, dispensationalism, Christian Zionism
 
 **Date:** 2026-03-04  
 **Source:** YouTube  
