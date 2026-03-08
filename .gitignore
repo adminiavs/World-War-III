@@ -1,0 +1,10 @@
+# PDFs (large, often from external sources)
+*.pdf
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+# Regime Change in Iran: Structural Reality vs Wishful Thinking (YouTube)
+
+**Date:** 2026-03-06  
+**Source:** YouTube  
+**URL:** https://youtu.be/SAb9VwTcSlM
+
+---
+
+## tl;dr
+
+No regime in history was changed by air power alone; every successful regime change required ground troops. Precision-strike and technological-superiority illusions; shock and awe becomes shock and stall (Iraq 2003). Iran prepared for 20 years and had a 12-day practice run; main strategy is to target GCC critical infrastructure (petrodollar, desalination, AI investment from Gulf). Cut GCC water (60% from desalination); e.g. Riyadh plant gone and 10M out of water in two weeks. US playing 20th-century conventional game, Iran 21st-century asymmetric; overconfidence from Venezuela success. Trump's personal incentives: Saudi and Adelson money, emergency war powers, third term. Eschatological agenda (secret societies, prophecies, war as script). Regime-change escape routes: ground invasion (GCC may demand troops or $5T; invasion of Iran catastrophic, mountains, 85M, Russia/China arming resistance) or economic collapse of Iran first (unlikely; 40 years sanctions, resistance economy, bombing unifies population).
+
+---
+
+## Full story
+
+Video argues regime change by air power alone has never occurred; technology does not change that. Example: 11 interceptors at one missile cost $11M to $33M versus a $100k missile; scale to thousands and most interceptors still miss. Strategic depth: US assumes sanctions and weak economy make Iran easy; Iran has prepared for war with the US for 20 years (since axis of evil) and had a 12-day conflict as a practice run. Iran's primary strategy is not US bases but GCC critical infrastructure. GCC recycles petrodollars into the US economy and AI investment; destroying GCC collapses the system. Method: cut water; 60% of GCC water is from desalination; destroying Riyadh's plant leaves 10M without water in two weeks. Precision strikes: no regime ever changed by air power alone (e.g. Serbia, Milosevic stayed a year). Technological superiority becomes a liability (cost, risk aversion; asymmetric side outlasts). Shock and awe only works if the enemy fights conventionally; otherwise it is shock and stall (Iraq 2003: quick invasion then 20 years). Iran expected the strikes; assets are distributed and hidden; Iran absorbs shock and strikes back asymmetrically at economic infrastructure and via proxies. US is playing a 20th-century game against Iran's 21st-century asymmetric play. Overconfidence: Venezuela operation (Maduro) made Trump think Iran would be easy; similar to Hitler after early conquests then Soviet disaster. Leaders optimize for personal interest: Saudi $2B to Kushner, Adelson $250M for third term; war helps Trump (money, emergency war powers, delay elections, rally round flag). Eschatological agenda: groups with end-times beliefs (Jesuits, Sebastian Franks, Freemasons); war in Middle East as prophecy; rational cost-benefit then irrelevant. Could regime change still happen? Ground invasion: if US stays committed, GCC may force choice of paying Iran (e.g. $5T) or sending troops; political will may not stop leaders. But invading Iran would be catastrophic (terrain, 85M, Tehran 9M, Russia and China arming resistance, decades, trillions). Economic collapse of Iran first: unlikely; 40 years of sanctions, resistance economy, Russian and Chinese support, and bombing unifies Iran against external threat. YouTube, 2026.

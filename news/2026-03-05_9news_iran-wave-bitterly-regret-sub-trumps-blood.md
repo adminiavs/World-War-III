@@ -1,0 +1,17 @@
+# Iran Launches Wave of Attacks; Bitterly Regret Sub Sinking; Calls for Trump's Blood
+
+**Date:** 2026-03-05  
+**Source:** 9NEWS  
+**URL:** https://www.9news.com.au/world/us-israel-attack-iran-tehran-launches-wave-of-attacks-saying-us-will-bitterly-regret-sub-sinking-calls-for-trumps-blood/d20fe23f-a822-4df7-8c56-bf87511bc746
+
+---
+
+## tl;dr
+
+Iran launched a new wave of attacks at Israel, US bases and countries in the region; threatened the US would "bitterly regret" torpedoing an Iranian warship in the Indian Ocean and a cleric called for "Trump's blood." Foreign Minister Araghchi accused the US Navy of an "atrocity at sea" for sinking IRIS Dena (at least 87 sailors). Ayatollah Abdollah Javadi Amoli on state TV called for the shedding of Israeli and "Trump's blood" (rare clerical call for violence). War has killed 1000+ in Iran, 70+ in Lebanon, about a dozen in Israel; disrupted oil and gas; stranded hundreds of thousands. Drone crashed near airport in Nakhchivan (Azerbaijan); two civilians injured; Iran has not acknowledged targeting Azerbaijan. Qatar evacuated residents near US Embassy in Doha; Saudi destroyed drone; tanker reported explosion off Kuwait (UK Maritime Trade Operations). Iranian ship sunk was returning from February exercise hosted by Indian navy; US Navy also participated with P-8A. Sri Lanka: 32 crew rescued, 87 bodies recovered. Israel hit 80 Hezbollah targets in 24 hours; eight more killed in Lebanon (Beddawi camp, coastal highway, Beirut suburbs). Over 1045 killed in Iran (Foundation of Martyrs); 11 in Israel; six US troops.
+
+---
+
+## Full story
+
+Iran has launched a new wave of attacks at Israel, American bases and countries around the region, threatening that the US would "bitterly regret" torpedoing an Iranian warship in the Indian Ocean and calling for "Trump's blood," while Israel said it hit multiple targets in Iran. Israeli air sirens sounded in Tel Aviv and Jerusalem. Iranian state television said additional strikes targeted US bases. Foreign Minister Abbas Araghchi accused the US Navy of committing an "atrocity at sea" for sinking the Iranian frigate IRIS Dena in the Indian Ocean (at least 87 sailors). "Mark my words: The US will come to bitterly regret the precedent it has set," he said on social media. Ayatollah Abdollah Javadi Amoli later called on state television for the shedding of both Israeli and "Trump's blood" ("Fight the oppressive America, his blood is on my shoulders") in a rare clerical call for violence. The war has killed more than 1000 in Iran, more than 70 in Lebanon and about a dozen in Israel; it has disrupted oil and gas, snarled shipping and stranded hundreds of thousands. A drone crashed near the airport in Nakhchivan (Azerbaijan); two civilians injured; Iran has not acknowledged targeting Azerbaijan. Qatar evacuated residents near the US Embassy in Doha; Saudi said it destroyed a drone; a tanker reported an explosion off Kuwait (UK Maritime Trade Operations). The Iranian ship sunk was returning from a February exercise hosted by the Indian navy (US participated with P-8A). Sri Lankan authorities said 32 crew were rescued and 87 bodies recovered. Israel said it hit 80 Hezbollah targets in 24 hours (including command centres in Beirut); eight more killed in Lebanon in strikes on Beddawi refugee camp, coastal highway and Beirut southern suburbs. Over 1045 killed in Iran (Foundation of Martyrs and Veterans Affairs); 11 in Israel; six US troops.
