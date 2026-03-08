@@ -1,5 +1,7 @@
 # Iran War Research Archive
 
+![Iran War Research Archive 2026](iran%20war%20archive%202026.jpg)
+
 This repository tracks news, analysis, and primary sources related to the US-Israel-Iran war (Operation Epic Fury, February-March 2026) and the long policy history that preceded it.
 
 ---
