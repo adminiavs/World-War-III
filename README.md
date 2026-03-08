@@ -11,7 +11,6 @@ The archive contains:
 - **`news/`** -- News stubs and full articles. Each file has a tl;dr summary, source URL, date, and where available the full article text.
 - **`books/`** -- Companion notes to source books (Ritter, Chomsky/Barsamian) with predictions and analysis.
 - **`updates and predictions/`** -- Day-by-day war summaries and prediction tracking.
-- **`iran_war_news_full_texts.md`** -- Full text collection of 38 news articles retrieved 8 March 2026.
 
 ---
 
