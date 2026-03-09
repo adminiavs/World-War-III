@@ -32,17 +32,28 @@ Jiang's broader argument about middle powers is central to understanding Canada'
 
 Jiang's game theory applies here: Canada is a player with very few moves, caught between a powerful ally it cannot control and a war it cannot stop. The rational move is to say as little as possible while preparing for the economic consequences.
 
-Jiang also made a broader prediction about what the war means for the world order. He argued that if the US loses or becomes bogged down in Iran, the world becomes multipolar -- and middle powers like Canada will need to find new security arrangements. His March 2025 lecture explicitly described a post-American world in which countries like Canada would need to align with regional blocs rather than rely on a single superpower. Carney's Davos speech -- "Nostalgia is not a strategy; stop invoking a rules-based international order as though it still functions as advertised" -- reads like Jiang's argument translated into the language of a G7 leader.
+Jiang also made a broader prediction about what the war means for the world order.
+He argued that if the US loses or becomes bogged down in Iran, the world becomes multipolar -- and middle powers like Canada will need to find new security arrangements.
+His March 2025 lecture explicitly described a post-American world in which countries like Canada would need to align with regional blocs rather than rely on a single superpower.
+Carney's Davos speech -- "Nostalgia is not a strategy; stop invoking a rules-based international order as though it still functions as advertised" -- reads like Jiang's argument translated into the language of a G7 leader.
 
 ### Noam Chomsky (2006-2007)
 
 Chomsky had specific things to say about Canada in *Targeting Iran* (2007) and *What We Say Goes* (2007):
 
-1. **The US has alienated Canada.** Chomsky noted that the US under Bush had managed to alienate even Canada -- "they just told them to get lost" -- over NAFTA disputes and sovereignty issues. The pattern he described (the US treating allies as subordinates and expecting compliance) is visible again under Trump, who has threatened tariffs on Canada, floated annexation, and made Carney's diplomatic life very difficult.
+1. **The US has alienated Canada.** Chomsky noted that the US under Bush had managed to alienate even Canada -- "they just told them to get lost" -- over NAFTA disputes and sovereignty issues. The pattern he described (the US treating allies as subordinates and expecting compliance) is visible again under Trump,
+ who has threatened tariffs on Canada, floated annexation, and made Carney's diplomatic life very difficult. who has threatened tariffs on Canada, floated annexation, and made Carney's diplomatic life very difficult.
 
-2. **Canada as an energy provider.** Chomsky noted that Canada is "one of the major energy providers to the United States." This gives Canada a different economic position from most US allies in the Iran war. While countries like Australia and Japan are hurt by high oil prices (they import oil), Canada's oil sands and energy sector actually benefit from elevated prices. This creates a split interest: Canada's government opposes the war diplomatically, but parts of its economy profit from the oil spike the war has caused.
 
-3. **Allies drawn in "defensively."** Chomsky predicted that allied countries would be drawn into the war under the label of "defensive" operations, even if they disagreed with the offensive. Canada has so far resisted this pull more successfully than Australia or the UK, but Defence Minister McGuinty's statements -- "Canada was not involved, not consulted, not providing support" -- may not hold if the war escalates and Trump applies pressure.
+
+2. **Canada as an energy provider.** Chomsky noted that Canada is "one of the major energy providers to the United States." This gives Canada a different economic position from most US allies in the Iran war.
+While countries like Australia and Japan are hurt by high oil prices (they import oil), Canada's oil sands and energy sector actually benefit from elevated prices. This creates a split interest: Canada's government opposes the war diplomatically, but parts of its economy profit from the oil spike the war has caused.
+
+
+3. **Allies drawn in "defensively."** Chomsky predicted that allied countries would be drawn into the war under the label of "defensive" operations, even if they disagreed with the offensive.
+Canada has so far resisted this pull more successfully than Australia or the UK, but Defence Minister McGuinty's statements -- "Canada was not involved, not consulted, not providing support" -- may not hold if the war escalates and Trump applies pressure.
+
+
 
 ### Ron Paul (2006)
 
@@ -92,7 +103,9 @@ Carney has positioned Canada and Australia as "strategic cousins" -- middle powe
 
 ### Short term (Week 2, March 10-14)
 
-- **Pressure from Trump.** If the war escalates and casualties mount, Trump will pressure allies to contribute more. Canada is a NATO member and a Five Eyes partner. Trump has already publicly criticised the UK for insufficient support and threatened Spain with trade sanctions. Canada -- which Trump has previously threatened with annexation rhetoric, tariffs, and economic pressure -- is an obvious target for similar treatment.
+- **Pressure from Trump.** If the war escalates and casualties mount, Trump will pressure allies to contribute more. Canada is a NATO member and a Five Eyes partner.
+Trump has already publicly criticised the UK for insufficient support and threatened Spain with trade sanctions. Canada -- which Trump has previously threatened with annexation rhetoric, tariffs, and economic pressure -- is an obvious target for similar treatment.
+
 
 - **The "can't rule it out" problem.** Carney's refusal to rule out military participation leaves the door open. If Gulf states escalate their requests for help, or if a NATO article is invoked in connection with the conflict, Canada could be pulled in further. Each step is small; the cumulative direction is toward involvement.
 
@@ -100,19 +113,30 @@ Carney has positioned Canada and Australia as "strategic cousins" -- middle powe
 
 ### Medium term (March 15-31)
 
-- **The middle-power bloc.** Carney's "strategic cousins" pitch to Australia could expand. If the war continues, countries like Canada, Australia, Germany, France, Japan and South Korea -- all US allies, all uneasy about the war, all unable to stop it -- may begin coordinating more actively on de-escalation, humanitarian response, and economic hedging. This is the world Jiang described: the post-American order forming not after the war ends, but during it.
+- **The middle-power bloc.** Carney's "strategic cousins" pitch to Australia could expand. If the war continues, countries like Canada, Australia, Germany, France, Japan and South Korea -- all US allies, all uneasy about the war, all unable to stop it -- may begin coordinating more actively on de-escalation, humanitarian response, and economic hedging.
+This is the world Jiang described: the post-American order forming not after the war ends, but during it.
 
-- **The Xi-Trump summit.** A late-March summit is expected. Canada has been visiting Beijing -- Carney is among the leaders who have met Xi recently to diversify markets away from the US (CBC). If China brokers or facilitates a de-escalation, Canada's early diplomatic positioning (supporting strikes but insisting on legality and de-escalation) will look prescient. If the war escalates, Canada will face harder choices.
 
-- **Rare earth and supply chain diversification.** The Japan-France-Canada rare earth initiative is a concrete step toward reducing dependence on US-led economic structures. This is consistent with Chomsky's long-term prediction that US aggression would push allies toward alternative arrangements, and with Jiang's prediction that the war would accelerate the shift to a multipolar world.
+- **The Xi-Trump summit.** A late-March summit is expected. Canada has been visiting Beijing -- Carney is among the leaders who have met Xi recently to diversify markets away from the US (CBC).
+If China brokers or facilitates a de-escalation, Canada's early diplomatic positioning (supporting strikes but insisting on legality and de-escalation) will look prescient. If the war escalates, Canada will face harder choices.
+
+
+- **Rare earth and supply chain diversification.** The Japan-France-Canada rare earth initiative is a concrete step toward reducing dependence on US-led economic structures.
+This is consistent with Chomsky's long-term prediction that US aggression would push allies toward alternative arrangements, and with Jiang's prediction that the war would accelerate the shift to a multipolar world.
+
 
 ### Longer term
 
-- **If troops go in.** Jiang's ground invasion scenario would create pressure on NATO allies to contribute. Canada sent troops to Afghanistan for over a decade. The political and institutional channels for Canadian military participation already exist. The question is whether Carney's "not a blank cheque" holds under real pressure, or whether it follows the same path Chomsky described: allies protest privately, comply publicly, and participate "defensively" until the distinction between defence and offence disappears.
+- **If troops go in.** Jiang's ground invasion scenario would create pressure on NATO allies to contribute. Canada sent troops to Afghanistan for over a decade. The political and institutional channels for Canadian military participation already exist.
+The question is whether Carney's "not a blank cheque" holds under real pressure, or whether it follows the same path Chomsky described: allies protest privately, comply publicly, and participate "defensively" until the distinction between defence and offence disappears.
 
-- **The petrodollar question.** Jiang argued that the war could collapse the petrodollar system. For Canada -- a major oil exporter that trades in US dollars -- this would have profound consequences. If Gulf states switch to other currencies or if the dollar's dominance weakens, Canada's energy revenues and US trade relationship would both be affected. Canada's interest in diversifying trade (the Carney-Xi meetings, the rare earth bloc, the "strategic cousins" pitch to Australia) suggests Ottawa is already hedging against this scenario.
 
-- **Canada's identity crisis.** Chomsky's observation from 2007 -- that the US had "alienated Canada" by treating it as a subordinate -- has deepened under Trump. Canada is being forced to answer a fundamental question: is it an American ally that follows where the US leads, or is it an independent middle power that makes its own decisions? The Iran war is accelerating that question. Carney's "nostalgia is not a strategy" is an answer, but it is an answer that has not yet been tested by real pressure.
+- **The petrodollar question.** Jiang argued that the war could collapse the petrodollar system. For Canada -- a major oil exporter that trades in US dollars -- this would have profound consequences. If Gulf states switch to other currencies or if the dollar's dominance weakens, Canada's energy revenues and US trade relationship would both be affected.
+Canada's interest in diversifying trade (the Carney-Xi meetings, the rare earth bloc, the "strategic cousins" pitch to Australia) suggests Ottawa is already hedging against this scenario.
+
+
+- **Canada's identity crisis.** Chomsky's observation from 2007 -- that the US had "alienated Canada" by treating it as a subordinate -- has deepened under Trump. Canada is being forced to answer a fundamental question: is it an American ally that follows where the US leads, or is it an independent middle power that makes its own decisions?
+The Iran war is accelerating that question. Carney's "nostalgia is not a strategy" is an answer, but it has not yet been tested by real pressure.
 
 ---
 

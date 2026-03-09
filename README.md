@@ -34,9 +34,7 @@ Each item in `news/` and `transcripts/` should include, in this order:
 
 Filenames: `YYYY-MM-DD_source_short-title.md` (lowercase, hyphens). If the exact date is unknown, use `undated_source_short-title.md`. When the same story appears from multiple sources, save each as a separate document and cross-reference in tags or notes.
 
-**Stubs:** News items without full article text are listed in `news/STUBS_WITHOUT_FULL_ARTICLE_URLS.md` with their source URLs. Regenerate that list with `./scripts/regenerate-stubs.sh` from the repo root.
-
-**Lint:** Run `./scripts/lint-archive.sh` to check that each item in `news/` and `transcripts/` has the required fields (title, **Date:**, **Source:**, **URL:**, ## tl;dr) and that filenames follow the convention. Some older files may not pass; fix or add exceptions as needed.
+**Stubs:** News items without full article text are listed in `news/STUBS_WITHOUT_FULL_ARTICLE_URLS.md` with their source URLs.
 
 ---
 
