@@ -42,7 +42,7 @@ Filenames: `YYYY-MM-DD_source_short-title.md` (lowercase, hyphens). If the exact
 
 ## Predictions Made Before the War
 
-### Rep. Ron Paul -- April 6, 2006
+### Rep. Ron Paul -- April 6, 2006 — **Accuracy: 7/7 confirmed or tracking (100%)**
 
 **Source:** [Speech to the US House of Representatives](https://www.mohammadmossadegh.com/news/ron-paul/iran-the-next-neocon-target/)
 
@@ -60,7 +60,7 @@ Paul warned Congress nearly two decades before the war. Key predictions:
 
 ---
 
-### Noam Chomsky -- 2006-2007
+### Noam Chomsky -- 2006-2007 — **Accuracy: 8/8 confirmed or tracking (100%)**
 
 **Sources:**
 - *What We Say Goes* (Metropolitan Books, 2007) -- interviews Feb 2006 to Mar 2007
@@ -81,7 +81,7 @@ Chomsky's key predictions and warnings across both books:
 
 ---
 
-### Ervand Abrahamian (*Targeting Iran*, 2007)
+### Ervand Abrahamian (*Targeting Iran*, 2007) — **Accuracy: 3/3 tracking (100%)**
 
 | Prediction | Made | Status |
 |---|---|---|
@@ -91,7 +91,7 @@ Chomsky's key predictions and warnings across both books:
 
 ---
 
-### Scott Ritter -- *Target Iran* (2006)
+### Scott Ritter -- *Target Iran* (2006) — **Accuracy: 6/6 confirmed or tracking (100%)**
 
 **Source:** *Target Iran: The Truth About the White House's Plans for Regime Change* (Nation Books, 2006)
 
@@ -106,7 +106,50 @@ Chomsky's key predictions and warnings across both books:
 
 ---
 
-### Professor Jiang -- Pre-war lectures (~April-July 2024, roughly two years before the war)
+### Dan Kovalik -- *The Plot to Attack Iran* (2018) — **Accuracy: 18/30 confirmed (60%), 28/30 confirmed or tracking (93%), 0 wrong**
+
+**Source:** *The Plot to Attack Iran: How the CIA and the Deep State Have Conspired to Vilify Iran* (Skyhorse Publishing, 2018)
+
+Writing a decade after Ritter and Chomsky, Kovalik had the advantage of watching the JCPOA, the Bolton/Pompeo appointments, and the Trump withdrawal from the nuclear deal. He synthesized these into a detailed prediction of how the war would be manufactured, justified, and fought. His central thesis: the war with Iran was not a possibility but a plot -- a multi-administration conspiracy using manufactured intelligence, proxy wars, economic warfare, and deliberate provocation to create the conditions for an attack that would leave Iran ruined, the Middle East shattered, and American power diminished.
+
+| Prediction | Made | Status (Day 10) |
+|---|---|---|
+| The US and Israel have been preparing for war with Iran for over a decade | 2018 | **Confirmed** -- Operation Epic Fury launched 28 Feb 2026 |
+| JCPOA was a "Trojan Horse" to strip Iran's deterrence, leaving it vulnerable to attack | 2018 | **Confirmed** -- Trump withdrew; war launched; Iran had no bomb |
+| Same Iraq playbook: manufactured intelligence, false casus belli (Wilkerson cited) | 2018 | **Confirmed** -- "nuclear threat" narrative; IAEA found no weapon; no UN authorisation |
+| Media blackout of Khamenei's anti-nuke fatwa and the 2003 NIE (16 agencies: no weapons program) | 2018 | **Confirmed** -- neither fact appeared in mainstream war justification |
+| Trump's moves against the deal were a prelude to war, continuation of Bush/Obama policy | 2018 | **Confirmed** -- war occurred under Trump after decades of pressure across administrations |
+| Bolton/Pompeo placement guaranteed conflict; diplomacy abandoned | 2018 | **Confirmed** -- Bolton was NSA; hawkish appointments continued; war followed |
+| War would be 10-15x worse than Iraq (Wilkerson: 10-15 million dead, $20-30 trillion) | 2018 | **Tracking** -- 12+ countries, $10B+, 1,400+ dead in 10 days; scale consistent |
+| Iran not easy to crush; strategic depth and mountainous terrain make quick war impossible | 2018 | **Confirmed** -- decapitation did not end war; military pre-planned; Etemad missile mid-war |
+| Hezbollah/regional fronts part of opening phase (2006 Lebanon as "opening salvo") | 2018 | **Confirmed** -- Lebanon hit day one; 394+ dead; Hezbollah 13 ops/day by day 10 |
+| US would first weaken Iran's allies (Syria, Lebanon) through proxy wars before direct attack | 2018 | **Confirmed** -- Syria gutted by civil war; Hezbollah degraded; then Iran attacked |
+| Sanctions + covert destabilization + MEK/Jundallah before open war | 2018 | **Confirmed** -- decades of sanctions, MEK support, covert ops preceded the attack |
+| Hostile US policy would strengthen hardliners, not moderates | 2018 | **Confirmed** -- Mojtaba Khamenei (hardliner) chosen; Pezeshkian marginalised; no uprising |
+| Iran feared ruin like Iraq/Afghanistan/Libya | 2018 | **Tracking** -- Tehran oil depots burning; desalination hit; internet at 1%; ruin underway |
+| Yemen used as primary venue to manufacture casus belli ("Iran-backed Houthis") | 2018 | **Confirmed** -- Houthi actions framed as Iranian aggression; Yemen part of war theatre |
+| US would provoke repression then use it as moral pretext (Chomsky cited) | 2018 | **Confirmed** -- sanctions-driven hardship preceded war; "freedom" framing used |
+| Syrian flashpoint involving Israel would spark regional war (Golan, Iranian drones) | 2018 | **Confirmed** -- Israel struck Iran simultaneously; Syria in war theatre from day one |
+| "Creative destruction" -- destroy Middle East oil capacity or turn it into US oil refinery | 2018 | **Tracking** -- Gulf oil infrastructure targeted; 20m b/d off market; US alternative supplier |
+| US would reject all diplomatic grand bargains (2003 offer cited) | 2018 | **Confirmed** -- Oman diplomacy failed; Trump demanded unconditional surrender |
+| Crime of self-defense: Iranian retaliation branded "unprovoked aggression" (Article 51 ignored) | 2018 | **Confirmed** -- UAE: "brutal and unjustified Iranian aggression"; context stripped |
+| White House would "cook" intelligence to fabricate case for war | 2018 | **Confirmed** -- NIC leak (Feb 2026) contradicted war claims; no weapon existed |
+| Kurdish proxy front | 2018 | **Confirmed** -- Trump backed Kurdish offensive day 5; CIA arming militias |
+| No democracy will be installed; Shah/Pinochet/Libya model | 2018 | **Tracking** -- zero nation-building plans; infrastructure destroyed; Libya pattern |
+| Humanitarian Imperialism: weaponise liberal/feminist ideology to sell war | 2018 | **Tracking** -- "freedom" and "security" language; one-sided Iran portrayals |
+| Operation Ajax 2.0: sanctions crush economy, inject agitators, provoke crackdown as pretext | 2018 | **Partial** -- sanctions-to-pretext pipeline confirmed; mid-war agitation not visible |
+| Salvador Option: MEK + Jundallah for assassinations and bombings inside Iran | 2018 | **Partial** -- MEK/Bolton alliance confirmed; Israeli scientist assassinations documented |
+| ISIS/al-Qaeda allowed to survive as proxy to bleed Iran ("slow burn") | 2018 | **Tracking** -- ISIS not eliminated; regional instability creates resurgence conditions |
+| Saudi nuclear arms race if JCPOA scrapped | 2018 | **Tracking** -- JCPOA scrapped; MBS warned he would seek nukes; proliferation risk live |
+| Ethnic separatists (Baluchis, Kurds, Arabs) used to fracture Iran from within | 2018 | **Partial** -- Kurdish front active; broader ethnic fracture not yet visible |
+| Nuclear weapons planning (Bush-era tactical nuke plans cited) | 2018 | **Tracking** -- E6B Mercury deployed to Gulf; Trump: "everything on the table" |
+| War truly devastating "for both Iran and the United States, and, indeed, for the entire world" | 2018 | **Tracking** -- global oil shock; food/fertiliser crisis; stock market crashes; 12+ countries |
+
+**Kovalik's scorecard: 18 confirmed, 10 tracking/partial, 2 not yet testable, 0 wrong.**
+
+---
+
+### Professor Jiang -- Pre-war lectures (~April-July 2024, roughly two years before the war) — **Accuracy: ~85% confirmed or tracking, 0 wrong**
 
 **Sources:**
 - [Operation True Promise / asymmetric warfare lecture](https://www.youtube.com/watch?v=xEEpOxqdU5E) (~April 2024)
@@ -284,7 +327,9 @@ The broad picture across all five voices is strikingly consistent:
 
 9. **Allies drawn in "defensively".** France, UK, Greece, Italy, Spain, Australia all deployed assets in defensive roles despite opposing the offensive -- exactly the pattern Chomsky described.
 
-10. **Jiang's pre-war framework validated.** Across lectures spanning two years and one year before the war, Jiang predicted: Trump would win and start the war; it would be framed around nuclear weapons, shipping, and ally protection; asymmetric warfare (cheap drones vs expensive interceptors) would make the war economically unwinnable for the US; GCC states would be struck and exposed as indefensible; the petrodollar system would come under threat; and Iran's strategy would be to absorb strikes and outlast the US. One year before the war, he laid out the exact scenario: "Operation Iranian Freedom," five specific justifications, a coalition of the same countries now involved, the ground invasion trap (encirclement, supply line failure, sunk cost), and the game theory showing all parties wanting the invasion for different reasons. Every major structural prediction has tracked.
+10. **Kovalik's "plot" thesis confirmed.** Writing in 2018 with the benefit of watching the JCPOA, Bolton's appointment, and the Trump withdrawal, Kovalik argued the war was not a possibility but a multi-administration conspiracy. Of his 30 specific predictions, 18 (60%) have been directly confirmed and 28 (93%) are confirmed or actively tracking. He correctly predicted: the JCPOA would function as a trap to strip deterrence; the same Iraq playbook (manufactured intelligence, media blackout of contrary evidence); the sequential dismantling of Iran's allies before direct attack; the crime-of-self-defense framing (retaliation branded "unprovoked aggression"); the strengthening of hardliners; the Kurdish proxy front; the rejection of all diplomatic off-ramps; and the "creative destruction" of Gulf oil and water infrastructure. None of his 30 predictions have been contradicted by events.
+
+11. **Jiang's pre-war framework validated.** Across lectures spanning two years and one year before the war, Jiang predicted: Trump would win and start the war; it would be framed around nuclear weapons, shipping, and ally protection; asymmetric warfare (cheap drones vs expensive interceptors) would make the war economically unwinnable for the US; GCC states would be struck and exposed as indefensible; the petrodollar system would come under threat; and Iran's strategy would be to absorb strikes and outlast the US. One year before the war, he laid out the exact scenario: "Operation Iranian Freedom," five specific justifications, a coalition of the same countries now involved, the ground invasion trap (encirclement, supply line failure, sunk cost), and the game theory showing all parties wanting the invasion for different reasons. Every major structural prediction has tracked.
 
 ---
 
@@ -294,6 +339,7 @@ The broad picture across all five voices is strikingly consistent:
 - Noam Chomsky and David Barsamian, *What We Say Goes* (Metropolitan Books, 2007)
 - David Barsamian, Noam Chomsky et al., *Targeting Iran* (City Lights Books, 2007)
 - Scott Ritter, *Target Iran* (Nation Books, 2006)
+- Dan Kovalik, *The Plot to Attack Iran* (Skyhorse Publishing, 2018)
 - Professor Jiang pre-war lectures (~2 years before, YouTube, ~April-July 2024):
   - [Operation True Promise / asymmetric warfare](https://www.youtube.com/watch?v=xEEpOxqdU5E)
   - [Raisi death / game theory / IRGC](https://www.youtube.com/watch?v=LsRGvKxfLts)
@@ -313,6 +359,7 @@ See also:
 - `books/RITTER_TARGET_IRAN_COMPANION.md`
 - `books/CHOMSKY_WHAT_WE_SAY_GOES_COMPANION.md`
 - `books/BARSAMIAN_TARGETING_IRAN_COMPANION.md`
+- `books/KOVALIK_PLOT_TO_ATTACK_IRAN_COMPANION.md`
 - `news/2006-04-06_ronpaul_iran-next-neocon-target-house-speech.md`
 - `news/2026-03-07_youtube_professor-jiang-iran-wwiii-greater-israel.md`
 - `transcripts/2026-03-07_youtube_professor-jiang-iran-wwiii-greater-israel-transcript.md` -- full verbatim transcript of 7 Mar 2026 podcast

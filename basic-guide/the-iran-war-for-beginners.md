@@ -58,6 +58,28 @@ Three voices stand out because they made specific, testable predictions -- and g
 
 **The core of Chomsky's teaching:** The world is not divided into good guys and bad guys the way the news presents it. It is divided into countries that follow American orders and countries that do not. Countries that follow orders get called "allies" and "democracies" (even if they are dictatorships, like Saudi Arabia). Countries that refuse get called "threats" and "rogue states." The rules of international law are applied to enemies and ignored when they get in the way of what powerful countries want to do. This is not a conspiracy theory -- it is a pattern you can track by reading the public record. Chomsky's method is simple: compare what governments say with what they actually do, and read the documents they publish.
 
+### Dan Kovalik (2018) — 60% confirmed, 93% confirmed or tracking, 0% wrong
+
+**Who is he?** An American lawyer, author and human rights activist. In 2018 he published *The Plot to Attack Iran*, arguing that the US and Israel had been conspiring for years to manufacture a war with Iran using the same playbook as Iraq.
+
+**What was he saying?** Kovalik's argument goes further than the others: the war with Iran was not just likely, it was being deliberately engineered. He traced the "plot" from the CIA's 1953 coup in Iran through the JCPOA nuclear deal (which he called a "Trojan Horse" designed to strip Iran's defences) to the appointment of war hawks like John Bolton and Mike Pompeo. His central claim: the US was following a step-by-step plan to manufacture the justification for war, weaken Iran through proxy wars and sanctions, and then attack.
+
+**His key predictions in plain English:**
+
+- The JCPOA nuclear deal was a trap: it would strip away Iran's nuclear deterrent, leaving it vulnerable, and then the US would withdraw from the deal and attack. This is exactly what happened.
+- The US would use the same playbook as Iraq: manufacture intelligence, suppress contrary evidence (like the IAEA finding no bomb program and Khamenei's religious ruling against nuclear weapons), and use the media to push a false narrative.
+- Before attacking Iran directly, the US would first destroy Iran's allies -- Hezbollah in Lebanon and Assad in Syria -- through proxy wars. Only after dismantling the "axis of resistance" would the US move on Iran itself.
+- The real goal was not just regime change but the "creative destruction" of the entire Middle East -- destroying its oil capacity so the world would depend on American fossil fuels.
+- When Iran fought back, its self-defence would be branded "unprovoked aggression" -- what Kovalik called the "crime of self-defence." Any country America targets is not allowed to fight back.
+- The US would use Kurdish, Baluchi and Arab separatist groups to fracture Iran from within, and would fund terrorist proxies like the MEK for assassinations and bombings inside Iran.
+- Sanctions were designed to crush Iran's economy, provoke the government into repression, and then use that repression as the moral justification for military attack -- a rerun of the CIA's 1953 coup playbook.
+- The war would be catastrophic: 10-15 times worse than Iraq, potentially 10-15 million dead and $20-30 trillion in costs.
+- No democracy would be installed. Based on the US track record (Shah in 1953, Pinochet in Chile, Libya in 2011), the US would either install a dictator or leave Iran in stateless ruin.
+
+**Why he matters now:** Of his 30 specific predictions, 18 have been directly confirmed by events in the first 10 days of the war. Another 10 are actively tracking. None have been contradicted. His 2018 book reads like a blueprint for what happened in February-March 2026.
+
+---
+
 ### Professor Jiang (2024-2026)
 
 **Who is he?** A high school teacher who taught a class on game theory and geopolitics. His lectures were recorded and uploaded to YouTube on a channel called "Predictive History." He started teaching about a potential Iran war roughly two years before it happened, and his predictions have been remarkably accurate.
@@ -107,6 +129,26 @@ Here is a timeline showing when each prediction was made and when it came true.
 | European countries drawn in defensively | Chomsky | 2006-07 | UK, France, Germany deploying in defensive roles; UK allowing RAF bases for "defensive strikes"; France demanding Iran halt strikes | Mar 2026 |
 | Oil shock will cause food and fertiliser crisis | Chomsky | 2006-07 | Fertiliser prices surging; Hormuz handles a third of global fertiliser trade; food shock warnings issued | Mar 2026 |
 | War will be paid for by hidden inflation tax on the poor | Paul | 2006 | Gas prices at highest of either Trump term; diesel up 15% in one week; war costing $1 billion/day; Trump calls it "a little glitch" | Mar 2026 |
+
+### Predictions made in 2018 (eight years before the war) — Dan Kovalik, *The Plot to Attack Iran* — **60% confirmed, 93% tracking**
+
+| What he said | When he said it | What actually happened | When it happened |
+|---|---|---|---|
+| The JCPOA was a "Trojan Horse" to strip Iran's deterrence, leaving it vulnerable to attack | 2018 | Trump withdrew from deal; war launched; Iran had no bomb; IAEA confirmed | Feb 2026 |
+| Same Iraq playbook: manufactured intelligence, media blackout of contrary evidence | 2018 | "Nuclear threat" narrative; 2003 NIE and Khamenei fatwa absent from coverage; no UN authorisation | Feb 2026 |
+| US would first destroy Iran's allies (Syria, Hezbollah) before attacking Iran directly | 2018 | Syria gutted by civil war; Hezbollah degraded; then Iran attacked | 2011-2026 |
+| Bolton/Pompeo placement guaranteed conflict; diplomacy abandoned | 2018 | Bolton was NSA; hawkish appointments continued; war followed | 2018-2026 |
+| Iran not easy to crush; strategic depth and mountainous terrain | 2018 | Decapitation did not end war; military pre-planned; Etemad missile deployed mid-war | Mar 2026 |
+| Hezbollah and regional fronts part of the opening phase | 2018 | Lebanon hit day one; 394+ dead in week one; Hezbollah 13 operations per day | Feb-Mar 2026 |
+| Hostile US policy would strengthen hardliners, not moderates | 2018 | Mojtaba Khamenei (most hardline option) chosen as successor; no uprising; population unified | Mar 2026 |
+| Iranian retaliation would be branded "unprovoked aggression" ("crime of self-defence") | 2018 | UAE: "brutal and unjustified Iranian aggression"; context of US first strike stripped from coverage | Mar 2026 |
+| US would reject all diplomatic off-ramps; peace doesn't serve the military-industrial complex | 2018 | Oman diplomacy failed; Trump demanded unconditional surrender and right to choose Iran's leader | Mar 2026 |
+| "Creative destruction" -- destroy Middle East oil capacity | 2018 | Tehran oil depots struck; Gulf infrastructure targeted; 20m b/d off market | Mar 2026 |
+| Kurdish proxy front to fracture Iran from within | 2018 | Trump backed Kurdish offensive day 5; CIA arming militias in Erbil | Mar 2026 |
+| War would be 10-15x worse than Iraq (10-15 million dead, $20-30 trillion) | 2018 | 12+ countries, $10B+ in 10 days, Hormuz closed, 1,400+ dead; trajectory matching | Ongoing |
+| White House would "cook" intelligence (Wilkerson cited) | 2018 | NIC leak (Feb 2026) contradicted war claims; war launched on fabricated premise | Mar 2026 |
+
+---
 
 ### Predictions made in 2024 (two years before the war)
 
@@ -177,13 +219,13 @@ Based on the track record of these predictions so far, here is what the evidence
 
 ### The bigger picture
 
-The most important thing to understand is that this war is not a surprise to anyone who was paying attention. Three separate groups of people -- a Republican congressman in 2006, a world-renowned MIT professor in 2007, and a high school teacher in 2024 -- all independently reached the same conclusion: the United States was going to attack Iran, it was going to use the same arguments it used for Iraq, and it was going to go badly.
+The most important thing to understand is that this war is not a surprise to anyone who was paying attention. Four separate people -- a Republican congressman in 2006, a world-renowned MIT professor in 2007, a human rights lawyer in 2018, and a high school teacher in 2024 -- all independently reached the same conclusion: the United States was going to attack Iran, it was going to use the same arguments it used for Iraq, and it was going to go badly.
 
 They were right about the war happening. They were right about the oil shock. They were right about the Strait of Hormuz. They were right about Congress not stopping it. They were right about the hardliners getting stronger. They were right about the Gulf countries being vulnerable. They were right about the coalition. They were right about the munitions running out.
 
 The predictions that have not yet come true -- ground troops becoming hostages, nuclear threats, the dollar being damaged, the war being worse than Iraq -- are all trending in the direction they described.
 
-None of these people had secret information. Ron Paul read the public statements of the people advocating for war and took them at their word. Chomsky read declassified documents and compared what governments said with what they did. Jiang read military doctrine, studied game theory, and applied it to the players involved.
+None of these people had secret information. Ron Paul read the public statements of the people advocating for war and took them at their word. Chomsky read declassified documents and compared what governments said with what they did. Kovalik traced the policy papers, appointments, and proxy wars that constituted the "plot" in plain sight. Jiang read military doctrine, studied game theory, and applied it to the players involved.
 
 The lesson is not that these three people are unusually brilliant (though they may be). The lesson is that the information was available to anyone. The pattern was visible. The warnings were public. The war happened anyway.
 
@@ -231,6 +273,9 @@ Gulf countries have almost no natural fresh water. They get their drinking water
 **Noam Chomsky's books:**
 - *What We Say Goes* (Metropolitan Books, 2007)
 - *Targeting Iran* (City Lights Books, 2007)
+
+**Dan Kovalik's book:**
+- *The Plot to Attack Iran: How the CIA and the Deep State Have Conspired to Vilify Iran* (Skyhorse Publishing, 2018) -- 60% of predictions confirmed in 10 days, 93% confirmed or tracking, 0% wrong
 
 **Professor Jiang's lectures (YouTube channel "Predictive History"):**
 - [Asymmetric warfare and Iran strategy](https://www.youtube.com/watch?v=xEEpOxqdU5E) (~April 2024)
