@@ -1,0 +1,27 @@
+# ASX near 4% fall, oil $111, Strait of Hormuz closure – market impact and stagflation risk
+
+**Date:** 2026-03-09  
+**Source:** YouTube (TV segment, likely Australian broadcast)  
+**URL:** https://www.youtube.com/watch?v=0aVAGZ-O94o  
+**Speaker:** Michael (likely Michael Janda, ABC or similar business correspondent)  
+**Content type:** transcript (video)  
+**Region/country:** Australia, Asia, global markets  
+**Tags:** asx, oil-prices, brent, hormuz, stagflation, japan, korea, trump, central-banks, lng, storage
+
+## tl;dr
+
+TV segment on the morning of Monday 9 March: ASX 200 close to a 4% fall, biggest since Trump’s “liberation day” tariffs. Nikkei down 6.1%; steep falls across the region. Japan, Europe and Korea especially vulnerable to energy supply restrictions. US markets fell 1.3% Friday; US futures pointing to ~1.8% decline at open. Australian falls larger than futures implied. Brent crude rose more than 20% at one point, peaked at $111, still ~18% higher near $109. On the ASX, 192 of the top 200 stocks in the red before midday; only seven higher, all energy producers. Bloomberg commodity index above the peak seen after Russia’s invasion of Ukraine. Economists warn: if oil stays at these levels for many months, global growth could be ~0.6% lower and inflation ~1% higher. Iraq has virtually ceased southern oil field production (can’t ship, storage full); UAE and Kuwait cutting production as storage fills; major LNG facilities in the region scaling back and preparing to shut. Stagflation fears: US jobs data Friday (fall in non-farm payrolls, rise in unemployment) spooked markets; central banks “snookered” – can’t cut rates into surging energy-driven inflation while economies are struggling. Investors had traded on “Trump always chickens out”; now spooked he may not with Iran – “in it for the long haul” – and Strait of Hormuz could be closed for many weeks. Once the Strait is closed, storage fills, production is dialed back; even after any resolution it could take many weeks or months to restore full production because oil fields and LNG plants can’t be switched back on overnight.
+
+## Transcript (summary / key quotes
+
+- “We’re pretty close to that 4% fall on the ASX 200. A very substantial drop, the biggest one since Donald Trump introduced his so-called liberation day tariffs.”
+- “Australia is not alone. The Nikkei is also down 6.1% in Japan. Pretty steep falls around the region. Countries like Japan and also areas like Europe are particularly vulnerable to restrictions in energy supplies. Korea also heavily affected by those reductions in oil output from the Middle East.”
+- “US markets fall 1.3% on Friday. US futures pointing to about a 1.8% decline when it opens tonight. But the falls in the real Australian market have been much bigger than the futures implied.”
+- “Brent crude oil rise by more than 20% at one point, peaking at $111 a barrel. Still about 18% higher, close to $109 a barrel.”
+- “On the Australian market, almost all of the market is down. 192 of the top 200 stocks were in the red just before midday. Only seven were higher and all of those were energy producers.”
+- “Bloomberg index of commodity prices rise to a peak that’s now above the level we saw after Russia invaded Ukraine. Market pricing in the risk that energy prices will remain above these $100 a barrel levels.”
+- “Some economists warning that if they remain this high persistently for many months we could see global growth fall by 0.6% this year compared to what it would be otherwise and inflation 1% higher.”
+- “Iraq virtually cease production in its southern oil fields because it can’t ship the oil and storage is filling up. UAE and Kuwait also cut production as their storage facilities fill up. The longer the Strait of Hormuz is closed, the more energy producers will have to cut back. Major LNG facilities in the region scale back production and prepare to shut down because they can’t ship the output.”
+- “Concerns in the US about stagflation. Figures on Friday about jobs – a fall in US non-farm payrolls and a rise in the unemployment rate. Lower economic growth and increasing unemployment hitting against rising inflation – central banks snookered. They can’t cut rates into surging inflation driven by energy prices, but at the same time economies may be struggling.”
+- “Analysts: how far the market could sell off depends how long the strait is closed. Comments like Donald Trump’s are really spooking investors because it doesn’t sound like he’s backing down. Since the Trump tariffs, the trade was ‘Trump always chickens out’ – but investors seem suddenly spooked that this may not be the case with Iran, that Trump’s in it for the long haul, and that the Strait of Hormuz could be closed for many weeks, and facilities could take months if not longer to recover to full production.”
+- “How long could this volatility last? Depends how long the conflict lasts and how wide it spreads. The real panic is now that we’ve seen oil and gas production facilities being hit and the Strait of Hormuz effectively closed because it’s now too expensive to insure ships transiting through. As long as the strait remains closed, storage fills up, there’s no way to ship oil and gas out, production gets dialed back – and even if everything resolved, it will take many weeks and potentially months to return to full production because once you shut down oil fields and particularly LNG facilities, you can’t just switch them back on overnight.”
