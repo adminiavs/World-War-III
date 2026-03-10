@@ -151,3 +151,59 @@ The Asia Times (Emmott) argument cuts through this: **what Trump says matters le
 Whether the oil market's trust in Trump's "very complete" holds through this week. If Iran continues strikes at day-10 pace and more Gulf infrastructure burns, the $119 spike returns and the pressure on Trump to either escalate (troops) or find a genuine exit (deal) becomes acute. The G7 has its finger on 1.8 billion barrels of strategic reserve — but French FM Lescure said on Monday: "we are not there yet." That statement cannot remain true for long if the war continues.
 
 The Pakistan story may be the leading indicator nobody is watching: a nuclear state with no food and fuel sovereignty, closing its schools and cutting its cabinet's salaries, three weeks into a war it had no role in starting. The cascading secondary effects Chomsky, Paul, and Kovalik all warned about — the costs falling on countries and populations with no vote in the decision — are now visible and measurable in real time.
+
+### Australia (Wong) and Canada (McGuinty) — how they affect the predictions
+
+**Added:** [Penny Wong press conference, Parliament House](https://www.foreignminister.gov.au/minister/penny-wong/transcript/press-conference-parliament-house-2) (Foreign Minister transcript; see `news/2026-03-09_wong_press-conference-parliament-house.md`).
+
+Wong: Australia may provide **defensive** military support to Gulf states (e.g. ISR, air defence) and is considering Gulf requests, but will **not** participate in offensive action against Iran or in any ground war — "This is not Iraq, and we are not the Howard government." She and PM Albanese call for **de-escalation** while insisting Iran must not acquire nuclear weapons; legality of the strikes is "a matter for Israel and the United States." That aligns with Canada: McGuinty stated Canada was not consulted, has not participated, and **will not participate** in the U.S.–Israeli offensive.
+
+**Effect on predictors:**
+
+| Predictor | Effect |
+|-----------|--------|
+| **Chomsky** | **Strengthened.** "European [and allied] countries drawn in defensively despite opposing the offensive" — Australia and Canada are now the clearest examples: both support the anti-nuclear framing and (in Australia's case) limited defensive deployment (Wedgetail, missiles to UAE), while explicitly ruling out offensive/ground participation and calling for de-escalation. The wedge between supporting the *objective* and supporting the *war* is now stated policy in two Five Eyes capitals. |
+| **Jiang** | **Consistent.** "Australia in the coalition" remains confirmed (Wedgetail + missiles), but Wong's red lines clarify that Australia's commitment is **defensive and bounded** — no ground war, no offensive strikes. That fits Jiang's coalition-stress and "indefensible Gulf" thesis: allies will help defend the Gulf, not invade Iran. |
+| **Kovalik** | **Neutral/consistent.** No new confirmation; Australia's refusal to join offensive action is another data point that key allies are not signing up for regime change. |
+
+**What is likely to happen next:**
+
+- **More allied pressure for de-escalation.** Canada and Australia have now publicly tied "support the goal" (no Iranian nukes) to "wind the war down." If the UK (Reeves already called for "immediate de-escalation") and other G7 members harden that line, Trump has more political cover to take an exit ramp if he wants one — and more pressure if he doesn't.
+- **No Australian (or Canadian) ground troops or offensive strikes.** That was already the baseline; Wong and McGuinty make it explicit. So any ground escalation would be U.S. and/or Israeli only, with allies at most providing defensive assets in the Gulf — which **reduces** the likelihood of a large, multilateral ground invasion (trajectory 3) and slightly **increases** the plausibility of a negotiated or declared-victory exit (trajectories 1–2).
+- **Gulf requests for defensive help.** Wong said the government is considering requests from Gulf states. If Australia (and possibly others) formalise defensive deployments — more ISR, air defence, or maritime presence — that fits the "stalemate" path: allies shore up Gulf defence so Trump can claim "we've secured the region" and dial back without admitting defeat. The clearest near-term signal remains whether oil holds below ~$100 and whether Iran's strike tempo eases; Wong's and Canada's positions add diplomatic weight to the case for an off-ramp rather than escalation.
+
+---
+
+## Addendum: New Stories (9 Mar) and Prediction Impact
+
+*Stories added to `news/` and stubs in `news/STUBS_WITHOUT_FULL_ARTICLE_URLS.md`. AOL AWS/datacentres already in archive.*
+
+### New news items
+
+- **AWS/Microsoft reroute to India** (TOI, Storyboard18, ET, Press Insider, Parekh Substack): Hyperscalers seeking immediate capacity in Mumbai, Chennai, Hyderabad, Kochi for banking; AWS urges customers to migrate Middle East workloads; India 1.4 GW to 10 GW, $270B committed; Gulf AI/data centre build at risk.
+- **Amazon dual threats** (ad-hoc-news): Iranian drone strikes on AWS + Pentagon bar on Anthropic for DoD; capex ~$200B; FTC antitrust Oct 2026.
+- **Nasscom** (Financial Express): Indian tech firms urged to strengthen cyber and business continuity.
+- **Oracle** (Asianet): 20k–30k layoffs possible; cost control for AI/data centre spend.
+- **FT** (stub): US may tie Nvidia/AMD AI chip exports to foreign investment pledges.
+- **Russia–Iran** (WNG): Russia provided Iran information that could be used to strike US warships.
+- **Fuel panic** (NT News, 1 News NZ, ABC AU, AFR, Guardian AU): Oil past $110; Bunnings jerry cans cleared; ASX ~$90bn wipe, 2.85% down; NAB warns inflation above 5% unless fuel retraces; rationing and wholesale restrictions.
+- **Evacuation/diplomacy** (KOMO, AP): 36,000+ Americans returned; State Dept drawdown Saudi + Adana; ten missions reduced, two suspended; criticism of Rubio planning.
+- **Sleeper cells** (ABC): US alert on intercepted encrypted comms that may activate Iran sleeper assets abroad.
+- **Trump** (CNBC): War will end "very soon" but not this week; oil will drop; spoke to Putin.
+- **India–Iris Dena** (BBC): India granted Iran three ships permission to dock 1 Mar; US sank Iris Dena 4 Mar; Iris Lavan in Kochi, Iris Bushehr in Sri Lanka.
+- **7 News** (live blog): Cluster bomb Tel Aviv; Iran toll 1,255+; acidic black rain Tehran; US embassy Oslo blast; Iran rallies for Mojtaba; Australia asylum for Iran women footballers.
+
+### How they affect the predictors
+
+| Predictor | Effect of new stories |
+|-----------|------------------------|
+| **Jiang** | **Strengthened.** Gulf AI/data centres in jeopardy is now *operational*: workload fleeing to India and Singapore; AWS publicly urging migration; $300B Gulf AI spending (Parekh/Information) at risk; "missile defence on datacentres" (Guardian) and first military strike on commercial datacentre all match his 7 Mar call. India offering sanctuary to Iranian ships then US sinking Iris Dena shows sovereign choices and war geography outside the Gulf — consistent with his "war already lost" and overextension. |
+| **Paul** | **Strengthened.** Oil past $110; ASX $90bn wipe; NAB 5% inflation warning; Bunnings jerry cans and fuel rationing are his "inflation tax" and blowback in real time — Australia and NZ feeling the shock. Evacuation (36k Americans) and embassy drawdowns are further blowback. |
+| **Ritter** | **Strengthened.** Oil $110+ tracks toward his $150–200 band; "no country will suffer like the US" — ASX and global risk-off show *other* countries suffering first in the reprice. Dollar damage and oil as weapon both tracking. |
+| **Chomsky** | **Strengthened.** Russia providing Iran intel that could target US warships deepens "Iran into Russia–China axis" and "ultimate nightmare." Sleeper-cell alert is the "new generation of jihadis" and blowback *outside* the region. European/ally defensive drawdown (embassies) fits "drawn in defensively despite opposing the offensive." |
+| **Kovalik** | **Strengthened.** AWS/datacentre strikes are "creative destruction" of Gulf civilian/economic infrastructure; framing of Iranian retaliation as unwarranted (UAE) continues. Cluster bomb on Tel Aviv and acid rain in Tehran show bilateralisation of suffering. |
+
+### Tension between narratives
+
+- **Trump "very soon"** (CNBC) vs **Hegseth "only just begun"** and DoW "no mercy": unchanged; markets traded on Trump’s words; if hope fails, oil and volatility return.
+- **India’s sovereign choice**: Granted Iranian ships sanctuary *before* US sank Iris Dena — highlights multipolarity and that key states are not simply following US lead; relevant to Jiang’s "war already lost" and coalition stress.
