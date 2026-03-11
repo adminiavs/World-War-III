@@ -1,0 +1,60 @@
+# IRIB 9pm news clip: wave 34-35 strikes, Sunni scholars' allegiance, economic resistance, global energy crisis
+
+**Date:** undated (IRIB 9 p.m. bulletin; likely within the first 10 days of the war, after Mojtaba-era allegiance messaging and during later True Promise waves)  
+**Source:** YouTube — IRIB / Iranian state TV 9 p.m. news  
+**URL:** https://www.youtube.com/watch?v=n5vEt6ojRB8  
+**Content type:** transcript (partial excerpt)  
+**Region/country:** Iran, Israel, GCC, Iraq  
+**Tags:** iran-official, irib, state-tv, 9pm-news, true-promise-4, wave34, wave35, haifa, ofaq, al-dhafra, jafir, bahrain, iraqi-resistance, hezbollah, qadr, mojtaba, sunni-scholars, economic-resistance, energy-crisis
+
+## tl;dr
+
+Partial transcript of an IRIB 9 p.m. bulletin presenting the war from the Iranian official perspective. Main themes: **(1)** Iranian missiles and drones striking Israel and US bases across the region; **(2)** thousands of Sunni scholars pledging allegiance to the Supreme Leader and large Night of Qadr rallies as proof of national unity; **(3)** government claims of uninterrupted essential-goods supply under an "economic resistance" package; **(4)** escalating global energy stress, including an asserted 80% jump in aviation fuel prices and warnings that continued war with Iran could crash the world economy. Militarily, the bulletin claims the army's drones hit a military center and the **Ofaq** satellite-intelligence receiving center in **Haifa**; that Iranian heavy missiles struck **Al-Dhafra** and **Jafir**; that the Iraqi resistance carried out **37 operations in 24 hours**; that Harir base and Victoria base were hit; that **waves 34 and 35** of True Promise struck **Tel Aviv, Beit Shemesh, Ramat David, and Bnei Brak**; and that Hezbollah conducted **22 operations**. It also repeats the line that Israeli censorship cannot suppress the scale of missile damage and claims Trump himself admitted surprise at Iran's missile capacity. A later segment claims major destruction at US bases in Bahrain and extreme interceptor expenditure.
+
+---
+
+## Summary (key claims and themes)
+
+- **Official framing:** "Iranian missiles raining down on Zionists and American terrorists in the region."
+- **Unity messaging:** Thousands of Sunni scholars are said to have pledged allegiance to the Supreme Leader; nightly rallies and Qadr ceremonies are presented as evidence of broad national cohesion.
+- **Economic resilience message:** Government spokesperson says essential goods are fully supplied, no shortages exist, and prices are stable under an "economic resistance package."
+- **Global blowback claim:** The broadcast says global energy markets are entering a critical phase; aviation fuel up **80%**; war with Iran could collapse the world economy.
+- **Specific military claims:** Haifa military center and **Ofaq** intelligence receiving center hit by army drones; Al-Dhafra and Jafir bases hit by heavy missiles; Harir base struck; Iraqi resistance hit Victoria base; **waves 34 and 35** hit Tel Aviv, Beit Shemesh, Ramat David, and Bnei Brak; Hezbollah conducted **22 operations**.
+- **Censorship / missile effectiveness:** The bulletin says Israeli censorship cannot hide the precision and volume of Iranian strikes and cites a settler social-media post claiming mass casualties and damage in central Tel Aviv.
+- **US-base damage narrative:** Bahrain base allegedly reduced to "flat, barren land"; interceptor use allegedly exceeded consumption in the entire four-year Russia-Ukraine war.
+
+---
+
+## Repo use
+
+- **Primary-source Iranian narrative:** Useful as a state-media record of how Iran was publicly framing military success, social unity, and economic resilience.
+- **Cross-reference to other IRIB items:** Complements `transcripts/undated_youtube_irib-9pm-news-true-promise-4-wave28-etemad-missile-succession.md` with later-wave claims and stronger emphasis on Sunni allegiance, Qadr mobilization, and economic messaging.
+- **Prediction relevance:** Supports archive themes around decapitation resistance, domestic unity after attack, continued refusal of ceasefire logic, regional-base vulnerability, and global energy blowback.
+
+---
+
+## Full transcript
+
+[*User-provided partial transcript excerpt follows.*]
+
+Peace be upon you. The most important news at 9 PM tonight: Iranian missiles raining down on Zionists and American terrorists in the region. The reach of the raging waves of missiles and drones, from the U.S. 5th Fleet base to the occupied territories. Thousands of Sunni scholars in the country pledge allegiance to the Supreme Leader of the Islamic Revolution; with national unity, we will overcome these difficult conditions. A display of the Iranian nation’s loyalty in nightly rallies in squares across the country; the massive, unity-inspiring presence of Iranians in the ceremonies of Qadr night and the night of the martyrdom of the Commander of the Faithful, Imam Ali (peace be upon him). Uninterrupted supply of essential goods by issuing an economic resistance package; the government spokesperson says, "Supporting production and facilitating the import of essential items to improve the people's livelihood is the government’s priority. All our goods—we have no shortages in this area; items are available, everything is supplied, and prices in the market are balanced and fair." The global energy market is facing an increasingly critical situation in the shadow of the war; fuel prices for aircraft have increased by 80 percent. The Independent newspaper says the continuation of the war with Iran could collapse the world economy. "This is a fundamental crisis in the global energy market, and those who consider it temporary do so out of a lack of understanding."
+
+In the name of God, the Most Gracious, the Most Merciful. O God, bless Muhammad and his family and hasten his reappearance. Good evening, dear compatriots. We are here with the 9 PM news report. At the beginning of the news, I offer my condolences on the anniversary of the martyrdom of Imam Ali (peace be upon him).
+
+A military center in Haifa and the 'Ofaq' satellite intelligence receiving center were targeted by the Army's ground force drones. The Army of the Islamic Republic announced in a statement that, moments ago, the Army’s ground force, through an onslaught of suicide drones, targeted a military center in Haifa and the ‘Ofaq’ satellite intelligence receiving center of the Zionist regime. It is worth noting that the military center in Haifa plays a key role in manufacturing military weapons and is of strategic importance in increasing the enemy’s combat capability.
+
+The senior spokesperson for the armed forces said, "Americans are using the people of the region as human shields." Brigadier General Shekarchi emphasized that powerful Iran has broken the pride of Trump and his hollow army, and the world has realized that the presence of the criminal Americans in the West Asia region is destabilizing and they cannot even secure themselves. According to the senior spokesperson, after fleeing the quagmire of death, some American commanders and soldiers are using the people of regional countries as human shields against the powerful onslaught of Iran’s armed forces.
+
+Now, our connection with Brigadier General Shekarchi is established. General, I greet you. Please, in these days when we are witnessing the targeting of residential locations in our country, including the residential complexes in Resalat Square and Shahid Bagheri, what measures have the armed forces taken to counter these criminal acts? Unfortunately, I cannot hear you; it seems there is a technical issue. General Shekarchi, do you hear me? My colleagues are trying to reconnect with General Shekarchi. We continue the news from the shooting down of enemy American-Zionist drones and missiles to the widespread operations of our armed forces and resistance groups, reviewed on the map with Hassan Azimzadeh, International Editor of the IRIB News Agency.
+
+(Hassan Azimzadeh, International Editor of IRIB News Agency):
+"Ms. Khalaji, dear viewers, good evening. Before I address the scope of the operations, if my colleagues could show the map behind me: our integrated air defense system has tracked drones and cruise missiles in various skies of our country—Tehran, Qom, Lorestan. First, Heron TP drones were spotted and hit over Markazi province. In different waves of ‘True Promise,’ U.S. bases in the region, in the southern Persian Gulf—Al-Dhafra and Jafir—were hit by our heavy missiles like Emad, Kheibar-Shekan, and Fattah. Damages were inflicted. You just saw the satellite image of damage to fuel depots at the U.S. Al-Dhafra base. In Iraq, the Iraqi resistance has conducted 37 operations in the last 24 hours. Our armed forces also hit the Harir base in northern Iraq. Satellite images show how precise the hits were and heavy damage was inflicted on the American enemy. Additionally, the Iraqi resistance precisely tracked the U.S. Victoria base near Baghdad airport and hit it with suicide drones.
+
+In the occupied territories, the Army of the Islamic Republic of Iran targeted the fuel depots and the Haifa refinery twice with its drones, and then hit a military and satellite intelligence center in Haifa again. In waves 34 and 35 of ‘True Promise,’ Tel Aviv, Beit Shemesh, and the Ramat David base—the largest Zionist enemy air base in the north—were hit. The Bnei Brak base east of Tel Aviv, which housed the enemy’s hidden launchers, was also hit by missiles. Hezbollah Lebanon has carried out 22 operations since this morning. Two were very important: one was the ‘Shimshon’ base, the Zionist enemy’s command support base, and the other was the headquarters of the Zionist enemy’s army southeast of Tel Aviv, 120 kilometers from the Lebanese border."
+
+(News Anchor):
+"Thank you, Mr. Azimzadeh. Moving to the next news: The Speaker of the Parliament emphasized that we must end the American-Zionist cycle of war, negotiations, ceasefire, and then war again. Mr. Ghalibaf stated in a social media message that we are not looking for a ceasefire, asserting: 'We must punch the aggressor in the mouth so they learn a lesson never to think of invading dear Iran again.' The Secretary of the Supreme National Security Council wrote to the American-Zionist enemy: 'The Ashura-spirit nation of Iran is not afraid of your hollow threats. Those greater than you could not eliminate the Iranian nation. Watch yourselves so you are not eliminated.'
+
+The censorship that failed to stop the wide reflection of Iran's missile power; even Trump himself admitted he was surprised by this power. Hours after the beautiful 'rain' of Iranian missiles over the occupied territories, if you are lucky, you can see these images. Suppressing the free flow of information and banning the filming of damage is the current instruction of the Zionists. Iran continues its attacks with the most advanced missiles. We cannot show these images, but the volume of fire is so high and the hits so precise that the details do not remain hidden. A settler says on social media: 'This is the situation in central Tel Aviv after it was hit by an Iranian ballistic missile. This missile caused 66 deaths and damage to many houses.' Now, the godfather of the Zionists says he is surprised by Iran's missile power: 'Iran has many, many missiles, more than was estimated.'
+
+Iranian missiles and drones have also become a plague for the Americans themselves. At least three bases were almost completely destroyed. The Bahrain base now truly resembles Gaza; it has been turned into flat, barren land. This very expensive base—which you and I paid for—was the main U.S. Navy hub in the Middle East and is now completely out of operation. Analysts say both U.S. bases were destroyed and several billion dollars worth of interceptor missiles were fired, none of which were a match for Iranian projectiles. Iranian missiles have challenged U.S. bases in the region so much that the consumption of interceptor missiles has exceeded even the amount used in the 4-year Russia-Ukraine war."

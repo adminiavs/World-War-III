@@ -90,3 +90,6 @@ This document lists the **source URL** of every news stub in `news/` that does *
 - https://www.reddit.com/r/politics/comments/1rp3pht/oil_over_100_markets_in_freefall_and_irans_new/
 - https://nltimes.nl/2026/03/09/intelligence-confirms-russian-state-hackers-targeting-dutch-signal-whatsapp-accounts
 - https://www.foreignminister.gov.au/minister/penny-wong/transcript/press-conference-parliament-house-2
+- https://www.abc.net.au/news/2026-03-05/qld-hate-speech-laws-passed-parliament/106420306
+- https://thenightly.com.au/politics/iran-war-australian-armys-1st-division-prepares-for-middle-east-despite-penny-wongs-no-combat-promise--c-21883920
+- https://www.youtube.com/watch?v=o7Mhq5gp_KQ
