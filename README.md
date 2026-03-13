@@ -49,11 +49,11 @@ Paul warned Congress nearly two decades before the war. Key predictions:
 | Prediction | Made | Status |
 |---|---|---|
 | Iran is the "next neocon target" for regime change using the same recycled arguments as Iraq (no WMD, same propaganda pattern) | 2006 | Confirmed |
-| Oil price spike -- predicted $120/bbl, $6/gallon petrol if Iran attacked | 2006 | Confirmed (Brent hit $93+ in week one; Goldman worst-case $100+ within weeks; Qatar warned $150 within three weeks) |
-| Strait of Hormuz disruption to global shipping | 2006 | Confirmed (tankers hit; top five container lines suspended Gulf operations; Hormuz partially blocked) |
-| War financed by money creation, hidden inflation tax falling on poor and middle class | 2006 | Consistent (war costs estimated $1 billion/day; gas prices hit highest of either Trump term) |
-| Blowback -- intervention backfires, unintended consequences worse than Iraq | 2006 | Ongoing (Gulf states including non-combatants targeted; Lebanon drawn in; datacentres hit; fertiliser and food shock underway) |
-| Congress would abdicate war powers and capitulate | 2006 | Confirmed (War Powers vote failed in Senate; Congress briefed but did not stop the war) |
+| Oil price spike -- predicted $120/bbl, $6/gallon petrol if Iran attacked | 2006 | **Confirmed** -- Brent past $100/bbl by Day 14; peaked ~$120; gas $3.58 nationally, $5+ in California; IRGC warned "$200/barrel"; IEA 400M barrel release (double 2022 Ukraine response); Farm Bureau: food supply disruption "not seen since 2022" |
+| Strait of Hormuz disruption to global shipping | 2006 | **Confirmed** -- Hormuz transits collapsed 138→~1/day; Iran laid mines (estimates 2,000–6,000); US destroyed 16 mine-laying vessels; tankers avoiding strait; IRGC: "not a liter of oil"; insurance won't cover transit; Mojtaba hinted at closing Bab el-Mandeb as "another card" |
+| War financed by money creation, hidden inflation tax falling on poor and middle class | 2006 | **Confirmed** -- $5.6B munitions first 2 days; $11.3B first week; $2B/day ongoing; supplemental budget request; 172M barrels from Strategic Reserve; Australian diesel depots dry; NZ Treasury modeling recession |
+| Blowback -- intervention backfires, unintended consequences worse than Iraq | 2006 | **Confirmed** -- French soldier KIA in Iraq (first non-US/Israeli combat death); Iraq secondary battlefield (Victory Base nightly drone attacks); 7 US KIA, 140 injured; Bahrain imported anti-riot troops (first since 2011); Dubai/Kuwait airports struck; THAAD radar destroyed ($300M); KC-135 crashed (4th aircraft); IRGC claims carrier damage; Citi/HSBC fleeing Gulf; global food crisis forming |
+| Congress would abdicate war powers and capitulate | 2006 | **Confirmed** -- War Powers vote failed; 46 senators demanded school strike investigation but no action; Trump campaigned against Massie for voting for War Powers resolution; supplemental request may become proxy authorization |
 | Removal of Saddam inadvertently served Iran -- same logic of "pre-emption" would repeat | 2006 | Consistent |
 
 ---
@@ -69,13 +69,13 @@ Chomsky's key predictions and warnings across both books:
 | Prediction | Made | Status |
 |---|---|---|
 | Iran and the US on a "collision course"; the US was following the same trajectory as with Iraq | 2006-07 | Confirmed (war began Feb 28, 2026) |
-| A US strike would strengthen hard-liners, drive the program underground, and blow up the region | 2006-07 | Consistent (war escalated to Lebanon, Iraq, Gulf; Kuwait, Bahrain, Qatar, Saudi all struck) |
-| Iran would become part of an Asian energy grid (Russia, China, SCO) rather than the US-led order if pushed -- "ultimate nightmare" scenario | 2006-07 | Partially confirmed (China and Russia condemned strikes, provided intelligence support to Iran; China buying 90% of Iranian oil) |
-| The US refusal to engage with Iran's 2003 comprehensive offer would make war more likely | 2006-07 | Confirmed (no diplomatic resolution; war launched without UN Security Council authorisation) |
-| A US attack would produce a new generation of jihadis, regional instability, and costs far beyond projections | 2006-07 | Ongoing |
-| European countries would be drawn in "defensively" despite opposing the offensive | 2006-07 | Confirmed (France, UK, Germany issued defensive-only deployments; Cyprus base struck) |
-| Propaganda and fear would override public skepticism, as with Iraq WMD | 2006-07 | Confirmed (only 38% of Americans approved of the war in early polls -- lowest initial approval for any US war; Trump dismissed public opposition) |
-| Oil shock plus fertiliser disruption could trigger a wider food inflation cycle | 2006-07 | Confirmed (fertiliser prices surging; Brazilian and Indian farmers affected; Global food shock warnings issued by analysts) |
+| A US strike would strengthen hard-liners, drive the program underground, and blow up the region | 2006-07 | **Confirmed** -- Senate DOD briefings: new supreme leader "more radical, more anti-American than the one we killed"; regime change "is in fact not" the goal; war in Lebanon, Iraq, Gulf; 12+ countries struck |
+| Iran would become part of an Asian energy grid (Russia, China, SCO) rather than the US-led order if pushed -- "ultimate nightmare" scenario | 2006-07 | **Partially confirmed** -- China buying 90% of Iranian oil; China halted fuel/refined energy exports to West; Russia profiting ~€510M/day from high oil; both condemned strikes and provided support |
+| The US refusal to engage with Iran's 2003 comprehensive offer would make war more likely | 2006-07 | **Confirmed** -- war launched without UNSC authorisation; Araghchi: preemptive-strike claim "sheer and utter lie"; Trump demanded unconditional surrender |
+| A US attack would produce a new generation of jihadis, regional instability, and costs far beyond projections | 2006-07 | **Ongoing** -- costs $11.3B week one vs initial estimates; Iraq secondary battlefield; ISIS resurgence conditions forming; costs "far beyond projections" already evident |
+| European countries would be drawn in "defensively" despite opposing the offensive | 2006-07 | **Confirmed and deepening** -- French soldier KIA in Iraq; Macron: "war in Iran cannot justify such attacks"; French interests explicitly targeted after carrier entered CENTCOM area; UK, Germany, Australia deployed defensively; Cyprus struck |
+| Propaganda and fear would override public skepticism, as with Iraq WMD | 2006-07 | **Confirmed** -- 38% approval; White House Wii Sports war montages; Energy Secretary fabricated Hormuz escort claim (deleted); Trump "unaware" of school strike evidence; Senate: DOD briefings contradict every public war aim |
+| Oil shock plus fertiliser disruption could trigger a wider food inflation cycle | 2006-07 | **Confirmed** -- Farm Bureau to White House: urea/ammonia disruption threatening food supply "not seen since 2022"; Australian urea to A$1,195/t, depots dry; NZ petrol toward $3/L; aluminium 4-year high; Brazil/India affected |
 
 ---
 
@@ -83,9 +83,9 @@ Chomsky's key predictions and warnings across both books:
 
 | Prediction | Made | Status |
 |---|---|---|
-| "The danger is a war coming from miscalculation, misjudgment, and misperceptions" -- brinkmanship and ultimatums spiralling | 2007 | Consistent (war launched after Oman-mediated talks collapsed; Iran reportedly conceded zero enrichment before attack) |
-| If sanctions and ultimatums escalated, Iran might withdraw from the NPT and accelerate its program -- driving the US to strike | 2007 | Partially consistent (Iran's program was the stated trigger for the war) |
-| A US strike would require Iran to retaliate in Iraq and Afghanistan; the US could not handle a simultaneous Sunni and Shia revolt with its troop levels | 2007 | Partially consistent (Gulf states struck; Iraq on edge; Iran targeting US bases regionally) |
+| "The danger is a war coming from miscalculation, misjudgment, and misperceptions" -- brinkmanship and ultimatums spiralling | 2007 | **Confirmed** -- war launched after Oman talks collapsed; Trump blame-shifted to advisers (Kushner, Miller, Hegseth, Rubio); Senate: DOD briefings reveal no achievable objectives; school on target list possibly "mistaken for military site" |
+| If sanctions and ultimatums escalated, Iran might withdraw from the NPT and accelerate its program -- driving the US to strike | 2007 | **Partially consistent** -- Iran's program the stated trigger; Senate DOD briefings: permanently denying nukes "is in fact not a goal of our war plan" |
+| A US strike would require Iran to retaliate in Iraq and Afghanistan; the US could not handle a simultaneous Sunni and Shia revolt with its troop levels | 2007 | **Confirmed** -- Iraq now a secondary battlefield; Victory Base under nightly drone attack; PMU dozens killed/wounded; French base targeted; drone on US diplomatic facility Baghdad; 7 US KIA, 140 injured; Bahrain anti-riot troops imported; Iran targeting US bases across Gulf |
 
 ---
 
@@ -95,11 +95,11 @@ Chomsky's key predictions and warnings across both books:
 
 | Prediction | Made | Status |
 |---|---|---|
-| "The path that the United States is currently embarked on regarding Iran will inevitably lead to war" | 2006 | Confirmed |
-| Such a war "will make even the historical mistake we made in Iraq pale by comparison" | 2006 | Ongoing -- scale and consequences still unfolding |
-| Oil could reach $150-200/bbl; the American dollar would be severely damaged; "no country will suffer economically like the United States" | 2006 | Partial (Brent hit $93+ in week one; Goldman Sachs revised worst-case to $100+ within weeks; $1 billion/day war cost) |
-| A strike would not be a single Osirak-style hit -- many dispersed sites would escalate to regional war | 2006 | Confirmed (3,400+ Israeli strikes, 7,500+ munitions in first week; Lebanon, Gulf, Cyprus all drawn in) |
-| Iran would strike Israel with missiles; Hezbollah would rocket northern Israel | 2006 | Confirmed (Iran fired on Israel multiple times; Hezbollah joined; Lebanon under Israeli strikes) |
+| "The path that the United States is currently embarked on regarding Iran will inevitably lead to war" | 2006 | **Confirmed** |
+| Such a war "will make even the historical mistake we made in Iraq pale by comparison" | 2006 | **Tracking** -- 12+ countries, $11.3B+ first week, 1,350+ Iranian civilians killed, French soldier KIA, Iraq a secondary battlefield; scale already exceeds early Iraq in multiple dimensions |
+| Oil could reach $150-200/bbl; the American dollar would be severely damaged; "no country will suffer economically like the United States" | 2006 | **Tracking toward confirmed** -- Brent past $100, peaked ~$120; IRGC warned "$200/barrel"; IEA 400M barrel release; gas $3.58→$5+; $2B/day war cost; Dow -750 points; Farm Bureau food crisis warning; global recession modeling |
+| A strike would not be a single Osirak-style hit -- many dispersed sites would escalate to regional war | 2006 | **Confirmed** -- ~10,000 civilian sites bombed (Iran claim); Lebanon 630+ dead; Iraq secondary battlefield; Gulf airports struck; France drawn in; 12+ countries affected |
+| Iran would strike Israel with missiles; Hezbollah would rocket northern Israel | 2006 | **Confirmed** -- Iran fired 44+ waves (True Promise 4); Hezbollah active; Lebanon 630+ dead, 816K+ displaced; war expanded to central Beirut |
 | "If there is an American war with Iran, it is a war that was made in Israel and nowhere else." | 2006 | Contested but consistent with the historical pattern described |
 
 ---
@@ -110,7 +110,7 @@ Chomsky's key predictions and warnings across both books:
 
 Writing a decade after Ritter and Chomsky, Kovalik had the advantage of watching the JCPOA, the Bolton/Pompeo appointments, and the Trump withdrawal from the nuclear deal. He synthesized these into a detailed prediction of how the war would be manufactured, justified, and fought. His central thesis: the war with Iran was not a possibility but a plot -- a multi-administration conspiracy using manufactured intelligence, proxy wars, economic warfare, and deliberate provocation to create the conditions for an attack that would leave Iran ruined, the Middle East shattered, and American power diminished.
 
-| Prediction | Made | Status (Day 10) |
+| Prediction | Made | Status (Day 14) |
 |---|---|---|
 | The US and Israel have been preparing for war with Iran for over a decade | 2018 | **Confirmed** -- Operation Epic Fury launched 28 Feb 2026 |
 | JCPOA was a "Trojan Horse" to strip Iran's deterrence, leaving it vulnerable to attack | 2018 | **Confirmed** -- Trump withdrew; war launched; Iran had no bomb |
@@ -118,20 +118,20 @@ Writing a decade after Ritter and Chomsky, Kovalik had the advantage of watching
 | Media blackout of Khamenei's anti-nuke fatwa and the 2003 NIE (16 agencies: no weapons program) | 2018 | **Confirmed** -- neither fact appeared in mainstream war justification |
 | Trump's moves against the deal were a prelude to war, continuation of Bush/Obama policy | 2018 | **Confirmed** -- war occurred under Trump after decades of pressure across administrations |
 | Bolton/Pompeo placement guaranteed conflict; diplomacy abandoned | 2018 | **Confirmed** -- Bolton was NSA; hawkish appointments continued; war followed |
-| War would be 10-15x worse than Iraq (Wilkerson: 10-15 million dead, $20-30 trillion) | 2018 | **Tracking** -- 12+ countries, $10B+, 1,400+ dead in 10 days; scale consistent |
+| War would be 10-15x worse than Iraq (Wilkerson: 10-15 million dead, $20-30 trillion) | 2018 | **Tracking** -- 12+ countries, $11.3B first week ($2B/day), 1,350+ Iranian civilians killed, 630+ Lebanese, French soldier KIA, 7 US KIA; scale consistent |
 | Iran not easy to crush; strategic depth and mountainous terrain make quick war impossible | 2018 | **Confirmed** -- decapitation did not end war; military pre-planned; Etemad missile mid-war |
-| Hezbollah/regional fronts part of opening phase (2006 Lebanon as "opening salvo") | 2018 | **Confirmed** -- Lebanon hit day one; 394+ dead; Hezbollah 13 ops/day by day 10 |
+| Hezbollah/regional fronts part of opening phase (2006 Lebanon as "opening salvo") | 2018 | **Confirmed** -- Lebanon hit day one; 630+ dead, 816K+ displaced by Day 14; war expanded to central Beirut; Ramada hotel struck |
 | US would first weaken Iran's allies (Syria, Lebanon) through proxy wars before direct attack | 2018 | **Confirmed** -- Syria gutted by civil war; Hezbollah degraded; then Iran attacked |
 | Sanctions + covert destabilization + MEK/Jundallah before open war | 2018 | **Confirmed** -- decades of sanctions, MEK support, covert ops preceded the attack |
-| Hostile US policy would strengthen hardliners, not moderates | 2018 | **Confirmed** -- Mojtaba Khamenei (hardliner) chosen; Pezeshkian marginalised; no uprising |
-| Iran feared ruin like Iraq/Afghanistan/Libya | 2018 | **Tracking** -- Tehran oil depots burning; desalination hit; internet at 1%; ruin underway |
+| Hostile US policy would strengthen hardliners, not moderates | 2018 | **Confirmed** -- Mojtaba Khamenei (hardliner) chosen; Senate DOD briefings: "more radical, more anti-American than the one we killed"; "we are apparently very satisfied to leave in charge hardline leadership"; no uprising |
+| Iran feared ruin like Iraq/Afghanistan/Libya | 2018 | **Tracking** -- ~10,000 civilian sites bombed (Iran claim); 1,350+ civilians killed; hospitals/UNESCO sites damaged; Tehran oil depots burning; desalination hit; infrastructure devastation ongoing |
 | Yemen used as primary venue to manufacture casus belli ("Iran-backed Houthis") | 2018 | **Confirmed** -- Houthi actions framed as Iranian aggression; Yemen part of war theatre |
 | US would provoke repression then use it as moral pretext (Chomsky cited) | 2018 | **Confirmed** -- sanctions-driven hardship preceded war; "freedom" framing used |
 | Syrian flashpoint involving Israel would spark regional war (Golan, Iranian drones) | 2018 | **Confirmed** -- Israel struck Iran simultaneously; Syria in war theatre from day one |
-| "Creative destruction" -- destroy Middle East oil capacity or turn it into US oil refinery | 2018 | **Tracking** -- Gulf oil infrastructure targeted; 20m b/d off market; US alternative supplier |
+| "Creative destruction" -- destroy Middle East oil capacity or turn it into US oil refinery | 2018 | **Tracking** -- Gulf oil infrastructure targeted; Hormuz closed; Brent past $100; Chevron/Shell close to first major Venezuela oil deal post-Maduro; IEA "largest supply disruption in history" |
 | US would reject all diplomatic grand bargains (2003 offer cited) | 2018 | **Confirmed** -- Oman diplomacy failed; Trump demanded unconditional surrender |
 | Crime of self-defense: Iranian retaliation branded "unprovoked aggression" (Article 51 ignored) | 2018 | **Confirmed** -- UAE: "brutal and unjustified Iranian aggression"; context stripped |
-| White House would "cook" intelligence to fabricate case for war | 2018 | **Confirmed** -- NIC leak (Feb 2026) contradicted war claims; no weapon existed |
+| White House would "cook" intelligence to fabricate case for war | 2018 | **Confirmed** -- NIC leak (Feb 2026) contradicted war claims; no weapon existed; WaPo: school on target list "possibly mistaken for military site"; Palantir/Claude AI used for 1,000 targets in first 24 hours; Araghchi: preemptive-strike claim "sheer and utter lie" |
 | Kurdish proxy front | 2018 | **Confirmed** -- Trump backed Kurdish offensive day 5; CIA arming militias |
 | No democracy will be installed; Shah/Pinochet/Libya model | 2018 | **Tracking** -- zero nation-building plans; infrastructure destroyed; Libya pattern |
 | Humanitarian Imperialism: weaponise liberal/feminist ideology to sell war | 2018 | **Tracking** -- "freedom" and "security" language; one-sided Iran portrayals |
@@ -161,10 +161,10 @@ The earliest lectures (roughly two years before the war) established the theoret
 
 #### Asymmetric warfare and Iran strategy matrix (~April 2024)
 
-| Prediction | Made | Status (as of 8 Mar 2026) |
+| Prediction | Made | Status (as of Day 14) |
 |---|---|---|
-| Iran would use asymmetric warfare: cheap drones and missiles ($1,000-$100,000) against billion-dollar carriers and $13M THAAD interceptors | ~Apr 2024 | **Confirmed** -- Iranian ballistic missiles ~$100K vs THAAD at $12-13M per interceptor; CNN reported Gulf ally running low on interceptors by day five |
-| 2002 Millennium Challenge proved Iran wins if allowed to use asymmetric tactics; the US military refused to accept this result and reran the simulation banning asymmetric play | ~Apr 2024 | **Consistent** -- the interceptor asymmetry and munitions depletion playing out exactly as described |
+| Iran would use asymmetric warfare: cheap drones and missiles ($1,000-$100,000) against billion-dollar carriers and $13M THAAD interceptors | ~Apr 2024 | **Confirmed** -- $300M THAAD radar destroyed; KC-135 crashed (4th aircraft); $5.6B munitions first 2 days; Gulf allies "much faster than us running out of interceptors" (Senate); IRGC claims carrier damage |
+| 2002 Millennium Challenge proved Iran wins if allowed to use asymmetric tactics; the US military refused to accept this result and reran the simulation banning asymmetric play | ~Apr 2024 | **Confirmed** -- interceptor asymmetry and munitions depletion exactly as described; Iran laying 2,000–6,000 mines; targeting sensors and "eyes" of defense systems |
 | Operation True Promise (April 2024) cost Iran $10-30M; Israel spent $1B+ to defend -- this ratio would define any future war | ~Apr 2024 | **Confirmed** -- Iran producing 100+ missiles/month vs US/Israel producing 6-7 interceptors/month |
 | Iran's four-goal strategy matrix: every move must simultaneously (1) unite the population, (2) build alliances (Russia, China, Axis of Resistance), (3) win global opinion, (4) weaken the enemy coalition | ~Apr 2024 | **Confirmed** -- all four dynamics visible: population unified after Khamenei's martyrdom; Russia/China providing support; global protests against the war; US-Gulf and US-Israel tensions exposed |
 | Iran's goal is not to attack the US directly but to **force the US to invade Iran**, knowing that a ground invasion would fail | ~Apr 2024 | **Consistent** -- Iran absorbing air strikes and responding with missiles; the ground invasion question remains the strategic crux |
@@ -202,7 +202,7 @@ Approximately one year before the war, Jiang delivered his most detailed and spe
 
 #### War prediction and timing
 
-| Prediction | Made | Status (as of 8 Mar 2026) |
+| Prediction | Made | Status (as of Day 14) |
 |---|---|---|
 | "War between United States and Iran is very likely in the next two to four years" | ~Mar 2025 | **Confirmed** -- war began 28 Feb 2026, approximately 11 months later |
 | War will be framed as "Operation Iranian Freedom" with five justifications: (1) freedom/democracy and Iranian protests, (2) Iran one month from nuclear bomb, (3) protect shipping lanes (Hormuz, Red Sea), (4) protect allies (Saudi Arabia, Israel from proxies), (5) terrorism (mall shooting attributed to IRGC) | ~Mar 2025 | **Largely confirmed** -- Operation Epic Fury cited WMD timeline, shipping, ally protection, and Iranian-linked threats; "one month from a bomb" rhetoric repeated by administration (Jiang noted the US had been saying "one month from a bomb" for 10 years) |
@@ -221,7 +221,7 @@ Approximately one year before the war, Jiang delivered his most detailed and spe
 
 | Prediction | Made | Status |
 |---|---|---|
-| Scenario: ~100,000 US troops + ~200,000 Saudi troops land in southern Iran; US establishes air supremacy and naval control; looks like victory on TV -- but Iran has already won | ~Mar 2025 | **Not yet tested** -- no ground invasion as of 8 Mar 2026; but pressure to deploy mounting (82nd Airborne pulled from exercises; Trump floated boots on ground for uranium sites) |
+| Scenario: ~100,000 US troops + ~200,000 Saudi troops land in southern Iran; US establishes air supremacy and naval control; looks like victory on TV -- but Iran has already won | ~Mar 2025 | **Not yet tested but pressure mounting** -- Blumenthal: "we seem to be on a path toward deploying American troops on the ground in Iran"; administration considering special forces to secure HEU stockpile; WH stated 4–6 week timeline for Epic Fury; 82nd Airborne pulled from exercises |
 | Troops would be **encircled** in Iran's mountain fortress: "once they're in the country you can't get them out" | ~Mar 2025 | **Not yet tested** |
 | Failure to mass forces: need 3-4 million soldiers for a nation of 90 million; US has ~1 million total, ~60,000 in the Middle East | ~Mar 2025 | **Not yet tested** but the math applies |
 | Supply lines impossible: airplanes dropping supplies through mountains easily shot down by "a random guy with a rocket launcher" or a drone -- exactly what Afghans did to Soviets | ~Mar 2025 | **Not yet tested** |
@@ -235,13 +235,13 @@ Approximately one year before the war, Jiang delivered his most detailed and spe
 |---|---|---|
 | Trump would threaten to nuke Iran to extract trapped troops: "you either let my guys go or I will nuke the entire country" | ~Mar 2025 | **Not yet tested** |
 | Putin would declare from the outset: "no one is allowed to use nuclear weapons -- if anyone uses them, I will nuke them." The world would hail him as a hero, and the US would be trapped | ~Mar 2025 | **Partially consistent** -- no nuclear use; back-channel nuclear deterrence reported; Putin positioned as restraining force |
-| US manufacturing moved to China; "for every one ship that America can build, China can build 232" (Pentagon's own numbers); America cannot produce ammunition for a sustained war | ~Mar 2025 | **Confirmed** -- EU defence commissioner stated US cannot supply enough missiles for Iran, Gulf, and Ukraine simultaneously; munitions depletion within first week |
+| US manufacturing moved to China; "for every one ship that America can build, China can build 232" (Pentagon's own numbers); America cannot produce ammunition for a sustained war | ~Mar 2025 | **Confirmed** -- $5.6B munitions first 2 days; $2B/day; EU defence commissioner: US cannot supply enough missiles for Iran, Gulf, and Ukraine simultaneously; Gulf allies "much faster than us running out of interceptors" (Senate); supplemental budget request going to Congress |
 
 #### Game theory: all players want the invasion, but for different reasons
 
 | Prediction | Made | Status |
 |---|---|---|
-| US wants to topple the regime (requires ground invasion) | ~Mar 2025 | **Confirmed** -- stated goal is regime change |
+| US wants to topple the regime (requires ground invasion) | ~Mar 2025 | **Contradicted by DOD's own briefings** -- Senate floor speech: classified DOD briefings show regime change "is in fact not" the goal; "we are apparently very satisfied to leave in charge hardline leadership." Publicly stated but not actually pursued |
 | Iran (IRGC) wants to force a US invasion knowing US would lose; wants to "kill as many Americans as possible" and humiliate the empire | ~Mar 2025 | **Consistent** -- Iran's strategy appears to be absorbing strikes and outlasting the US |
 | Israel's optimal outcome: both Iran AND the United States are destroyed as powers in the Middle East, leaving Israel as the dominant regional force | ~Mar 2025 | **Not yet testable** |
 | Saudi Arabia's optimal outcome: identical to Israel's -- both Iran and US exhausted; but "it's very easy to blow up Saudi Arabia; not that easy to blow up Israel," so Israel comes out on top | ~Mar 2025 | **Consistent** -- Saudi Arabia's oil infrastructure and desalination plants already under attack |
@@ -251,17 +251,17 @@ Approximately one year before the war, Jiang delivered his most detailed and spe
 
 | Analogue | Prediction | Status |
 |---|---|---|
-| **Athens-Sicily, 415 BC:** Athenians addicted to empire sent expedition to Syracuse; couldn't resupply; entire army wiped out; empire collapsed. "The only answer is hubris -- they never really lost a war and they had become addicted to Empire, which is the same situation America finds itself in today" | ~Mar 2025 | **Consistent pattern** -- US supply and resupply challenges emerging in week one |
-| **Vietnam:** Pentagon Papers showed leadership knew war was unwinnable from early on; stayed because of credibility and sunk cost fallacy; 58,000 US dead, 3 million Vietnamese dead. Three criteria for winning (clear objectives, adapt to battlefield, will to fight) -- US failed all three in Vietnam | ~Mar 2025 | **Consistent** -- war aims unclear beyond "regime change"; bombing campaign not producing strategic results; public opposition growing |
+| **Athens-Sicily, 415 BC:** Athenians addicted to empire sent expedition to Syracuse; couldn't resupply; entire army wiped out; empire collapsed. "The only answer is hubris -- they never really lost a war and they had become addicted to Empire, which is the same situation America finds itself in today" | ~Mar 2025 | **Consistent pattern** -- $5.6B munitions first 2 days; THAAD destroyed; KC-135 crashed; THAAD moved from Korea to cover losses; strategic overextension visible |
+| **Vietnam:** Pentagon Papers showed leadership knew war was unwinnable from early on; stayed because of credibility and sunk cost fallacy; 58,000 US dead, 3 million Vietnamese dead. Three criteria for winning (clear objectives, adapt to battlefield, will to fight) -- US failed all three in Vietnam | ~Mar 2025 | **Strongly consistent** -- Senate DOD briefings show leadership knows war aims are unachievable; Trump blame-shifting; officials "careful not to express pessimism directly to the president"; no clear objectives per DOD's own assessment |
 | **Russia-Ukraine:** Zelensky (TV actor) prioritized image over strategy; refused to retreat to overextend Russian supply lines; launched suicidal summer counteroffensive against fortified positions; NATO advisors running the strategy. If Ukraine loses, NATO sends its own troops (Macron, UK conscription) | ~Mar 2025 | **Consistent** -- Ukraine war continuing to drain Western resources simultaneously with Iran war |
 
 #### GCC vulnerability
 
 | Prediction | Made | Status |
 |---|---|---|
-| Saudi Arabia, UAE, Qatar, Bahrain are strategically indefensible: no fresh water (desalination plants on coast), oil fields easily struck, food imported, populations largely expatriate | ~mid-2024 | **Confirmed** -- desalination plants attacked; oil facilities struck; Dubai airport shut; expatriates fleeing |
-| If Iran closes the Strait of Hormuz, 40% of world oil to East Asia is cut; GCC gets 90% of food through the strait; GCC would starve | ~mid-2024 | **Confirmed** -- Hormuz disrupted; major container lines suspended Gulf operations; GCC food supply chains under extreme pressure |
-| Collapse of GCC would collapse the petrodollar; without petrodollar recycling, the US financial system and empire collapse | ~mid-2024 | **Ongoing** -- Gulf states making quiet overtures to Iran through Oman; analysts warning of petrodollar system at risk |
+| Saudi Arabia, UAE, Qatar, Bahrain are strategically indefensible: no fresh water (desalination plants on coast), oil fields easily struck, food imported, populations largely expatriate | ~mid-2024 | **Confirmed** -- desalination hit; oil facilities struck; Dubai airport hit (4 injured); Kuwait airport hit; Bahrain airport fuel storage hit; Bahrain imported anti-riot troops (first since 2011); Citi/HSBC suspending Gulf operations; expatriates fleeing |
+| If Iran closes the Strait of Hormuz, 40% of world oil to East Asia is cut; GCC gets 90% of food through the strait; GCC would starve | ~mid-2024 | **Confirmed** -- Hormuz transits 138→~1/day; Iran laid mines; tankers avoiding strait; IRGC: "not a liter of oil"; IEA "largest supply disruption in history"; Mojtaba hinted at Bab el-Mandeb as "another card" |
+| Collapse of GCC would collapse the petrodollar; without petrodollar recycling, the US financial system and empire collapse | ~mid-2024 | **Ongoing** -- Dow -750 points; Citi/HSBC fleeing Gulf; insurance won't cover Hormuz transit; China halted fuel exports to West; Gulf states under simultaneous military and financial pressure |
 
 ---
 
@@ -277,12 +277,12 @@ Within days of the war starting, Jiang began publishing wartime analysis from To
 
 | Prediction / Assessment | Made | Status |
 |---|---|---|
-| "The war was already lost before the first bomb dropped" -- the math of interceptors vs missiles makes the war unwinnable for the US | ~Mar 2026 | **Consistent** -- interceptor depletion confirmed by CNN and WSJ within first week |
+| "The war was already lost before the first bomb dropped" -- the math of interceptors vs missiles makes the war unwinnable for the US | ~Mar 2026 | **Confirmed** -- $300M THAAD destroyed; KC-135 crashed; $5.6B munitions first 2 days; Gulf allies running out of interceptors; Senate: $2B/day; DOD briefings show no achievable objectives; Senate: "incompetence made worse by mistruths" |
 | Killing Khamenei would NOT end the war; decapitation failed in Iraq (Saddam toppled, 20-year insurgency, $2 trillion, 4,000+ US dead) | ~Mar 2026 | **Consistent** -- Khamenei's death treated as martyrdom; Iran's war effort continued and intensified |
 | Iran's regime-change strategy of "bombs, propaganda, money" will fail: geography (mountains, huge country), Western media has no credibility, Persian civilizational identity | ~Mar 2026 | **Consistent** -- bombing campaign has not produced capitulation or uprising |
 | GCC is dead long-term: "no wealthy Westerner will move to a city that can be hit by Iran; they will go to Singapore, Hong Kong, Japan" | ~Mar 2026 | **Consistent** -- Dubai airport shut; rich evacuees paying $250K for flights out; expatriates fleeing |
 | Iran waging war on the global economy: targeting GCC desalination (60% of water supply), oil infrastructure, and Hormuz (90% of GCC food imports) | ~Mar 2026 | **Confirmed** -- desalination plant on Qeshm attacked; Saudi Aramco Ras Tanura refinery struck; Hormuz disrupted |
-| Bahrain (majority Shia, ruled by Sunnis, hosts US Fifth Fleet) could be first GCC state to fall; Iran not just attacking bases but igniting a religious war | ~Mar 2026 | **Not yet testable** but Bahrain struck and tensions elevated |
+| Bahrain (majority Shia, ruled by Sunnis, hosts US Fifth Fleet) could be first GCC state to fall; Iran not just attacking bases but igniting a religious war | ~Mar 2026 | **Tracking** -- Bahrain imported anti-riot troops from Jordan (first since 2011 Arab Spring); mass protests against ruling class and US role; tear gas on crowds; US official: protests show how "deeply unpopular" the US-backed order is "in the broader Muslim world" |
 | Gulf states will demand either US pay Iran trillions in reparations or send ground troops; US can do neither | ~Mar 2026 | **Not yet testable** |
 | Three unknowns: (1) can the US assassinate the supreme leader (answered: yes, Khamenei killed), (2) what will Putin do, (3) will China stay out | ~Mar 2026 | **Partially resolved** -- Khamenei killed; Putin and China positions still developing |
 
@@ -294,12 +294,12 @@ Within days of the war starting, Jiang began publishing wartime analysis from To
 
 | Prediction / Claim | Made | Status |
 |---|---|---|
-| "We are in World War III" -- conflict would spread globally, not remain regional | 7 Mar 2026 | Ongoing (Lebanon, Iraq, Cyprus, Gulf all hit; UK, France, Australia all deploying assets; Jordan targeted) |
-| Ground troops = "point of no return"; 82nd Airborne cancelling training exercises signals likely deployment | 7 Mar 2026 | Consistent (Trump declined to rule out ground troops; 82nd Airborne pulled from exercises; Trump floated boots on ground for uranium sites) |
-| GCC states (UAE, Bahrain, Qatar, Saudi) are not viable -- no water sovereignty, food sovereignty or knowledge economy; the war shattered the "mirage" | 7 Mar 2026 | Consistent (UAE 89%+ food imported; LuLu Group airlifting food from India; desalination plant on Qeshm attacked; Kuwait oil cut) |
-| US military has not fought a "real war" since Vietnam; THAAD, Patriot, Iron Dome proving ineffective against Iranian drones | 7 Mar 2026 | Partially consistent (US burning through precision munitions; EU defence commissioner said US cannot supply enough missiles for Iran, Gulf, and Ukraine simultaneously) |
-| Iran hasn't used its most advanced weaponry yet | 7 Mar 2026 | Not yet testable |
-| UAE and Gulf AI ambitions (datacentres) are now in jeopardy | 7 Mar 2026 | Confirmed (Iranian Shahed 136 hit AWS datacentres in UAE and Bahrain; analysts warned of missile defence requirement for datacentres; Gulf AI investment under threat) |
+| "We are in World War III" -- conflict would spread globally, not remain regional | 7 Mar 2026 | **Deepening** -- French soldier KIA in Iraq; Iraq now secondary battlefield; Bahrain importing riot troops; Dubai/Kuwait airports struck; 12+ countries affected; Citi/HSBC fleeing Gulf; NZ/Australia modeling recession; global food crisis forming |
+| Ground troops = "point of no return"; 82nd Airborne cancelling training exercises signals likely deployment | 7 Mar 2026 | **Consistent and advancing** -- Blumenthal: "we seem to be on a path toward deploying American troops on the ground in Iran"; administration considering special forces for HEU; WH stated 4–6 week Epic Fury timeline |
+| GCC states (UAE, Bahrain, Qatar, Saudi) are not viable -- no water sovereignty, food sovereignty or knowledge economy; the war shattered the "mirage" | 7 Mar 2026 | **Confirmed** -- Citi/HSBC suspending Gulf operations; insurance won't cover Hormuz; Bahrain importing riot troops; Dubai airport hit; Kuwait airport hit; Saudi under sustained drone/missile attack |
+| US military has not fought a "real war" since Vietnam; THAAD, Patriot, Iron Dome proving ineffective against Iranian drones | 7 Mar 2026 | **Confirmed** -- THAAD radar destroyed ($300M); KC-135 crashed; 4 aircraft lost; Gulf allies exhausting interceptors; $5.6B munitions first 2 days; IRGC claims carrier damage |
+| Iran hasn't used its most advanced weaponry yet | 7 Mar 2026 | **Consistent** -- reports Iran may have or be seeking China's YJ-12 "carrier killer" missile; Iran laid Hormuz mines; IRGC claims USS Abraham Lincoln damage; 44 waves of True Promise 4; capability for hundreds more mines |
+| UAE and Gulf AI ambitions (datacentres) are now in jeopardy | 7 Mar 2026 | **Confirmed** -- AWS data centres hit; Just Security published LOAC analysis of data centre strikes; Economic Times: $30B in Gulf data centre projects at risk; Iran warned Google, Microsoft, Palantir, Nvidia, Oracle infrastructure could become targets |
 
 ---
 
@@ -311,23 +311,27 @@ The broad picture across all five voices is strikingly consistent:
 
 2. **Same playbook, new campaign.** Ritter and Chomsky both described the recycled Iraq argument structure (WMD narrative, regime-change goal, IAEA sidelined). The 2026 war was launched without UN Security Council authority and with the stated goal of preventing nuclear weapons -- the same framing described in 2006.
 
-3. **Oil and economic shock.** Ron Paul predicted $120/bbl oil and $6 petrol. Brent crude hit $93+ in week one; Goldman Sachs projected $100+ imminently; war costs are running at $1 billion/day; fertiliser and food prices are surging globally.
+3. **Oil and economic shock.** Ron Paul predicted $120/bbl oil and $6 petrol. Brent crude has now surpassed $100/barrel (peaked ~$120); gas $3.58 nationally, $5+ in California. IRGC warned "$200/barrel." War costs running at $2 billion/day ($5.6B in first two days, $11.3B first week). IEA declared "largest supply disruption in history" and released 400 million barrels (double the 2022 Ukraine response). Trump released 172M barrels from the Strategic Reserve. Dow crashed 750 points. Farm Bureau warned of food supply disruption "not seen since 2022." NZ and Australia modeling recessions.
 
-4. **Strait of Hormuz disrupted.** Paul and Chomsky both flagged this. The strait has been targeted; major container lines have suspended Gulf operations; tankers have been hit; Kuwait cut oil production as a precaution.
+4. **Strait of Hormuz effectively closed.** Paul and Chomsky both flagged this. Hormuz transits have collapsed from 138 to approximately 1 per day. Iran has laid mines (estimates 2,000–6,000); US destroyed 16 mine-laying vessels. Tankers are avoiding the strait entirely. IRGC: "not a liter of oil through Hormuz." Insurance won't cover transit. Iran's new supreme leader Mojtaba Khamenei hinted at closing Bab el-Mandeb (second strait) as "another card."
 
-5. **Regional escalation beyond Iran.** Chomsky and Ritter both warned the war would not stay contained. Lebanon (Hezbollah), Iraq (Erbil, Baghdad explosions), Cyprus (UK base), Jordan (119 missiles and drones), Gulf states (UAE, Qatar, Bahrain, Kuwait, Saudi) have all been struck.
+5. **Regional escalation beyond Iran.** Chomsky and Ritter both warned the war would not stay contained. By Day 14: French soldier KIA in Iraq (first non-US/Israeli combat death); Iraq has become a "secondary battlefield" with Victory Base under nightly drone attack; Bahrain imported anti-riot troops for the first time since 2011; Dubai and Kuwait airports struck; Lebanon 630+ dead, 816K+ displaced; 7 US troops killed, 140 injured. 12+ countries directly affected; Citi and HSBC suspending Gulf operations.
 
-6. **Congress did not stop it.** Paul's warning about the abdication of war powers was confirmed. A Senate War Powers Act vote failed; Trump acted without formal declaration of war.
+6. **Congress did not stop it.** Paul's warning about the abdication of war powers was confirmed. War Powers vote failed. Two weeks in, Congress has neither authorised nor defunded the war. 46 senators signed a letter demanding investigation of the school strike, but took no binding action. Trump is actively targeting Rep. Massie for voting for a War Powers resolution. A supplemental budget request this week may function as a proxy authorisation vote.
 
-7. **US munitions depletion.** Within a week, the EU defence commissioner stated the US "really will not be able to provide enough missiles" for the Gulf, its own forces, and Ukraine.
+7. **US munitions depletion.** $5.6 billion in munitions in the first two days. $300 million THAAD radar destroyed by Iran. KC-135 crashed (4th aircraft lost). Gulf allies "much faster than us running out of interceptors" (Senate). EU defence commissioner stated the US cannot supply enough missiles for Iran, Gulf, and Ukraine simultaneously. THAAD components moved from South Korea to Middle East, weakening Indo-Pacific deterrence.
 
-8. **Food and fertiliser shock.** A secondary consequence flagged by Chomsky (via the energy-food chain) and confirmed in 2026 coverage: the Strait of Hormuz handles roughly a third of global fertiliser trade; urea prices surged; Indian and Brazilian farmers affected; analysts warned of a food crisis comparable to 2022.
+8. **Food and fertiliser shock.** American Farm Bureau Federation sent letter to White House warning that urea, ammonia, and nitrogen disruptions could cause food supply chain crisis "not seen since 2022, when food price inflation reached 40-year highs." Australian urea surged to A$1,195/t; rural diesel depots running dry. NZ petrol heading toward $3/litre. Aluminium at 4-year high. ~45% of global urea supply transits Hormuz. The energy-food chain Chomsky flagged is now producing cascading effects across multiple continents.
 
-9. **Allies drawn in "defensively".** France, UK, Greece, Italy, Spain, Australia all deployed assets in defensive roles despite opposing the offensive -- exactly the pattern Chomsky described.
+9. **Allies drawn in "defensively" — now drawing blood.** France, UK, Greece, Italy, Spain, Australia all deployed assets in defensive roles despite opposing the offensive. By Day 14, a French soldier has been killed in Iraq — the first non-US/Israeli combat death. Macron: "the war in Iran cannot justify such attacks." Iran-aligned factions explicitly targeting French interests after French carrier entered CENTCOM area. Canadian base in Kuwait damaged March 1 but not disclosed to public. The defensive deployments Chomsky predicted are producing exactly the escalation spiral he warned about.
 
 10. **Kovalik's "plot" thesis confirmed.** Writing in 2018 with the benefit of watching the JCPOA, Bolton's appointment, and the Trump withdrawal, Kovalik argued the war was not a possibility but a multi-administration conspiracy. Of his 30 specific predictions, 18 (60%) have been directly confirmed and 28 (93%) are confirmed or actively tracking. He correctly predicted: the JCPOA would function as a trap to strip deterrence; the same Iraq playbook (manufactured intelligence, media blackout of contrary evidence); the sequential dismantling of Iran's allies before direct attack; the crime-of-self-defense framing (retaliation branded "unprovoked aggression"); the strengthening of hardliners; the Kurdish proxy front; the rejection of all diplomatic off-ramps; and the "creative destruction" of Gulf oil and water infrastructure. None of his 30 predictions have been contradicted by events.
 
-11. **Jiang's pre-war framework validated.** Across lectures spanning two years and one year before the war, Jiang predicted: Trump would win and start the war; it would be framed around nuclear weapons, shipping, and ally protection; asymmetric warfare (cheap drones vs expensive interceptors) would make the war economically unwinnable for the US; GCC states would be struck and exposed as indefensible; the petrodollar system would come under threat; and Iran's strategy would be to absorb strikes and outlast the US. One year before the war, he laid out the exact scenario: "Operation Iranian Freedom," five specific justifications, a coalition of the same countries now involved, the ground invasion trap (encirclement, supply line failure, sunk cost), and the game theory showing all parties wanting the invasion for different reasons. Every major structural prediction has tracked.
+11. **Jiang's pre-war framework validated.** Across lectures spanning two years and one year before the war, Jiang predicted: Trump would win and start the war; it would be framed around nuclear weapons, shipping, and ally protection; asymmetric warfare (cheap drones vs expensive interceptors) would make the war economically unwinnable for the US; GCC states would be struck and exposed as indefensible; the petrodollar system would come under threat; and Iran's strategy would be to absorb strikes and outlast the US. One year before the war, he laid out the exact scenario: "Operation Iranian Freedom," five specific justifications, a coalition of the same countries now involved, the ground invasion trap (encirclement, supply line failure, sunk cost), and the game theory showing all parties wanting the invasion for different reasons. By Day 14, every major structural prediction has tracked — and his Vietnam analogy (leadership knew war was unwinnable but stayed for credibility) has been confirmed by Senate DOD briefings showing no achievable war aims.
+
+12. **DOD's own briefings confirm the war has no achievable objectives.** A Senate floor speech citing classified DOD briefings revealed: regime change "is in fact not" the goal; permanently denying Iran nuclear weapons is "not a goal of our war plan"; there is no plan to reopen the Strait of Hormuz. The new supreme leader is "by most estimates more radical, more anti-American than the one we killed." Officials are "careful not to express pessimism directly to the president." This mirrors the Vietnam Pentagon Papers pattern Jiang explicitly cited: leadership knowing the war is unwinnable while publicly claiming success.
+
+13. **Credibility collapse.** Energy Secretary Wright posted that the Navy successfully escorted a tanker through Hormuz — deleted within minutes when it emerged it never happened. Trump called the war both an "excursion" and a "war" in the same interview. Special envoy Witkoff asked how the war ends: "I don't know." White House posted Wii Sports war montages on the same day Pentagon confirmed US responsibility for 175 children killed at a school. The administration's own AI tools (Palantir/Claude) identified the school as a target. Anthropic is now suing the government after refusing to allow Claude for autonomous weapons. The credibility gap Chomsky and Jiang predicted has reached a terminal phase.
 
 ---
 
