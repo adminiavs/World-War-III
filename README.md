@@ -28,6 +28,7 @@ The archive contains:
 - **`transcripts/`** -- Lecture and video transcripts (e.g. Professor Jiang classes, wartime analysis). Same document format as news where applicable.
 - **`books/`** -- Companion notes to source books (Ritter, Chomsky/Barsamian) with predictions and analysis.
 - **`updates-and-predictions/`** -- Day-by-day war summaries and prediction tracking.
+  - `GROUND-TROOPS-TRACKER.md` -- **EMERGENCY UPDATE (Day 14):** Live tracker for the most dangerous escalation of the war -- US Marines and special forces deploying; ground invasion openly discussed. Includes Jiang's predictions, casualty tracking, and signals to watch.
 
 ### Document format (news and transcripts)
 
