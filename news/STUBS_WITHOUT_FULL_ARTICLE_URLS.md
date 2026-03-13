@@ -93,3 +93,14 @@ This document lists the **source URL** of every news stub in `news/` that does *
 - https://www.abc.net.au/news/2026-03-05/qld-hate-speech-laws-passed-parliament/106420306
 - https://thenightly.com.au/politics/iran-war-australian-armys-1st-division-prepares-for-middle-east-despite-penny-wongs-no-combat-promise--c-21883920
 - https://www.youtube.com/watch?v=o7Mhq5gp_KQ
+- https://www.japantimes.co.jp/news/2026/03/11/world/politics/china-plan-xi-trump-summit/
+- https://thediplomat.com/2026/03/the-paris-prelude-how-quiet-diplomacy-is-shaping-the-coming-trump-xi-summit/
+- https://www.afr.com/world/asia/trump-xi-summit-looks-set-to-go-ahead-despite-war-20260303-p5o76i
+- https://www.livemint.com/news/us-news/xitrump-meeting-us-launches-trade-probe-against-china-over-unfair-practices-will-it-worsen-ties-11773315859936.html
+- https://www.aol.com/articles/trump-speak-summit-south-korea-235923216.html
+- http://www.roanecounty.com/news/national/top-us-china-economy-officials-to-meet-for-talks-in-paris/article_0ab2e160-4622-5892-87e0-3deef122f3f2.html
+- https://www.aa.com.tr/en/middle-east/iran-s-irgc-says-uss-abraham-lincoln-aircraft-carrier-sustained-heavy-damage-in-attack/3862531
+- https://tribuneonlineng.com/netanyahu-says-new-irans-supreme-leader-cannot-show-his-face-in-public/#google_vignette
+- http://thestar.com/politics/federal/base-hosting-canadian-troops-hit-in-iranian-missile-strike/article_2b183baa-2e19-45e0-b947-710640acd7c1.html
+- https://www.theaustralian.com.au/news/iran-targets-a-fuel-facility-in-bahrain-interior-ministry-says/video/f16ab4e688ada1f4e42244d7c1a25fa0?amp
+- https://www.timesofisrael.com/liveblog_entry/iran-attacks-fuel-tanks-in-bahrain-local-residents-told-to-stay-home-close-windows/

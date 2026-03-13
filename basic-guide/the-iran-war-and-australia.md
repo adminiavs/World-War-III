@@ -2,7 +2,7 @@
 
 What the predictors said about Australia, what has happened, and what is likely to come.
 
-Last updated: 9 March 2026 (Day 10 of the war)
+Last updated: 13 March 2026 (Day 14 of the war)
 
 ---
 
@@ -38,7 +38,7 @@ Chomsky predicted that European countries and allies would be drawn into the war
 
 This is exactly what has happened to Australia. Wong's phrase -- "We are not participating in offensive action against Iran" -- is an echo of the pattern Chomsky described twenty years earlier. Australia says it is only defending, but its intelligence base helps target Iranian sites, its personnel are on US submarines, and its government is reviewing requests to send military assets to protect Gulf states from Iranian strikes.
 
-Chomsky also predicted that the oil shock from the war would cause a fertiliser shortage, which would cause a food crisis. For Australia, a country whose economy depends on farming, this chain is now directly relevant.
+Chomsky also predicted that the oil shock from the war would cause a fertiliser shortage, which would cause a food crisis. For Australia, a country whose economy depends on farming and imports 64% of its urea from Gulf countries, this chain is now hitting home directly.
 
 ### Ron Paul (2006)
 
@@ -46,7 +46,7 @@ Paul predicted that an Iran war would cause oil prices to spike dramatically, th
 
 ---
 
-## What has actually happened to Australia (Days 1-10)
+## What has actually happened to Australia (Days 1-14)
 
 ### Military involvement
 
@@ -56,71 +56,113 @@ Paul predicted that an Iran war would cause oil prices to spike dramatically, th
 
 - **RAAF base Tindal** in the Northern Territory has received $1.6 billion in upgrades to host US nuclear-capable bombers.
 
-- **Gulf states have formally asked Australia for military assistance** to defend against Iranian drone and missile attacks. Wong confirmed the requests. The government is reviewing them but has not committed.
+- **Australia deployed military assets to the Gulf.** PM Albanese confirmed 85 ADF personnel, an E-7A Wedgetail surveillance aircraft (four-week deployment), and medium-range air-to-air missiles sent to the UAE. Rationale: helping the UAE defend itself protects the ~24,000 Australians still there. Greens defence spokesperson David Shoebridge: this signs Australia up to the war "by deception and stealth." ANU international law professor Donald Rothwell: assisting Gulf state self-defence makes Australia legally party to the armed conflict, regardless of the offensive/defensive distinction.
 
-- **Penny Wong's position:** "This is not Iraq and we are not the Howard government." Australia will not take part in offensive operations against Iran. But the line between "defensive" and "offensive" is blurring.
+- **Australia closed three diplomatic missions.** Embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai were physically closed. Wong told Parliament: "At least nine cities where Australian embassies and consulates are located have been hit by missile strikes and drone attacks." Dependants of officials directed to leave.
+
+- **Penny Wong's position is increasingly contradictory.** "This is not Iraq and we are not the Howard government." Australia will not take part in offensive operations against Iran. But Pine Gap helps aim the bombs, Australian crew were on the submarine that sank an Iranian warship, 85 ADF personnel are deployed to the Gulf with weapons, and three embassies have been closed due to missile strikes. Wong simultaneously says Australia is "not at war" while closing diplomatic missions in a war zone.
+
+- **Israeli FM praised Australia's stance.** In a Zoom briefing with the Zionist Federation of Australia, Israeli Foreign Minister Gideon Sa'ar praised Wong for Australia's "right positions" on the war and praised Queensland's criminalisation of protest slogans, urging other Australian states to copy the legislation.
 
 - **Australians have joined the conflict voluntarily.** 7NEWS reported two young Australians from Melbourne travelled to Israel to fight, citing the Bondi Hanukkah attack (December 2025, 15 killed, 40 injured) as motivation.
 
-- **115,000 Australians were stranded** in the Middle East. The government launched its biggest-ever consular operation, sending six crisis teams and evacuating citizens on RAAF C-17A Globemaster and KC-30A tanker aircraft.
+- **115,000 Australians were stranded** in the Middle East. 3,200+ have returned on 23 commercial flights. The government launched its biggest-ever consular operation, sending six crisis teams and evacuating citizens on RAAF C-17A Globemaster and KC-30A tanker aircraft.
+
+### Civil liberties
+
+- **Queensland made first arrests under "from the river to the sea" ban.** Two protesters arrested on the first day the laws took effect -- one (Liam Parry, Students for Palestine) arrested moments after explaining the phrase to media; a second arrested for wearing a shirt with the slogan. Up to two years jail. Constitutional challenge expected.
+
+- **The Greens introduced a war powers bill** requiring parliamentary vote before the ADF is sent to war. Similar bills have been rejected for 20+ years despite a 2023 poll showing 90% public support. Shoebridge: "AUKUS was decided in secret and AUKUS has driven us into this war."
 
 ### Fuel crisis
 
 This is where the war has hit ordinary Australians hardest and fastest.
 
-- **Australia has only 26 days of diesel reserves.** A former senator and submariner, Rex Patrick, obtained the National Liquid Fuel Emergency Response Plan via freedom of information. The government had spent over $150,000 in legal fees trying to block its release.
+- **Australia has only about a month of fuel reserves.** A former senator and submariner, Rex Patrick, obtained the National Liquid Fuel Emergency Response Plan via freedom of information. The government had spent over $150,000 in legal fees trying to block its release. Official figures (Day 12): 36 days of petrol, 34 days of diesel, 32 days of jet fuel in storage.
 
-- **Diesel ran dry in Hobart, Tasmania -- eight days before the war even started** (20 February). Five Ampol stations ran out. The Hobart Terminal had been low on all fuels for three days. Emergency services were directed to 24-hour stations. This was a preview of what was coming.
+- **Diesel ran dry in Hobart, Tasmania -- eight days before the war even started** (20 February). Five Ampol stations ran out. This was a preview of what was coming.
 
-- **Major wholesalers cut diesel to farmers.** Refiners directed fuel to retail petrol stations and away from wholesale deliveries to farms. Nationals leader David Littleproud called the situation "frightening." Farmer Layton Free: "Thursday they phoned and said there is an issue. Then by Friday they phoned and said there is a problem. There is no longer supply."
+- **By Day 12, fuel distributors called it the worst in decades.** Danny Kreutzer (Westlink Petroleum, 45 years in business): "I have never seen it as bad as what it is right now." 90% reduction in supplies. 37 of 38 trucks at standstill. Gretta Barton (Bartranz Petroleum): usually distributes 1 million litres per week; now can only pick up 50,000 litres per day. Jake Turner (WA Wheatbelt farmer): less than 500 litres left, tractors use 200 litres per hour, ordered 20,000 litres two weeks ago, told delivery at least two more weeks. "We have turned a farming operation off from front to back."
 
-- **Panic buying gripped Australian cities.** news.com.au reported Sydney "clinging to last petrol under $2."
+- **Fishing fleets grounded.** Pavo Walker (Walker Seafoods, Mooloolaba): "The three major fishing wharves at Mooloolaba have no fuel for us." Noel Cattell (50+ years fishing): "If the fuel price goes up to $2.50 to $3 a litre, we are pretty well out of business." Walker: "This week's haul could be the last catch for the foreseeable future."
 
-- **Food supply at risk.** The Courier Mail reported Australia's food supply was at risk as diesel was cut to farmers. If farmers cannot run machinery and trucks, they cannot produce or transport food.
+- **Panic buying gripped Australian cities.** Fuel sales spiked 238% in Adelaide Hills/Barossa, 100% in Mildura. Sydney "clinging to last petrol under $2." York service station in WA Wheatbelt limiting customers to 50 litres.
 
-### Stock market crash
+- **The government responded with emergency measures.** Energy Minister Bowen approved higher-sulphur (dirtier) fuel imports for 60 days, adding an estimated 100 million litres per month. He also reduced the Minimum Stock Obligation -- diesel from 2.7 billion to 2.2 billion litres, petrol from 1 billion to 700 million litres -- releasing up to 762 million litres from domestic reserves. Resources Minister Madeleine King flew to Japan for the Indo-Pacific Energy Security Forum: "The longer the war continued, the harder it would be for the global economy. Ripple effects reach everybody's shores, including Australia's."
+
+- **The ACCC launched an investigation.** The consumer watchdog wrote to fuel companies requesting information on reserves and prices. Deputy chair Keogh wants to understand if prices are "out of kilter with international trends." NSW Farmers is asking members to report suspected price gouging on fuel and urea for possible ACCC submission.
+
+### Fertiliser crisis
+
+- **Australia imports 64% of its urea from the Gulf** (Saudi Arabia, Qatar, UAE, Bahrain, Oman). Urea is essential for growing food -- it is the main nitrogen fertiliser.
+
+- **Urea prices have surged.** Argus granular urea was assessed at A$830-840/tonne before the war (26 Feb). By Day 14, prices had reached A$1,195/tonne, with suppliers telling farmers "we can't give you a price." Diesel at the bowser went from ~A$1.70/litre (2 Mar) to ~A$2.20.
+
+- **The timing is critical.** Australia's peak urea demand is April-June (winter crop season). March-April cargoes from the Gulf are now disrupted. If the strait stays closed, the 2026 growing season is directly affected regardless of when the war ends. This is the oil-to-fertiliser-to-food chain that Chomsky described twenty years ago.
+
+- **Bob Katter (House of Representatives):** Australia is 30% self-sufficient in oil and 3% self-sufficient in petrol.
+
+### Stock market and economic impact
 
 - **The ASX lost $111 billion in a single day** (Monday 9 March) as oil prices surged past $100 a barrel. The S&P/ASX200 fell 3.4% -- 300 points -- one of the worst days in the past year.
+
+- **The RBA is now expected to raise interest rates** as war-driven inflation feeds into the economy, reversing the rate-cut trajectory that was expected before the war.
+
+- **Economists warn petrol could rise another 40 cents per litre** in coming weeks. Diesel at the bowser is already up from A$1.70 to A$2.20 per litre.
 
 ### The political dilemma
 
 Australia is caught in a trap that Jiang, Chomsky and Paul all described from different angles:
 
-- **The AUKUS trap (Jiang):** The $368 billion submarine deal means Australia cannot afford to anger Washington. Former high commissioner Strahan: AUKUS "backs us into a corner."
+- **The AUKUS trap (Jiang):** The $368 billion submarine deal means Australia cannot afford to anger Washington. Former high commissioner Strahan: AUKUS "backs us into a corner." Shoebridge: "AUKUS was decided in secret and AUKUS has driven us into this war."
 
 - **The Iraq precedent trap (Chomsky):** In 2003, Labor leader Simon Crean called the Iraq war "illegal, unnecessary and unjust." He was right -- but he was painted as weak and unpatriotic and lost his leadership. Defence Minister Marles said as recently as 2023 that he would "definitely support" Crean's position. But now that war has started, Albanese is doing the opposite of what Crean did, because he saw what happened to Crean. Political pragmatism has overridden principle.
 
-- **The legal problem:** Canadian PM Mark Carney said the strikes appeared "inconsistent with international law." France's Macron said they were "outside the framework of international law." Wong refused to comment on the legality, saying it was "a matter for Israel and the US." Stanford's Allen Weiner: "My judgment is that the attack was quite clearly illegal."
+- **The legal problem:** Canadian PM Mark Carney said the strikes appeared "inconsistent with international law." France's Macron said they were "outside the framework of international law." Wong refused to comment on the legality, saying it was "a matter for Israel and the US." Stanford's Allen Weiner: "My judgment is that the attack was quite clearly illegal." ANU's Donald Rothwell: deploying military assets to the Gulf makes Australia legally party to an armed conflict regardless of the offensive/defensive label.
 
 - **The sovereignty question:** Guardian columnist Zoe Daniel: "As a nation, do we value our sovereignty, or do we just succumb to whatever pressure America applies?" IPAN: "No matter how deep we have got ourselves into this alliance with the United States, I don't think we should ever get to a point where we cannot say no."
+
+- **The civil liberties question:** Queensland's criminalisation of protest slogans -- praised by Israel's Foreign Minister, who urged other states to copy it -- raises the question of whether wartime logic is being used to suppress domestic dissent. Greens have introduced a war powers bill requiring parliamentary approval before troops are deployed; 90% of Australians support this in principle, but the bill faces the same opposition it has met for twenty years.
 
 ---
 
 ## What the predictions say will happen next for Australia
 
-### Short term (Week 2, March 10-14)
+### What happened in Week 2 (March 10-14) -- checking earlier forecasts
 
-- **The fuel crisis will deepen.** With Hormuz closed or nearly closed and Australia holding only 26 days of diesel, rationing is likely. Farmers will be the first to feel it because retail gets priority. A former head of the ACCC has already warned about petrol rationing.
+| What we predicted | What happened | Verdict |
+|---|---|---|
+| Fuel crisis will deepen; rationing likely | "Worst in decades"; 90% supply reduction; farmers, fisheries, trucking all hit; Bowen approved dirtier fuel + released 762M litres from reserves; ACCC investigating | **Correct** |
+| Military assistance question will come to a head | Albanese deployed 85 ADF personnel, Wedgetail, air-to-air missiles to UAE; ANU professor: legally party to armed conflict | **Correct** |
+| ASX will remain volatile | ASX lost $111B on Day 10; RBA now expected to hike rates; diesel up 30%+ at the bowser | **Correct** |
 
-- **The military assistance question will come to a head.** Gulf states have asked Australia for help defending against drones and missiles. Wong has said the government will "work through" the requests. If Australia sends military assets -- even for "defence" -- it becomes a participant in the conflict. Iran has already warned that any country hosting or supporting US operations is a target.
+### Short term (Week 3, March 15-21)
 
-- **The ASX will remain volatile.** Oil above $100 and climbing means inflation fears, rate cut delays, and continued sell-offs in sectors exposed to energy costs (airlines, transport, retail).
+- **Fuel rationing may become formal.** The government has already reduced the Minimum Stock Obligation and approved dirtier fuel. The next step, if the Strait of Hormuz remains closed, is formal rationing. Rural and regional Australia will be hit hardest -- trucking companies are already unsure they can refuel 1,000 km from home.
 
-### Medium term (March 15-31)
+- **Easter food supply is at risk.** Fishers say this week's catch could be "the last for the foreseeable future." Farmers have turned off operations. Barton (distributor): "Farmers will stand to lose hundreds of thousands of dollars, transport companies will go under." Easter is 5 April -- three weeks away. If diesel does not flow to farms and wharves by then, the shelves will thin.
 
-- **Food prices will rise.** Chomsky's oil-to-fertiliser-to-food chain is now active in Australia. A third of global fertiliser passes through Hormuz. If diesel stays scarce and fertiliser prices keep climbing, Australian food production and prices will be directly affected within weeks. The autumn planting season is now.
+- **Urea will become the next crisis.** Peak demand for winter crop fertiliser is April-June. At A$1,195/tonne with "no price available," many farmers will plant less or not at all. The damage to the 2026 growing season may be locked in regardless of when the war ends.
 
-- **The "mission creep" risk.** Zoe Daniel warned there is "already mission creep, without an exit strategy." Australia's involvement started with a joint statement, moved to Pine Gap intelligence, then a submarine crew, then evacuation flights, then military assistance requests. Each step is small. Together they add up to complicity in a war that most Australians did not ask for and that may be illegal under international law.
+### Medium term (March 22 - April)
 
-- **Carney's "strategic cousins" pitch.** Canadian PM Carney visited Australia in early March and called for middle powers to "close ranks." Carney and Albanese are both trying to navigate the same trap: too dependent on the US to oppose it openly, too democratic to support a war their populations did not vote for. The question is whether middle-power solidarity produces a coordinated call for de-escalation, or whether it remains talk.
+- **Food prices will rise.** Chomsky's oil-to-fertiliser-to-food chain is now fully active in Australia. 64% of urea from the Gulf. Diesel depots running dry. Urea unaffordable. The autumn planting season is now. If the strait stays closed through March, the food price impact will follow within weeks and last months.
+
+- **The "mission creep" timeline.** Zoe Daniel warned there was "already mission creep, without an exit strategy." The timeline is now clear: Day 1, a joint statement. Day 5, Pine Gap intelligence. Day 6, Australian crew on a submarine that sank an Iranian warship. Day 8, evacuation flights. Day 10, Wedgetail and missiles to UAE. Day 11, three embassies closed. Day 14, higher-sulphur fuel and reserve drawdowns. Each step was small. Together they add up to Australia being legally party to a war that most Australians did not ask for and that may be illegal under international law.
+
+- **The interest rate reversal will bite.** Before the war, rate cuts were expected to ease the cost of living. Now the RBA is expected to hike as war-driven inflation feeds into the economy. This hits mortgage holders and renters simultaneously.
+
+- **Carney's "strategic cousins" pitch.** Canadian PM Carney visited Australia in early March and called for middle powers to "close ranks." Carney and Albanese are both trying to navigate the same trap: too dependent on the US to oppose it openly, too democratic to support a war their populations did not vote for. Canada's FM Anita Anand and Spain's FM Jose Manuel Alvarez both called for de-escalation the same week. The question is whether middle-power solidarity produces coordinated action, or whether it remains talk.
 
 ### Longer term
 
-- **If troops go in, Australia will face a conscription-era decision.** Jiang's ground invasion scenario -- 100,000+ US troops trapped in Iran's mountains -- would create enormous pressure on allies to contribute forces. Australia sent troops to Iraq and Afghanistan under similar pressure. The question is whether "This is not Iraq" holds.
+- **If troops go in, Australia will face a conscription-era decision.** Jiang's ground invasion scenario -- 100,000+ US troops trapped in Iran's mountains -- would create enormous pressure on allies to contribute forces. Australia sent troops to Iraq and Afghanistan under similar pressure. The question is whether "This is not Iraq" holds when the phone rings from Washington.
 
-- **The GCC collapse scenario.** Jiang argued that the Gulf states (Dubai, Qatar, Abu Dhabi) are permanently damaged as destinations for Western investment and expatriates. If that holds, the flow of Gulf money into Australian property, education and business will slow or stop. Australia's universities, which depend heavily on international students from the Gulf and broader Middle East, could be affected.
+- **The GCC collapse scenario.** Jiang argued that the Gulf states (Dubai, Qatar, Abu Dhabi) are permanently damaged as destinations for Western investment and expatriates. Three Australian embassies in the Gulf region have already closed. If the damage holds, the flow of Gulf money into Australian property, education and business will slow or stop. Australia's universities, which depend heavily on international students from the Gulf and broader Middle East, could be affected.
 
-- **The AUKUS reckoning.** If the war exposes America as an unreliable or reckless ally -- which is Jiang's argument and Chomsky's argument and increasingly the argument of mainstream Australian commentators -- then the $368 billion submarine deal looks less like a security guarantee and more like a $368 billion anchor tying Australia to a power in decline.
+- **The AUKUS reckoning.** If the war exposes America as an unreliable or reckless ally -- which is Jiang's argument and Chomsky's argument and increasingly the argument of mainstream Australian commentators -- then the $368 billion submarine deal looks less like a security guarantee and more like a $368 billion anchor tying Australia to a power in decline. The Conversation has already published analysis on "AUKUS Plan B."
+
+- **The civil liberties trajectory.** Queensland's arrest of protesters on the first day of the slogan ban, combined with Israel's FM explicitly urging other Australian states to copy it, suggests wartime logic will increasingly be used to suppress domestic opposition. The Greens' war powers bill -- supported by 90% of the public in principle -- has been blocked for twenty years. If it fails again during an active war that most Australians did not vote for, the gap between public opinion and government policy becomes a political liability.
 
 ---
 
@@ -128,15 +170,22 @@ Australia is caught in a trap that Jiang, Chomsky and Paul all described from di
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Diesel reserves | 26 days | Michael West Media / Rex Patrick FOI |
+| Fuel reserves (Day 12) | 36 days petrol, 34 days diesel, 32 days jet fuel | SMH / government |
+| Fuel supply reduction | 90% (distributor estimates) | ABC Rural |
+| Diesel at bowser | A$1.70/L (2 Mar) → A$2.20/L (Day 14) | Grain Central |
+| Urea price | A$830-840/t (26 Feb) → A$1,195/t (Day 14) | Argus Media |
+| Urea imported from Gulf | 64% (1.2 million tonnes in April-May 2025) | Argus Media |
 | ASX single-day loss (9 Mar) | $111 billion (3.4%) | Sky News / The Nightly |
-| Australians stranded in Middle East | ~115,000 | DFAT |
+| Australians stranded in Middle East | ~115,000 (3,200+ returned) | DFAT |
 | AUKUS submarine deal | $368 billion | Guardian |
+| ADF personnel deployed to UAE | 85 + E-7A Wedgetail + air-to-air missiles | ABC / government |
 | Pine Gap | Active -- providing targeting data for US strikes | IPAN / Guardian |
-| Australians on US submarine that sank IRIS Dena | 3 crew | Guardian / government confirmation |
-| Diesel dry in Hobart | 20 Feb 2026 (pre-war) | Pulse Tasmania |
-| Petrol panic buying | Nationwide; Sydney under $2 threshold | news.com.au |
-| Farmers cut off from diesel | Confirmed (multiple states) | 9News / Courier Mail |
+| Embassies/consulates closed | 3 (Abu Dhabi, Tel Aviv, Dubai) | Wong / Parliament |
+| Australians on US submarine that sank IRIS Dena | 3 crew | Guardian / government |
+| Emergency fuel measures | Dirtier fuel approved (60 days); MSO reduced; 762M litres released | 7news / government |
+| Oil self-sufficiency | 30% (3% for petrol) | Bob Katter (House) |
+| Fuel panic buying | Sales +238% (Adelaide Hills/Barossa), +100% (Mildura) | news.com.au / ABC |
+| Queensland protest arrests | 2 on first day of slogan ban | Guardian |
 
 ---
 
@@ -147,6 +196,13 @@ Australia is caught in a trap that Jiang, Chomsky and Paul all described from di
 - `news/2026-03-08_michaelwest_fuel-crisis-governments-playbook-revealed.md`
 - `news/2026-03-09_thenightly_australian-share-market-plunges-34-oil-soaring.md`
 - `news/2026-03-09_skynews_horror-111b-crash-asx-200-oil-surge.md`
+- `news/2026-03-09_guardian_australia-iran-war-deception-shoebridge.md`
+- `news/2026-03-09_conversation_aukus-plan-b-australia-dangerous-leader.md`
+- `news/2026-03-10_abc_australia-military-support-gulf-wedgetail.md`
+- `news/2026-03-10_multiple_australia-strategic-vulnerabilities-aukus-fuel-war.md`
+- `news/2026-03-11_abc_australia-fuel-supply-worst-decades.md`
+- `news/2026-03-11_multiple_australia-shuts-embassies-uae-israel.md`
+- `news/2026-03-12_australia_higher-sulphur-fuel-imports-supply-security.md`
 - `news/2026-03_newscomau_fuel-panic-buying-sydney-petrol-under-2.md`
 - `news/2026-03_couriermail_australias-food-supply-at-risk-diesel-cut-to-farmers.md`
 - `news/2026-02-20_pulsetasmania_diesel-runs-dry-hobart-southern-tasmania.md`
@@ -156,4 +212,6 @@ Australia is caught in a trap that Jiang, Chomsky and Paul all described from di
 - `news/2026-03-02_thenightly_bolton-china-russia-weaker-after-iran-decapitation.md`
 - `news/2026-03-05_newscomau_carney-veiled-swipe-trump-closer-australia-ties.md`
 - `transcripts/undated_youtube_bob-carr-israel-lobby-australia-gaza-genocide-K4psBTp6CVk.md`
+- `updates-and-predictions/day12_11-mar-2026.md`
+- `updates-and-predictions/day14_13-mar-2026.md`
 - `basic-guide/the-iran-war-for-beginners.md`

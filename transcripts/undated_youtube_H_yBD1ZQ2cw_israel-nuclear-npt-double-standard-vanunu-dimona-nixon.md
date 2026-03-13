@@ -1,0 +1,25 @@
+# There is only one nuclear armed state in the Middle East. It is not Iran.
+
+**Date:** undated  
+**Source:** YouTube  
+**URL:** https://www.youtube.com/watch?v=H_yBD1ZQ2cw  
+**Content type:** transcript (documentary / commentary)  
+**Tags:** Israel, nuclear, NPT, double-standard, Dimona, Vanunu, Iran  
+
+---
+
+## tl;dr
+
+Only one nuclear-armed state in the Middle East: Israel. It never signed the Non-Proliferation Treaty; the world has chosen not to see it. For over 30 years Netanyahu has warned from the UN about an "imminent" Iranian atomic bomb while Western diplomacy ignores the elephant in the room. NPT recognizes only five nuclear powers (US, Russia, UK, France, China). Iran is an NPT signatory under rigorous inspections; Israel has never signed and has never acknowledged possessing weapons. Israel's arsenal (estimated ~90 warheads, Institute for Science and International Security) "officially does not exist." Double standard: Iran's program debated at every summit; Israel's invisible. Policy of nuclear ambiguity / deliberate opacity to avoid sanctions and oversight. **Mordechai Vanunu:** nuclear technician at Dimona 9 years; 1986 fled to London with 60 secret photos, told Sunday Times Israel had 100–200 nuclear weapons and hydrogen-bomb capability; described false walls, concealed elevators, six secret underground floors that deceived US inspection teams. Mossad lured him to Rome, drugged, abducted, taken to Israel; convicted of treason and espionage; 18 years in prison (11.5 years in solitary, cell 3×2 m). At 71 still under severe restrictions, banned from leaving, prohibited from speaking to foreign journalists. **Origins:** David Ben-Gurion mid-1950s, Dimona reactor in Negev; covert French assistance (France allied with Israel vs Nasser's Egypt). Site publicly described as textile factory, agricultural research, metallurgical center. 1960 Ben-Gurion acknowledged complex but claimed only peaceful research reactor. US U-2 flights 1958 detected scale; US officials in 1960s deceived by same false walls/concealed floors. 1968 CIA report confirmed Israel was producing nuclear weapons. **1969 Nixon–Golda Meir understanding:** secret; as long as Israel refrained from public testing or declaring arsenal, US would cease inspections and stop asking questions. Birth of "don't ask don't tell" at imperial level. By mid-1970s State Department refused to confirm to Congress that Israel had the bomb despite intelligence stating it did. Every president since Nixon has upheld the silence. **1979 Vela incident:** 22 Sept, US Vela satellite detected double flash (signature of atmospheric nuclear detonation) over South Atlantic; pointed to Israel and apartheid South Africa. Carter administration convened Rubert panel; conclusion: probably not a nuclear detonation, perhaps meteorite striking satellite—political whitewash overriding intelligence. Later Carter acknowledged his scientists did believe Israel had conducted an ocean test. Evidence of nuclear collaboration between Israel and apartheid South Africa. **2000s:** Iraq invaded to eliminate WMD that didn't exist; North Korea left NPT 2003, branded rogue; Israel, with massive clandestine arsenal, untouched. Iran (NPT signatory, inspected) economically strangled. Israel today: ~90 warheads, enough plutonium for ~200 more; full triad (ballistic missiles, aircraft, Dolphin-class submarines with cruise missiles—Germany-supplied). Netanyahu's decades of "imminent Iranian bomb" = projection, diverting attention from Israel's finger on the trigger. Dimona arsenal allows Israel to project power with impunity. Conclusion: Israel's program is the greatest monument to the moral bankruptcy of international institutions; NPT designed so the right bombs stay in the right hands; sovereignty is treated as colonial privilege; the law is enforced only against the empire's enemies.
+
+## Key points
+
+- **NPT:** Iran signatory, under inspections; Israel never signed, never acknowledged; only Middle Eastern state with nuclear arms.
+- **~90 warheads** (ISIS estimate); "officially does not exist."
+- **Vanunu 1986:** 60 photos, Sunday Times; 100–200 weapons, H-bomb capability; false walls, six secret underground floors; lured to Rome, abducted by Mossad; 18 years prison (11.5 solitary); at 71 still restricted.
+- **Dimona:** Ben-Gurion, mid-1950s; French covert help; publicly "textile factory" etc.; 1960 admitted "research reactor"; U-2 1958; US inspectors deceived in 1960s; 1968 CIA confirmed production.
+- **1969 Nixon–Golda Meir:** Secret understanding; no Israeli test or declaration → US stops inspections and questions.
+- **1979 Vela:** Double flash, South Atlantic; Carter panel said probably not nuke (meteorite); Carter later admitted scientists believed Israel had tested.
+- **2000s:** Iraq (no WMD) destroyed; North Korea left NPT = rogue; Israel untouched; Iran strangled.
+- **Delivery:** Triad—missiles, aircraft, Dolphin submarines (Germany).
+- **Thesis:** Netanyahu's "Iranian bomb" warnings = projection; double standard proves NPT and sovereignty serve hegemony; law enforced only against empire's enemies.

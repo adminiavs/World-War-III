@@ -2,7 +2,7 @@
 
 A plain-language guide to the US-Israel war on Iran, the people who predicted it, and what is likely to happen next.
 
-Last updated: 9 March 2026 (Day 10 of the war)
+Last updated: 13 March 2026 (Day 14 of the war)
 
 ---
 
@@ -12,7 +12,7 @@ On 28 February 2026, the United States and Israel launched a massive military at
 
 The stated reason: Iran was close to building a nuclear bomb and posed an immediate threat to the United States. No evidence for an imminent threat was provided.
 
-Ten days later, the war has spread far beyond Iran. At least a dozen countries have been affected. Missiles, drones and bombs have hit Iran, Lebanon, Israel, Bahrain, Qatar, the UAE (including Dubai), Kuwait, Saudi Arabia, Jordan, Iraq and Cyprus. Hundreds of civilians are dead. Oil prices are spiking. Flights across the Middle East have been cancelled. The Gulf cities that millions of people called home are being evacuated.
+Two weeks later, the war has spread far beyond Iran. At least a dozen countries have been affected. Missiles, drones and bombs have hit Iran, Lebanon, Israel, Bahrain, Qatar, the UAE (including Dubai), Kuwait, Saudi Arabia, Jordan, Iraq, Cyprus and Oman. More than 1,350 Iranian civilians and 630 Lebanese civilians are dead. Seven US soldiers have been killed and 140 injured. A French soldier has been killed in Iraq. Oil prices have surged past $100 a barrel. Flights across the Middle East have been cancelled. The Gulf cities that millions of people called home are being evacuated. The Strait of Hormuz is effectively closed.
 
 This guide explains three things:
 
@@ -76,7 +76,7 @@ Three voices stand out because they made specific, testable predictions -- and g
 - The war would be catastrophic: 10-15 times worse than Iraq, potentially 10-15 million dead and $20-30 trillion in costs.
 - No democracy would be installed. Based on the US track record (Shah in 1953, Pinochet in Chile, Libya in 2011), the US would either install a dictator or leave Iran in stateless ruin.
 
-**Why he matters now:** Of his 30 specific predictions, 18 have been directly confirmed by events in the first 10 days of the war. Another 10 are actively tracking. None have been contradicted. His 2018 book reads like a blueprint for what happened in February-March 2026.
+**Why he matters now:** Of his 30 specific predictions, 18 have been directly confirmed by events in the first 14 days of the war. Another 10 are actively tracking. None have been contradicted. His 2018 book reads like a blueprint for what happened in February-March 2026.
 
 ---
 
@@ -120,33 +120,33 @@ Here is a timeline showing when each prediction was made and when it came true.
 |---|---|---|---|---|
 | The US will attack Iran | Paul, Chomsky, Ritter | 2006-07 | US and Israel launched Operation Epic Fury | 28 Feb 2026 |
 | Same arguments as Iraq (WMD, regime change) | Paul, Chomsky, Ritter | 2006-07 | War justified by nuclear threat; regime change is stated goal; no UN authorisation | 28 Feb 2026 |
-| Oil prices will spike | Paul ($120/bbl), Ritter ($150-200) | 2006 | Brent hit $93+ in week one; Goldman projected $100+; gas at $3.32/gal (+11%/week by day 10) | Mar 2026 |
-| Strait of Hormuz will be disrupted | Paul, Chomsky | 2006-07 | Hormuz partially closed; tankers hit; five major shipping lines suspended Gulf operations | Mar 2026 |
-| Congress will not stop the war | Paul | 2006 | Senate War Powers Act vote failed; Trump acted without declaration of war | Mar 2026 |
-| War will backfire worse than Iraq | Paul, Ritter | 2006 | 12+ countries hit; Gulf states damaged; Lebanon 394 dead in one week; 1,332 Iranian civilians killed | Day 10, still escalating |
-| Attack will strengthen hardliners, not weaken them | Chomsky | 2006-07 | Khamenei's son Mojtaba chosen as successor; hardliners consolidated; parliament speaker says no ceasefire | 9 Mar 2026 |
-| Iran pushed toward Russia and China | Chomsky | 2006-07 | Russia providing intelligence to Iran; China buying 90% of Iranian oil; both condemned strikes but did not intervene militarily | Mar 2026 |
-| European countries drawn in defensively | Chomsky | 2006-07 | UK, France, Germany deploying in defensive roles; UK allowing RAF bases for "defensive strikes"; France demanding Iran halt strikes | Mar 2026 |
-| Oil shock will cause food and fertiliser crisis | Chomsky | 2006-07 | Fertiliser prices surging; Hormuz handles a third of global fertiliser trade; food shock warnings issued | Mar 2026 |
-| War will be paid for by hidden inflation tax on the poor | Paul | 2006 | Gas prices at highest of either Trump term; diesel up 15% in one week; war costing $1 billion/day; Trump calls it "a little glitch" | Mar 2026 |
+| Oil prices will spike | Paul ($120/bbl), Ritter ($150-200) | 2006 | Brent past $100/barrel by Day 14; peaked ~$120; gas $3.58 nationally, $5+ in California; IRGC warned "$200/barrel"; IEA released 400M barrels (double the 2022 Ukraine response) | Mar 2026 |
+| Strait of Hormuz will be disrupted | Paul, Chomsky | 2006-07 | Hormuz effectively closed — transits collapsed from 138 to ~1 per day; Iran laid mines (estimated 2,000-6,000); US destroyed 16 mine-laying vessels; IRGC: "not a liter of oil through Hormuz"; Mojtaba hinted at closing a second strait (Bab el-Mandeb) | Mar 2026 |
+| Congress will not stop the war | Paul | 2006 | Senate War Powers Act vote failed; 46 senators demanded school strike investigation but took no binding action; Trump campaigned against Rep. Massie for voting for War Powers resolution | Mar 2026 |
+| War will backfire worse than Iraq | Paul, Ritter | 2006 | 12+ countries hit; French soldier killed in Iraq; 7 US KIA, 140 injured; Iraq now a secondary battlefield; 1,350+ Iranian civilians killed; Lebanon 630+ dead, 816K+ displaced; Bahrain imported anti-riot troops; Dow crashed 750 points; THAAD radar destroyed; Citi/HSBC fleeing Gulf | Day 14, still escalating |
+| Attack will strengthen hardliners, not weaken them | Chomsky | 2006-07 | Mojtaba chosen as successor; Senate DOD briefings: new leader "more radical, more anti-American than the one we killed"; regime change "is in fact not" the goal of the war plan; no uprising | Mar 2026 |
+| Iran pushed toward Russia and China | Chomsky | 2006-07 | Russia providing intelligence; China buying 90% of Iranian oil and halted fuel exports to the West; both condemned strikes but no military intervention | Mar 2026 |
+| European countries drawn in defensively | Chomsky | 2006-07 | French soldier killed in Iraq (first non-US/Israeli combat death); Macron: "the war in Iran cannot justify such attacks"; Iran-aligned factions explicitly targeting French interests; UK, Germany, Australia deployed defensively | Mar 2026 |
+| Oil shock will cause food and fertiliser crisis | Chomsky | 2006-07 | American Farm Bureau warned White House of food supply disruption "not seen since 2022"; Australian urea surged to A$1,195/tonne; diesel depots running dry; NZ petrol heading toward $3/litre; aluminium at 4-year high | Mar 2026 |
+| War will be paid for by hidden inflation tax on the poor | Paul | 2006 | Gas $3.58→$5+ in California; war costing $2 billion/day ($5.6B first two days, $11.3B first week); 172M barrels from Strategic Reserve; supplemental budget request going to Congress; Trump claims rising prices are "good" for oil companies | Mar 2026 |
 
 ### Predictions made in 2018 (eight years before the war) — Dan Kovalik, *The Plot to Attack Iran* — **60% confirmed, 93% tracking**
 
 | What he said | When he said it | What actually happened | When it happened |
 |---|---|---|---|
 | The JCPOA was a "Trojan Horse" to strip Iran's deterrence, leaving it vulnerable to attack | 2018 | Trump withdrew from deal; war launched; Iran had no bomb; IAEA confirmed | Feb 2026 |
-| Same Iraq playbook: manufactured intelligence, media blackout of contrary evidence | 2018 | "Nuclear threat" narrative; 2003 NIE and Khamenei fatwa absent from coverage; no UN authorisation | Feb 2026 |
+| Same Iraq playbook: manufactured intelligence, media blackout of contrary evidence | 2018 | "Nuclear threat" narrative; Pentagon school-strike investigation suppressed; 2003 NIE and Khamenei fatwa absent from coverage; Anthropic sued over Pentagon AI use for targeting | Feb-Mar 2026 |
 | US would first destroy Iran's allies (Syria, Hezbollah) before attacking Iran directly | 2018 | Syria gutted by civil war; Hezbollah degraded; then Iran attacked | 2011-2026 |
 | Bolton/Pompeo placement guaranteed conflict; diplomacy abandoned | 2018 | Bolton was NSA; hawkish appointments continued; war followed | 2018-2026 |
-| Iran not easy to crush; strategic depth and mountainous terrain | 2018 | Decapitation did not end war; military pre-planned; Etemad missile deployed mid-war | Mar 2026 |
-| Hezbollah and regional fronts part of the opening phase | 2018 | Lebanon hit day one; 394+ dead in week one; Hezbollah 13 operations per day | Feb-Mar 2026 |
-| Hostile US policy would strengthen hardliners, not moderates | 2018 | Mojtaba Khamenei (most hardline option) chosen as successor; no uprising; population unified | Mar 2026 |
-| Iranian retaliation would be branded "unprovoked aggression" ("crime of self-defence") | 2018 | UAE: "brutal and unjustified Iranian aggression"; context of US first strike stripped from coverage | Mar 2026 |
-| US would reject all diplomatic off-ramps; peace doesn't serve the military-industrial complex | 2018 | Oman diplomacy failed; Trump demanded unconditional surrender and right to choose Iran's leader | Mar 2026 |
-| "Creative destruction" -- destroy Middle East oil capacity | 2018 | Tehran oil depots struck; Gulf infrastructure targeted; 20m b/d off market | Mar 2026 |
-| Kurdish proxy front to fracture Iran from within | 2018 | Trump backed Kurdish offensive day 5; CIA arming militias in Erbil | Mar 2026 |
-| War would be 10-15x worse than Iraq (10-15 million dead, $20-30 trillion) | 2018 | 12+ countries, $10B+ in 10 days, Hormuz closed, 1,400+ dead; trajectory matching | Ongoing |
-| White House would "cook" intelligence (Wilkerson cited) | 2018 | NIC leak (Feb 2026) contradicted war claims; war launched on fabricated premise | Mar 2026 |
+| Iran not easy to crush; strategic depth and mountainous terrain | 2018 | Decapitation did not end war; military pre-planned; Etemad missile deployed mid-war; Mojtaba chose "more radical" path; former senior military contact: first two aims achievable, regime change "simply isn't" | Mar 2026 |
+| Hezbollah and regional fronts part of the opening phase | 2018 | Lebanon 630+ dead (91 children), 816K+ displaced; Hezbollah operating across multiple fronts; Iraq now secondary battlefield; French soldier KIA | Feb-Mar 2026 |
+| Hostile US policy would strengthen hardliners, not moderates | 2018 | Mojtaba Khamenei (most hardline option) chosen; Senate briefing: "more radical, more anti-American than the one we killed"; no uprising; population unified | Mar 2026 |
+| Iranian retaliation would be branded "unprovoked aggression" ("crime of self-defence") | 2018 | UAE: "brutal and unjustified Iranian aggression"; Qatar PM condemned strikes but context of US first strike stripped; Iran's FM: "Operation Epic Mistake" is "a misadventure engineered by Israel and paid for by ordinary Americans" | Mar 2026 |
+| US would reject all diplomatic off-ramps; peace doesn't serve the military-industrial complex | 2018 | Oman diplomacy failed; Trump demanded unconditional surrender and right to choose Iran's leader; Trump simultaneously claims war is "pretty much complete" and "we're going further" (TACO pattern) | Mar 2026 |
+| "Creative destruction" -- destroy Middle East oil capacity | 2018 | Tehran oil depots struck; Gulf infrastructure targeted; 20M b/d off market; Saudi pipeline only partial replacement; Chevron/Shell Venezuela deal to fill gap | Mar 2026 |
+| Kurdish proxy front to fracture Iran from within | 2018 | Trump backed Kurdish offensive day 5; CIA arming militias in Erbil; former military: arming Kurds "not the answer — they would be massacred by the Republican Guard" | Mar 2026 |
+| War would be 10-15x worse than Iraq (10-15 million dead, $20-30 trillion) | 2018 | 12+ countries, $11.3B in first week alone, Hormuz closed, 1,350+ Iranian civilians dead, 630+ Lebanese dead, 7 US KIA, 140 US injured; trajectory matching | Ongoing |
+| White House would "cook" intelligence (Wilkerson cited) | 2018 | NIC leak (Feb 2026) contradicted war claims; Pentagon found US at fault for school strike but Trump denied awareness; AI targeting under legal challenge | Mar 2026 |
 
 ---
 
@@ -155,33 +155,34 @@ Here is a timeline showing when each prediction was made and when it came true.
 | What they said | Who said it | When they said it | What actually happened | When it happened |
 |---|---|---|---|---|
 | Trump will win and start a war with Iran | Jiang | Mid-2024 | Trump won November 2024; launched war February 2026 | Nov 2024 / Feb 2026 |
-| Iran will use cheap drones ($50k) against expensive US missiles ($1-13M) and the US will run out of missiles first | Jiang | Apr 2024 | Pentagon fired 100+ THAAD interceptors (a quarter of all it had) in June 2025 alone; only producing 11-12 new ones per year; $3.5B emergency request to replenish | Mar 2026 |
-| Gulf countries are indefensible: water plants, oil, food all exposed | Jiang | Mid-2024 | Bahrain desalination plant hit; Qeshm desalination hit; Dubai Marina hit; Qatar airport shut; Kuwait oil production cut; ultra-rich paying $250k to flee on private jets | Mar 2026 |
-| Mojtaba Khamenei (the supreme leader's son) will be chosen as successor | Jiang | May 2024 | Clerical council indicated Mojtaba; "The name of Khamenei will continue" | 9 Mar 2026 |
-| Iran's goal is to lure America into a ground invasion, knowing it will fail | Jiang | Apr 2024 | Iran responded to Trump's 5,000 troop plan by saying "Bring your soldiers. We have been preparing for decades." | Mar 2026 |
-| China will not intervene militarily; will provide limited support | Jiang | Apr 2024 | China condemned strikes, warned of nuclear escalation, but no military intervention; buying Iranian oil | Mar 2026 |
+| Iran will use cheap drones ($50k) against expensive US missiles ($1-13M) and the US will run out of missiles first | Jiang | Apr 2024 | Pentagon fired 100+ THAAD interceptors (a quarter of all it had) in June 2025 alone; only producing 11-12 new ones per year; FT: "US has burned through years of munitions"; EU: US cannot supply Iran, Gulf and Ukraine simultaneously; $50B replenishment planned | Mar 2026 |
+| Gulf countries are indefensible: water plants, oil, food all exposed | Jiang | Mid-2024 | Bahrain desalination hit; Dubai airport hit (four injured); Bahrain airport fuel tanks struck; Kuwait airport hit by drones; Oman oil terminals shut; drone hit residential building in Dubai; Bahrain imported anti-riot troops; 20M b/d off market | Mar 2026 |
+| Mojtaba Khamenei (the supreme leader's son) will be chosen as successor | Jiang | May 2024 | Mojtaba confirmed; Senate briefing: "more radical, more anti-American"; The Guardian: he was injured in the 28 Feb strike, hospitalized with injuries to legs, hand, arm | Mar 2026 |
+| Iran's goal is to lure America into a ground invasion, knowing it will fail | Jiang | Apr 2024 | Iran: "Bring your soldiers. We have been preparing for decades"; Sen. Blumenthal: "on a path toward deploying American troops on the ground in Iran"; special forces HEU mission under consideration | Mar 2026 |
+| China will not intervene militarily; will provide limited support | Jiang | Apr 2024 | China condemned strikes, warned of nuclear escalation, no military intervention; buying Iranian oil; halted fuel exports to West; sent special envoy to region; Xi-Trump summit planned 31 Mar; Bessent-He Lifeng meeting in Paris 15-16 Mar | Mar 2026 |
 
 ### Predictions made in 2025 (one year before the war)
 
 | What they said | Who said it | When they said it | What actually happened | When it happened |
 |---|---|---|---|---|
 | War within two to four years | Jiang | Mar 2025 | War began 11 months later | 28 Feb 2026 |
-| Coalition: UK, Israel, Saudi, Australia, UAE | Jiang | Mar 2025 | All five confirmed participating or providing support | Feb-Mar 2026 |
-| Five justifications (nuclear, shipping, allies, terrorism, democracy) | Jiang | Mar 2025 | All five used; "one month from a bomb" repeated by administration | Feb 2026 |
-| Shock and awe will not work because Iran has decentralized command (31 centres) | Jiang | Mar 2025 | Khamenei killed but war intensified; military did not fracture; intelligence agencies admit their assessment was wrong | Mar 2026 |
-| Iranian people will NOT welcome American liberation | Jiang | Mar 2025 | No uprising; population went to work; markets stayed open; regime chose hardline successor | Mar 2026 |
-| US cannot produce enough ammunition for a sustained war; China builds 232 ships for every one American ship | Jiang | Mar 2025 | EU defence commissioner said US cannot supply enough missiles for Iran, Gulf and Ukraine simultaneously; Pentagon planning $50B replenishment; war may last until autumn | Mar 2026 |
+| Coalition: UK, Israel, Saudi, Australia, UAE | Jiang | Mar 2025 | All five confirmed; France drawn in (soldier KIA in Iraq); Australia relaxed fuel standards due to war | Feb-Mar 2026 |
+| Five justifications (nuclear, shipping, allies, terrorism, democracy) | Jiang | Mar 2025 | All five used; White House: initial timeline "four to six weeks" to achieve objectives; Carolyn Leavitt listed all five goals publicly | Feb-Mar 2026 |
+| Shock and awe will not work because Iran has decentralized command (31 centres) | Jiang | Mar 2025 | Khamenei killed but war intensified; Mojtaba succession seamless; military pre-planned; former military contact: regime change "simply isn't" achievable; US has burned through years of munitions and hasn't stopped Iranian drones | Mar 2026 |
+| Iranian people will NOT welcome American liberation | Jiang | Mar 2025 | No uprising; population went to work; markets stayed open; population unified behind hardline successor; Kay Burley (BBC): "Don't send your sons to finish a war that politicians start" | Mar 2026 |
+| US cannot produce enough ammunition for a sustained war; China builds 232 ships for every one American ship | Jiang | Mar 2025 | EU: US cannot supply Iran, Gulf and Ukraine simultaneously; FT: burned through "years of munitions"; $50B replenishment planned; THAAD radar destroyed; KC-135 lost in Iraq (militia claims shootdown) | Mar 2026 |
 
 ### Predictions not yet fulfilled but looking increasingly likely
 
-| What they said | Who said it | Status as of Day 10 |
+| What they said | Who said it | Status as of Day 14 |
 |---|---|---|
-| Oil will reach $120-200 per barrel | Paul ($120), Ritter ($150-200) | Oil above $90 and climbing; gas up 11% in one week; Qatar warned $150 within three weeks |
-| If troops go in, they become hostages; sunk cost trap begins | Jiang | Trump floated 5,000 troops; Axios reported special forces for uranium sites; Iran said "bring your soldiers" |
-| Trump will threaten nuclear weapons; Putin will block him | Jiang | E6B "doomsday plane" (nuclear command aircraft) now flying over the Gulf; Tucker Carlson and China both warning of nuclear drift; Trump says "everything on the table" |
-| Gulf countries will publicly break with the US | Jiang | Privately asking US to leave; not yet said so publicly; UAE calling Iranian attacks "brutal and unjustified" (angry at both sides) |
-| The dollar and the petrodollar system will be damaged | Jiang, Ritter | Gulf $2T withdrawal talk; stock markets falling; too early to confirm but trajectory is consistent |
-| The war will be "worse than Iraq" | Ritter | 10 days in: 12+ countries affected, $10B+ spent, Hormuz closed, 1,400+ dead, flights cancelled across the region |
+| Oil will reach $120-200 per barrel | Paul ($120), Ritter ($150-200) | **Paul's number hit**: Brent peaked ~$120 (Day 6); now ~$90 after IEA released 400M barrels; IRGC: "$200/barrel"; IEA reserve release is a stopgap, not a fix |
+| If troops go in, they become hostages; sunk cost trap begins | Jiang | Special forces HEU mission under consideration; Sen. Blumenthal: "we seem to be on a path toward deploying troops on the ground in Iran"; Iran: "bring your soldiers -- we have been preparing for decades" |
+| Trump will threaten nuclear weapons; Putin will block him | Jiang | E6B "doomsday plane" flying over Gulf; Senate DOD briefing: nuclear denial "not a goal" of current war plan; China warning of nuclear escalation at every opportunity |
+| Gulf countries will publicly break with the US | Jiang | Moving closer: Qatar PM publicly condemned strikes, called them "unacceptable under any pretext"; UNSC resolution denouncing Iranian attacks on GCC; Bahrain importing anti-riot troops (sign of internal pressure); but no country has yet asked US forces to leave publicly |
+| The dollar and the petrodollar system will be damaged | Jiang, Ritter | Dow crashed 750 points; Citi/HSBC fleeing Gulf; Gulf $2T withdrawal talk; too early to confirm structural damage but trajectory is consistent |
+| The war will be "worse than Iraq" | Ritter | 14 days in: 12+ countries, $11.3B+ in first week, Hormuz closed, 1,350+ Iranian civilians dead, 630+ Lebanese dead, 7 US KIA, 140 US injured, 1 French KIA, KC-135 lost, THAAD radar destroyed, global oil/food/fertiliser crisis underway |
+| Trump will try to "declare victory and leave" but Iran won't let him | Kovalik, Jiang | **Emerging**: Slate identified "TACO" pattern (Trump Always Chickens Out); Trump told CBS "war very complete, pretty much" then same day told Congress "we're gonna go further"; FT: "Wars don't end just because someone declares them to be finished" |
 
 ---
 
@@ -189,45 +190,49 @@ Here is a timeline showing when each prediction was made and when it came true.
 
 Based on the track record of these predictions so far, here is what the evidence suggests.
 
-### The next few days (Week 2: March 10-14)
+### What happened in Week 2 (March 10-14) -- checking earlier forecasts
 
-**The bombing will continue but will not end the war.** The US and Israel will keep hitting Iranian oil facilities, military sites and infrastructure. Iran's air defences will get weaker. But Iran's ability to fire drones and missiles will not stop, because those weapons are small, cheap and hidden across a huge mountainous country.
+The previous version of this guide made five predictions for Week 2. Here is what actually happened:
 
-**The new supreme leader will be announced.** Mojtaba Khamenei will likely be confirmed. Israel has already said it will try to kill him too. This creates a cycle: kill the leader, a new one appears, threaten to kill the new one. Chomsky predicted this exact pattern -- attacking a country makes the hardliners stronger, not weaker.
+| What we predicted | What happened | Verdict |
+|---|---|---|
+| Bombing will continue but not end the war | Bombing intensified; "most intense day of US strikes" (Tuesday); Iran's retaliatory capability has not stopped; KC-135 lost in Iraq; THAAD radar destroyed | **Correct** |
+| Mojtaba will be confirmed as supreme leader | Mojtaba confirmed; Senate DOD briefing described him as "more radical, more anti-American than the one we killed" | **Correct** |
+| Oil prices will keep climbing | Oil peaked at ~$120 then settled to ~$90 after IEA released 400M barrels from reserves; gas rose from $3.32 to $3.58 nationally, $5+ in California; IRGC warned "$200/barrel" | **Partially correct** -- prices climbed then eased on emergency reserve release |
+| Ground troops question will get louder | Sen. Blumenthal warned of "path toward deploying troops on the ground"; special forces HEU mission under consideration; former military source: regime change "simply isn't" achievable without ground forces | **Correct** |
+| Water crisis in the Gulf will deepen | Iran hit Bahrain airport fuel tanks; drones hit Dubai airport; Oman oil terminals shut; Bahrain importing anti-riot troops; Kuwait airport hit; but no further confirmed desalination strikes this week | **Partially correct** -- Gulf crisis deepening via oil/airport/fuel infrastructure rather than water specifically |
 
-**Oil prices will keep climbing.** The Strait of Hormuz is closed or nearly closed. This affects about 20% of the world's oil supply. Gas prices were already up 11% in one week. Analysts are warning of $100+ oil soon, and Qatar has warned $150 within three weeks. This hits ordinary people at the pump and at the grocery store.
+### The next few weeks (Week 3 and beyond: March 15-31)
 
-**The ground troops question will get louder.** Trump has floated 5,000 troops. Axios reported discussions about special forces raids to secure uranium. The Pentagon has reportedly planned for a 100-day war (through the autumn). The pressure to send soldiers in will grow because the bombing alone is not achieving regime change. This is exactly what Jiang warned about: the logic of the war pushes toward a ground invasion, even though a ground invasion in Iran would be far worse than Iraq or Afghanistan.
+**The food and fertiliser crisis will bite.** A third of global fertiliser trade passes through the Strait of Hormuz. The Hormuz is effectively closed. Australian urea has surged to A$1,195/tonne. The American Farm Bureau has warned the White House of food supply disruptions "not seen since 2022." Australia has relaxed fuel standards to allow dirtier, higher-sulphur imports. If the strait stays closed through March, the damage to the 2026 growing season will be locked in regardless of when the war ends. Chomsky flagged this exact chain 20 years ago: oil shock leads to fertiliser shortage leads to food inflation leads to political instability in countries far from the battlefield.
 
-**The water crisis in the Gulf will deepen.** Both sides are now hitting desalination plants (the facilities that produce drinking water from seawater). Iran hit one in Bahrain. The US hit one on Qeshm Island in Iran. The Gulf countries get 42-90% of their drinking water from these plants. If more are targeted, there will be a genuine humanitarian crisis in some of the world's richest countries.
+**The real casualty numbers will start to come out.** Iran claims hundreds of US soldiers killed. The US has officially confirmed 7 dead and 140 injured over 14 days. A pro-Iran militia now claims it shot down a KC-135 in Iraq and killed all six crew; CENTCOM says the aircraft was "lost" but not due to hostile fire. The gap between the two narratives is unsustainable. Soldiers talk. Medics talk. Satellite images show destroyed bases. At some point, the truth surfaces. This is what happened in Vietnam: the government's numbers and reality diverged until the gap could no longer be maintained.
 
-### The next few weeks (March 15-31)
+**The Xi-Trump summit (March 31) will be a pivot point.** US Treasury Secretary Bessent meets Chinese Vice Premier He Lifeng in Paris on March 15-16 -- a pre-summit that will set the terms. Trump initiated Section 301 trade probes against China the same week. China is Iran's biggest oil customer, holds enormous US debt, and has sent a special envoy to the region to mediate. China's leverage is at a high point because the war has weakened Trump's bargaining position on trade. Jiang predicted China would not intervene militarily but would use the war to extract concessions on Taiwan, trade and the dollar.
 
-**Food prices will start to rise worldwide.** A third of global fertiliser trade passes through the Strait of Hormuz. If the strait stays closed through March, the damage to the 2026 growing season will be locked in regardless of when the war ends. Chomsky flagged this exact chain: oil shock leads to fertiliser shortage leads to food inflation leads to political instability in countries far from the battlefield.
+**Trump will try to declare victory but may not be able to.** The TACO pattern (Trump Always Chickens Out) identified by Slate suggests Trump is looking for an exit. He told CBS the war was "pretty much complete," then told Congress "we're going further." The FT warned: "Wars don't end just because someone declares them to be finished." The problem: Mojtaba is not interested in helping Trump save face, Iran's drones are still "finding their mark" as interceptors flag, and Netanyahu has his own timeline. Even if Trump exits, the regional consequences (Hormuz closure, Gulf damage, oil shock) cannot be turned off.
 
-**The real casualty numbers will start to come out.** Iran claims 220 US soldiers were killed in a single day. The US says the number is 8-10. Seven US deaths have been officially confirmed over 10 days. The gap between the two numbers is unsustainable. Soldiers talk. Medics talk. Satellite images show destroyed bases. At some point, the truth surfaces. This is what happened in Vietnam: the government's numbers and reality diverged until the gap could no longer be maintained.
+**How does this end?** There are three possible paths:
 
-**China will use its leverage.** A summit between Xi Jinping and Trump is expected in late March. China is Iran's biggest oil customer. China holds enormous amounts of US debt. China has already publicly warned that the situation is heading toward nuclear escalation and must stop. At the summit, China will have significant bargaining power.
+1. **TACO exit / stalemate** (most likely in the short term): Trump declares the war "won," scales back bombing, Hormuz partially reopens, oil settles at $90-110. No regime change. Iran is damaged but intact and more hardline than before. The war becomes a low-intensity conflict that grinds on. Nobody wins. This is what the former military contact described: first two aims (degrade missiles, deny nuclear capability) are "two-thirds done"; third aim (regime change) "simply isn't" achievable.
 
-**The question will become: how does this end?** There are three possible paths:
+2. **Negotiations** (possible but harder now): Back-channel talks through Oman, Qatar or China produce some kind of deal. But Oman diplomacy has already failed. Trump demanded unconditional surrender and the right to choose Iran's leader. Mojtaba has no reason to negotiate from a position that is stronger than anyone expected. The Xi-Trump summit in late March is the most plausible venue for a deal -- but it would require both sides to accept something far short of their stated goals.
 
-1. **Stalemate** (most likely in the short term): The US declares it has "degraded" Iran's military, scales back bombing, Hormuz partially reopens, oil settles at $95-110. No regime change. The war becomes a low-intensity conflict that grinds on. Nobody wins.
-
-2. **Negotiations** (possible): Back-channel talks through Oman, Qatar or China produce some kind of deal. Iran agrees to nuclear constraints in exchange for the bombing stopping. Trump declares victory. Iran declares victory. The reality is that nothing fundamental has changed, but everyone has a story to tell.
-
-3. **Ground escalation** (unlikely but no longer impossible): Special forces go in for uranium. Something goes wrong. Soldiers are captured or killed. The "sunk cost" logic kicks in: we have to send more troops to rescue the ones already there. This is the scenario Jiang has been warning about for two years. It is also the scenario Iran has been preparing for and, according to Jiang, actually wants.
+3. **Ground escalation** (unlikely but the logic keeps pushing toward it): Special forces go in for highly enriched uranium. Something goes wrong. Soldiers are captured or killed. The "sunk cost" logic kicks in: we have to send more troops to rescue the ones already there. Former military source: arming Kurds is "not the answer -- they would be massacred by the Republican Guard." This is the scenario Jiang has been warning about for two years. It is also the scenario Iran has been preparing for and, according to Jiang, actually wants.
 
 ### The bigger picture
 
 The most important thing to understand is that this war is not a surprise to anyone who was paying attention. Four separate people -- a Republican congressman in 2006, a world-renowned MIT professor in 2007, a human rights lawyer in 2018, and a high school teacher in 2024 -- all independently reached the same conclusion: the United States was going to attack Iran, it was going to use the same arguments it used for Iraq, and it was going to go badly.
 
-They were right about the war happening. They were right about the oil shock. They were right about the Strait of Hormuz. They were right about Congress not stopping it. They were right about the hardliners getting stronger. They were right about the Gulf countries being vulnerable. They were right about the coalition. They were right about the munitions running out.
+They were right about the war happening. They were right about the oil shock. They were right about the Strait of Hormuz being closed. They were right about Congress not stopping it. They were right about the hardliners getting stronger. They were right about the Gulf countries being vulnerable. They were right about the coalition. They were right about the munitions running out. They were right about the food and fertiliser crisis. They were right that decapitation would not end the war. They were right that Iran's successor would be more hardline, not less. They were right that the war would spread to countries far beyond Iran.
 
-The predictions that have not yet come true -- ground troops becoming hostages, nuclear threats, the dollar being damaged, the war being worse than Iraq -- are all trending in the direction they described.
+Two weeks in, almost nothing has gone the way the US administration predicted. The CIA said Iranians would welcome intervention -- they did not. The Pentagon expected a "quick, decisive campaign" -- it was not. The administration expected killing the supreme leader to break the regime -- the regime seamlessly chose an even harder-line successor. Trump is now caught between declaring the war "pretty much complete" and admitting "we're going further." A former senior military contact summarized it bluntly: the first two aims (degrade missiles, deny nuclear capability) are achievable; regime change "simply isn't."
+
+The predictions that have not yet come true -- ground troops becoming hostages, the dollar being structurally damaged, the war surpassing Iraq in scale -- are all trending in the direction these analysts described. Paul's $120 oil target was hit on Day 6. The TACO exit pattern is emerging but may not work because Iran, unlike tariff targets, does not back down when Trump reverses course.
 
 None of these people had secret information. Ron Paul read the public statements of the people advocating for war and took them at their word. Chomsky read declassified documents and compared what governments said with what they did. Kovalik traced the policy papers, appointments, and proxy wars that constituted the "plot" in plain sight. Jiang read military doctrine, studied game theory, and applied it to the players involved.
 
-The lesson is not that these three people are unusually brilliant (though they may be). The lesson is that the information was available to anyone. The pattern was visible. The warnings were public. The war happened anyway.
+The lesson is not that these four people are unusually brilliant (though they may be). The lesson is that the information was available to anyone. The pattern was visible. The warnings were public. The war happened anyway.
 
 ---
 
@@ -275,7 +280,7 @@ Gulf countries have almost no natural fresh water. They get their drinking water
 - *Targeting Iran* (City Lights Books, 2007)
 
 **Dan Kovalik's book:**
-- *The Plot to Attack Iran: How the CIA and the Deep State Have Conspired to Vilify Iran* (Skyhorse Publishing, 2018) -- 60% of predictions confirmed in 10 days, 93% confirmed or tracking, 0% wrong
+- *The Plot to Attack Iran: How the CIA and the Deep State Have Conspired to Vilify Iran* (Skyhorse Publishing, 2018) -- 60% of predictions confirmed in 14 days, 93% confirmed or tracking, 0% wrong
 
 **Professor Jiang's lectures (YouTube channel "Predictive History"):**
 - [Asymmetric warfare and Iran strategy](https://www.youtube.com/watch?v=xEEpOxqdU5E) (~April 2024)
