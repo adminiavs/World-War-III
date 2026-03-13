@@ -2,7 +2,7 @@
 
 What the predictors said about Australia, what has happened, and what is likely to come.
 
-Last updated: 13 March 2026 (Day 14 of the war)
+Last updated: 14 March 2026 (Day 15 of the war)
 
 ---
 
@@ -74,9 +74,41 @@ Paul predicted that an Iran war would cause oil prices to spike dramatically, th
 
 - **The Greens introduced a war powers bill** requiring parliamentary vote before the ADF is sent to war. Similar bills have been rejected for 20+ years despite a 2023 poll showing 90% public support. Shoebridge: "AUKUS was decided in secret and AUKUS has driven us into this war."
 
+### What US voters expect of Australia
+
+A YouGov poll of 1,000 US voters (conducted for Bondi Partners, March 13) found that **44% of Americans say allies who publicly back the Iran military operation should also send their own troops.** Two-thirds of Republican voters agree. Only 19% disagree.
+
+This is a direct problem for Australia. Albanese publicly backed the war on Day 1. Under the logic held by nearly half of Americans -- and two-thirds of Republicans -- Australia should be sending troops, not just a surveillance plane and some missiles. AFR Washington correspondent Jessica Gardner: the poll "raises tough questions about how the Albanese government manages the US relationship during the war in Iran."
+
+Trump is already sending 5,000 extra Marines and has not ruled out a ground invasion. If he formally asks allies to contribute troops -- and this poll suggests his base would support that ask -- the "defensive only" position Australia is holding will come under direct pressure from Washington.
+
+See: `news/2026-03-13_afr_trump-allies-iran-us-voters-australia-troops.md`
+
+### Australian unions: silence
+
+The ACTU and virtually every Australian union have said nothing. No statement. No acknowledgment. No industrial action.
+
+By Day 14: 1,255 dead including 200 children, 12,000+ wounded. Three Australians were on the submarine that sank IRIS Dena. The government has committed a Wedgetail, missiles, and 85 troops to the Gulf.
+
+Only two unions have spoken: the MUA ("oppose the war" -- but still loading ZIM ships every week and calling for a government-subsidised Maritime Fleet rather than industrial action) and the AMWU ("we will not allow our labour to be weaponised" -- but making no call for strikes or blockades). The WSWS (World Socialist Web Site) documents this in detail and frames it as deliberate class complicity with the war effort.
+
+See: `news/2026-03-13_wsws_australian-unions-silent-iran-war.md`
+
+### Is Australia legally at war?
+
+The Guardian (14 March) asked the question directly. ANU international law professor Donald Rothwell: assisting a Gulf state in self-defence "means Australia would legally become part of an international armed conflict," regardless of whether the action is labelled offensive or defensive.
+
+The government's position -- "we are not taking offensive action," "we are not deploying ground troops in Iran" -- does not hold under international law, according to independent legal experts. Pine Gap helps aim the bombs. Australian crew were on the submarine that sank a warship. A Wedgetail and missiles are now in the UAE.
+
+Greens senator David Shoebridge: signed up "by deception and stealth." Guardian columnist Zoe Daniel (earlier): "already mission creep, without an exit strategy."
+
+See: `news/2026-03-14_guardian_is-australia-at-war-iran.md`
+
 ### Fuel crisis
 
 This is where the war has hit ordinary Australians hardest and fastest.
+
+- **China has halted refinery exports, cutting jet fuel supply to Australia.** Chinese authorities instructed refineries not to load fuel cargoes that had not cleared customs by March 11. China accounts for **32% of Australia's jet fuel imports**. At least two cargoes destined for Australia have been affected. March deliveries are expected to proceed; April is the critical question. China is itself under pressure: it sources ~50% of its crude from the Middle East, and major refineries (Zhejiang Petrochemical, Fujian Refining) have cut production by up to 20%. Chinese domestic fuel prices: diesel +13.5%, gasoline +11%. The halt is expected to roll across Asia from April -- South Korea, Singapore, Malaysia, and Japan also face refinery cuts. This is a second layer of fuel crisis hitting Australia from a different direction: not just Hormuz disruption, but an Asian supply chain contraction as well. See: `news/2026-03-13_newscomau_china-halts-refinery-exports-jet-fuel-australia.md`
 
 - **Australia has only about a month of fuel reserves.** A former senator and submariner, Rex Patrick, obtained the National Liquid Fuel Emergency Response Plan via freedom of information. The government had spent over $150,000 in legal fees trying to block its release. Official figures (Day 12): 36 days of petrol, 34 days of diesel, 32 days of jet fuel in storage.
 
@@ -124,6 +156,18 @@ Australia is caught in a trap that Jiang, Chomsky and Paul all described from di
 
 - **The civil liberties question:** Queensland's criminalisation of protest slogans -- praised by Israel's Foreign Minister, who urged other states to copy it -- raises the question of whether wartime logic is being used to suppress domestic dissent. Greens have introduced a war powers bill requiring parliamentary approval before troops are deployed; 90% of Australians support this in principle, but the bill faces the same opposition it has met for twenty years.
 
+### Regional security architecture: Australia deepens non-US ties
+
+While managing the Gulf deployment, Defence Minister Marles was in Jakarta on March 12 meeting Indonesian counterpart Sjafrie Sjamsoeddin. Result: Australia and Indonesia plan to expand their bilateral security treaty (the Jakarta Treaty, signed February 2026) into two new trilaterals:
+- **Indonesia-Australia-Japan**
+- **Indonesia-Australia-Papua New Guinea**
+
+Also discussed: a joint defence training facility on **Morotai island** (North Maluku) -- a WWII Allied airbase that still has an operational airfield. An **Indonesian colonel will embed with Australian troops at Darwin** from early next year as deputy commander of the 1st Brigade.
+
+The Diplomat's framing: this is explicitly a response to "an increasingly assertive China and a distant, mercurial, and increasingly distracted United States under President Donald Trump."
+
+This is important context. Australia is simultaneously deepening US alliance commitments (Gulf deployment, AUKUS) and hedging by building alternative regional security relationships with non-US-coalition partners. Indonesia has NOT joined the Iran war coalition and maintains a formal non-aligned stance. The security cooperation with Jakarta is therefore not Iran-war-related but broader Indo-Pacific architecture being built for a world where the US may be less reliable. See: `news/2026-03-12_diplomat_indonesia-australia-security-japan-png.md`
+
 ---
 
 ## What the predictions say will happen next for Australia
@@ -135,6 +179,8 @@ Australia is caught in a trap that Jiang, Chomsky and Paul all described from di
 | Fuel crisis will deepen; rationing likely | "Worst in decades"; 90% supply reduction; farmers, fisheries, trucking all hit; Bowen approved dirtier fuel + released 762M litres from reserves; ACCC investigating | **Correct** |
 | Military assistance question will come to a head | Albanese deployed 85 ADF personnel, Wedgetail, air-to-air missiles to UAE; ANU professor: legally party to armed conflict | **Correct** |
 | ASX will remain volatile | ASX lost $111B on Day 10; RBA now expected to hike rates; diesel up 30%+ at the bowser | **Correct** |
+| Oil shock will produce secondary supply crises beyond Hormuz | China halted refinery exports (March 11 cut-off), cutting 32% of Australia's jet fuel supply at source; Asian supply chain contraction expected from April | **Correct** |
+| US will pressure allies to contribute more | YouGov poll: 44% of Americans (66% of Republicans) say allies who back the war should send troops; AFR: raises "tough questions" for Albanese | **Tracking** |
 
 ### Short term (Week 3, March 15-21)
 
@@ -186,6 +232,11 @@ Australia is caught in a trap that Jiang, Chomsky and Paul all described from di
 | Oil self-sufficiency | 30% (3% for petrol) | Bob Katter (House) |
 | Fuel panic buying | Sales +238% (Adelaide Hills/Barossa), +100% (Mildura) | news.com.au / ABC |
 | Queensland protest arrests | 2 on first day of slogan ban | Guardian |
+| China's share of Australia's jet fuel imports | 32% | AFR / news.com.au |
+| Chinese refinery cuts | Up to 20% (Zhejiang Petrochemical, Fujian Refining) | Reuters |
+| US voters: allies should send troops | 44% overall; ~66% Republican | YouGov/Bondi Partners via AFR |
+| Australian union statements opposing the war | 2 (MUA and AMWU -- both criticised as inadequate) | WSWS |
+| Indonesia-Australia trilateral security agreements | 2 planned (with Japan; with PNG) | The Diplomat |
 
 ---
 
@@ -215,3 +266,11 @@ Australia is caught in a trap that Jiang, Chomsky and Paul all described from di
 - `updates-and-predictions/day12_11-mar-2026.md`
 - `updates-and-predictions/day14_13-mar-2026.md`
 - `basic-guide/the-iran-war-for-beginners.md`
+- `news/2026-03-13_newscomau_china-halts-refinery-exports-jet-fuel-australia.md`
+- `news/2026-03-14_guardian_is-australia-at-war-iran.md`
+- `news/2026-03-10_dailymail_albanese-military-support-wedgetail-announcement.md`
+- `news/2026-03-14_mercury_sinking-feeling-were-at-war-again.md`
+- `news/2026-03-13_afr_trump-allies-iran-us-voters-australia-troops.md`
+- `news/2026-03-13_wsws_australian-unions-silent-iran-war.md`
+- `news/2026-03-12_diplomat_indonesia-australia-security-japan-png.md`
+- `news/2026-03-10_foreignminister_penny-wong-press-conference-parliament.md`
