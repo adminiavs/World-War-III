@@ -2,6 +2,8 @@
 
 ![Iran War Research Archive 2026](iran%20war%20archive%202026.jpg)
 
+**Website:** This archive is also available at [https://iranarchive-jhxjfru5.manus.space/](https://iranarchive-jhxjfru5.manus.space/).
+
 This repository tracks news, analysis, and primary sources related to the US-Israel-Iran war (Operation Epic Fury, February-March 2026) and the long policy history that preceded it.
 
 ---
@@ -10,7 +12,18 @@ This repository tracks news, analysis, and primary sources related to the US-Isr
 
 The archive contains:
 
-- **`basic-guide/`** -- **Start here if you are new.** A plain-language, jargon-free guide to the war, the people who predicted it (Ron Paul, Noam Chomsky, Professor Jiang), what they got right, and what is likely to happen next. No prior knowledge required.
+- **`basic-guide/`** -- **Start here if you are new.** Plain-language, jargon-free guides to the war:
+  - `march-2026.md` -- **The quickest overview:** what happened, region-by-region summary, what comes next
+  - `the-iran-war-for-beginners.md` -- The master guide: what happened, who predicted it, what is likely next
+  - `HISTORY-101.md` -- The road to 2026: from the 1953 CIA coup to Operation Epic Fury
+  - `WHOS-WHO.md` -- Key actors and factions: states, armed groups, and the people running the war
+  - `THE-ANALYSTS.md` -- Who are Chomsky, Paul, Ritter, Kovalik and Jiang, and why they got it right
+  - `the-nuclear-question-for-beginners.md` -- Why the war's main justification is contested, and the nuclear double standard
+  - `the-iran-war-and-your-cost-of-living.md` -- How the war reaches your wallet: oil, fertiliser, food, interest rates
+  - `the-iran-war-and-the-gulf.md` -- What is happening to Dubai, Qatar, Bahrain, Kuwait, Saudi Arabia and Oman
+  - `how-to-read-war-news.md` -- How to critically read wartime coverage and identify propaganda
+  - `the-iran-war-and-australia.md` -- How Australia got involved and what it means
+  - `the-iran-war-and-canada.md` -- Canada's middle-power dilemma
 - **`news/`** -- News stubs and full articles. Each file has a tl;dr summary, source URL, date, and where available the full article text.
 - **`transcripts/`** -- Lecture and video transcripts (e.g. Professor Jiang classes, wartime analysis). Same document format as news where applicable.
 - **`books/`** -- Companion notes to source books (Ritter, Chomsky/Barsamian) with predictions and analysis.
