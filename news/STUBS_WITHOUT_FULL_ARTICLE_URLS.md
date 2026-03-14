@@ -4,7 +4,20 @@ This document lists the **source URL** of every news stub in `news/` that does *
 
 ---
 
-- https://www.palestinechronicle.com/a-declaration-of-war-closure-of-al-aqsa-mosque-raises-alarm-during-ramadan/
+- https://www.1news.co.nz/2026/03/14/fuel-crisis-potential-restrictions-as-supply-concern-grows/
+- https://nypost.com/2026/03/13/lifestyle/air-new-zealand-cancels-over-1000-flights-as-oil-prices-soar/
+- https://www.business-standard.com/world-news/fuel-shortages-caused-by-iran-war-begin-to-threaten-global-food-supply-126031400073_1.html
+- https://people.com/trump-promises-donors-access-national-security-briefings-11925725
+- https://www.reuters.com/world/five-us-air-force-refueling-planes-hit-iranian-strike-saudi-arabia-wsj-reports-2026-03-13/
+- https://www.telegraph.co.uk/world-news/2026/03/13/iran-war-latest-news-us-lifts-sanctions-russian-oil/
+- https://fvr07.substack.com/p/the-500b-disruption-from-lng-to-jet?triedRedirect=true&_src_ref=reddit.com
+- https://fortune.com/2026/03/12/us-mint-drops-olive-branch-dime-peace-war/
+- https://www.townandcountrymag.com/society/politics/a70734382/the-us-mint-olive-branch-new-dime/
+- https://www.facebook.com/washingtonpost/posts/a-commemorative-dime-for-americas-250th-anniversary-is-drawing-criticism-for-its/1300478508610688/
+- https://www.hindustantimes.com/world-news/trump-told-g7-allies-iran-about-to-surrender-ahead-of-mojtaba-khameneis-1st-remarks-report-101773393856837.html
+- https://www.mediaite.com/media/tv/senator-says-iran-war-is-going-horribly-because-military-is-getting-orders-from-senile-old-man/
+- https://www.thedailybeast.com/pentagon-pete-ignores-dead-troops-to-melt-down-at-cnn/
+- https://www.palestinechronicle.com/a-declaration-of-war-closure-of-al-aqsa-mosque-raises-alarm-during-ramadan/a-declaration-of-war-closure-of-al-aqsa-mosque-raises-alarm-during-ramadan/
 - https://www.dawn.com/news/1981807/rallies-seek-oic-role-to-liberate-al-aqsa-mosque-from-israeli-occupation
 - https://au.int/en/pressreleases/20260313/oic-las-auc-condemn-continued-closure-al-aqsa-mosque
 - https://www.middleeastmonitor.com/20260313-arab-parliament-condemns-closure-of-al-aqsa-mosque-as-provocation-to-muslims/
