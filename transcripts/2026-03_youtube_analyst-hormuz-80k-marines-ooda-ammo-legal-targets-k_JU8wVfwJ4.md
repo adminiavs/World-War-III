@@ -1,0 +1,53 @@
+# Analyst interview: Hormuz brute force impossible, OODA loop, ammo running out, 50% targets illegal, proxies wont join
+
+**Date:** March 2026 (Day 12 context; "we're sitting here talking about this at day 12")
+**Source:** YouTube interview (host + military/strategic analyst; style and content consistent with Scott Ritter)
+**URL:** https://www.youtube.com/watch?v=k_JU8wVfwJ4
+
+**Context:** Discussion of Trump 5,500 targets tweet, objective to open Hormuz, Macron/French "defensive mission" in Strait, whether military option to open Hormuz is possible. Analyst dismantles option (80,000 Marines, seize Qeshm and shoreline, air bridge) as fanciful: no resources, months to mount, economy collapses first, no solution to ballistic missiles or drones, logistics unsustainable. Argues Iran inside US decision-making cycle (OODA); US has changed war plan five or six times, Iran has not; "when you're reacting you're losing." Second segment: cards to play (Kurds saying no, Azerbaijan sending humanitarian aid not retaliating, Lindsey Graham threatening Saudi Arabia); US running out of precision standoff missiles; Manab facility four targets two empty warehouses one hospital one school "50% illegal under law of war"; Hegseth closed down units screening targets for civilian nature; strategic bombing WWII Germany did not break will or production; regime-change logic failed so Kurds/Azeris/Saudis wont join.
+
+---
+
+## tl;dr
+
+**Trump/Macron Hormuz:** Trump tweet 5,500 targets "isn't much of a strategy just to blow things up," "begins to look childish." Objective to open Hormuz; Trump said if Iran keeps it closed he'll hit them 20 times as hard; Macron suggested French "defensive mission" in Strait. **Analyst:** French involvement sarcastically "game changer" — "Iran's going to surrender tomorrow" — "this stupidity."
+
+**Brute force to open Hormuz:** Theoretically you could seize Qeshm and other islands, seize Iranian shoreline, project power with 80,000 Marines, extend air bridge so "Iranians couldn't touch it." "You can do that. It'll cost you. It'll be very heavy and we don't have the resources available right now." Time-intensive. Once there: vulnerable to Iranian ballistic missiles and drones — "we don't have a solution." Would be "parking ourselves on Iranian territory trying to force ships through"; Iran would still target ships and "pound our forces." Logistics: 80,000 ashore need support, port facilities under duress; "we don't have the Marines," amphibious shipping vulnerable; "months to do this and meanwhile the international economy is going to collapse well before that." "Fanciful thinking." US always bragged they could open Hormuz anytime; Iran said pipe dream; "so far it appears that it's a pipe dream" — "Iran can shut this thing down, there's not a damn thing the United States can do to open it up." France "zero military capacity that's meaningful"; French involvement "would just complicate planning."
+
+**OODA / who is driving:** "Checkmate Iran. They've planned this thing out better than we have." "The fact that we're sitting here talking about this at day 12 means we didn't consider it on day one, which means we're making it up as we go along." Iranians on their war plan, staying to it; "we've changed our war plan five, six times," "they on the other hand haven't changed theirs at all." John Boyd OODA loop (observe, orient, decide, act): "The Iranians are inside the American decision-making cycle." "We are reacting to them. They are driving." "When you're reacting, you're losing." "If we're talking about putting ground troops into the theater to open the Strait of Hormuz it means we hadn't considered that as an option early on" — "zero logistical planning." "Not going to happen anytime soon."
+
+**Cards to play / proxies:** Kurds — reports CIA had armed them but Kurds now saying they're not doing it. Azerbaijan — instead of retaliating for alleged Iranian drone, sending humanitarian aid. Lindsey Graham threatened Saudi Arabia; Saudis don't want to fight Iran (infrastructure vulnerable). "War was sold as regime change" (Trump now says it's not — "because we can't, but we tried"). Idea was kill Khamenei, people in streets "death to the Ayatollahs," Kurds and Azeris jump in. "When you kill the Supreme Leader and the end result is a unified Iran screaming for revenge, the last thing you want to do is get on that revenge list." Kurds "we're not doing that"; Azeris "we're not doing it either"; Saudis not doing it. "Lindsey Graham can talk till he's pink in the face" — "nothing tough about him," "sold a war to Trump and that war is going bad," "political capital going out the window," "contentious election he may very well lose" — "greatest thing South Carolina has ever done." Saudi Arabia "doesn't care about his threats"; "biggest consequences to Saudi would be destruction of their energy production" if they jump in; "United States has proven that it can't defeat Iran"; "Iran has proven that it can continue to inflict destruction beyond its borders even after absorbing 5,000 bombs." Graham "irrelevant," "fodder for mainstream media to sell a war that is increasingly impossible to sell."
+
+**Ammunition:** "We have plenty of dumb bombs," some laser kits (Israel "leveled Gaza" with US supply); "finite" number of kits. "We're running out of standoff precision missiles" — future strikes would require aircraft to penetrate Iranian airspace. Iran "held back on its air defense," "retained a significant portion" — "air defense ambushes," "we'll start losing aircraft," "rescue pilots," "combat search and rescue," "Blackhawk down Persian style." "We are running out of precision standoff weapons." "We're going to run out of cruise missiles." "We fired enough to kill a bunch of children but we haven't retained enough to sustain this conflict." "The next steps are just to blow up more things" — "that's what General Caine said," "the only option we have," "all President Trump could threaten to do."
+
+**Targeting / law of war:** "We don't even know what they're blowing up." Initial wave confusion: Manab naval facility "four places targeted, two were empty warehouses, one was a hospital, one was a school." "50% of our targets were illegal under the law of war." "Makes you wonder what the percentages we're striking today that are illegal. We will never know because Pete Hegseth closed down the units responsible for screening targets to make sure they were not civilian in nature." As we become "more and more desperate" we're "going to start expanding the target deck." "If we've bombed 5,000 targets and now Trump says we're going to bomb more, where are they going to come from? What targets? Who's making these targets? Who's making the decision? Is this AI driven? How many homes, schools, hospitals, mosques?" "This has become literally a war of cultural genocide." "We're not going to win. The Iranians are not going to blink."
+
+**Strategic bombing:** WWII strategic air campaign against Germany "didn't achieve the strategic results they wanted"; German production actually went up, "the will of the German people to resist was not broken." "What we're proposing is basically to increase the scope and scale of a strategic air campaign that history shows doesn't work."
+
+---
+
+## Key quotes
+
+- "There's not a damn thing the United States can do to open it up [Hormuz]."
+- "The Iranians are inside the American decision-making cycle. We are reacting to them. They are driving. When you're reacting, you're losing."
+- "We've changed our war plan five, six times. They on the other hand haven't changed theirs at all."
+- "If we're talking about putting ground troops into the theater to open the Strait of Hormuz it means we hadn't considered that as an option early on, which means we've done zero logistical planning."
+- "Four places targeted [Manab], two were empty warehouses, one was a hospital, one was a school. 50% of our targets were illegal under the law of war."
+- "Pete Hegseth closed down the units responsible for screening targets to make sure they were not civilian in nature."
+- "We fired enough to kill a bunch of children but we haven't retained enough to sustain this conflict."
+- "This has become literally a war of cultural genocide."
+- "The German production actually went up, became more efficient, and the will of the German people to resist was not broken by the strategic air campaign."
+- "Lindsey Graham ... sold a war to Trump and that war is going bad ... he's irrelevant ... fodder for the mainstream media to sell a war that is increasingly impossible to sell."
+
+---
+
+## Relevance to predictions
+
+- **Hormuz / Path B:** Analyst states clearly that brute-force option (seize islands and shoreline with 80K Marines) is theoretically possible but not feasible: no resources, no solution to ballistic missiles or drones, logistics would take months, economy collapses first. Reinforces Ullman/Parsi "exceedingly difficult," "$1T," and "no way to open" from archive. France adding "defensive mission" dismissed as meaningless and complicating.
+- **OODA / Iran driving:** Iran inside US decision cycle; US reacting, Iran initiating; "when you're reacting you're losing." Aligns with Jiang and analyst "mosaic" command and US "making it up as we go along."
+- **Ground troops / no plan:** Talking about ground troops to open Hormuz at Day 12 = wasn't considered Day 1 = zero logistical planning. Supports "no plan for the day after" and GROUND-TROOPS-TRACKER (MEU/Tripoli as late scramble).
+- **Proxies wont deliver:** Kurds saying no, Azerbaijan sending humanitarian aid not retaliating, Saudis not joining despite Graham. Matches Jiang "proxies won't deliver" and Vantage "axis not in lockstep."
+- **Ammo / duration:** Running out of precision standoff weapons and cruise missiles; next phase would require penetrating Iranian airspace and risking aircraft losses and CSAR. Supports "who can keep shooting longest" and Vantage/Pentagon ammo-stress stories.
+- **Law of war / Hegseth:** Manab: two empty warehouses, one hospital, one school = 50% illegal. Hegseth closed down units that screened targets for civilian nature. Direct evidence for war-crimes and credibility-gap predictions (Kovalik, Chomsky); fits Responsible Statecraft school-attack and Mondoweiss media coverage.
+- **Strategic bombing doesn't work:** WWII Germany example — production up, will not broken. Supports "air power never wins alone" (Ullman) and "shock and awe failed" (analyst 2XrJ6jfa5gg).
+- **Regime change failed:** Kill Khamenei to trigger uprising and Kurdish/Azeri entry; result was unified Iran and revenge — so Kurds and Azeris backed off. Supports "regime change not achieved" and "wrong assumption Iran was weak."
