@@ -97,3 +97,27 @@ The **likely path ahead** is now more clearly a fork:
 - **Path B:** Ground invasion (even “limited”) → Jiang’s trap scenario and domestic blowback, with strong pressure on allies to send troops (as the poll and Australian position already anticipate).  
 
 The new stories don’t change the predictions; they show we are closer to the fork and that the ground-troops branch is being actively prepared.
+
+---
+
+## 5. Addendum: impact of 13–14 March story batch (Hormuz, Iran messaging, Russia, tech, Kharg, casualties)
+
+**Stories added:** Iran allows two Indian gas tankers through Hormuz; yen near ¥160 (39-year low); Iran targets US tech (Amazon, Microsoft, Palantir, Oracle) — drones and cyber (Handala/Stryker); Trump “can’t answer” on Kharg Island; US temporary lift of Russian oil sanctions and EU/ally backlash; Iran oil exports *climb* to pre-war highs despite Hormuz closure (shadow fleet to China); US-owned tanker hit by unmanned boats (Iraqi waters); Trump rejected Putin’s offer to move Iran’s uranium to Russia; Mojtaba Khamenei first message (Hormuz must stay closed, revenge, other fronts, close US bases); Jonathan Cook — Israel planned war 40 years (Netanyahu quote); Conversation — China fuel export ban and Australian air travellers; PBS — all 6 KC-135 crew dead. Stub list for paywalled/403/timeout URLs (Guardian AU fuel stockpile, SMH Hegseth “10 words,” NYT Kharg, Bloomberg Beijing summit, etc.) in `news/2026-03_stubs_batch-march-13-14.md`.
+
+**How this affects predictions**
+
+- **Hormuz:** Iran is *not* sealing itself off. It is selectively opening for India (and its own exports to China via shadow tankers) while blocking others. That fits Jiang’s and Chomsky’s picture of the Strait as leverage, not total permanent closure. Mojtaba’s first message explicitly commits to keeping Hormuz closed. So: no general reopening without a deal; tactical exceptions (India, Iran’s own cargo) confirm asymmetric control.
+- **Ground troops / nuclear:** Trump’s rejection of Putin’s uranium-to-Russia offer removes a clean diplomatic way to “secure” material without boots on the ground. That leaves Rubio’s “people have to go and get it” and Hegseth’s “range of options” as the live options — i.e. ground-troops path is *more* likely, not less, relative to a diplomatic fix. Jiang’s “US will need to go in for the material” is strengthened.
+- **Kharg Island:** Trump’s “can’t answer” and “not high on the list … I can change my mind in seconds” keeps Kharg as a possible first physical occupation (GROUND-TROOPS-TRACKER). No new evidence that it’s been ruled out.
+- **Russia / backfire:** Sanctions reversal and EU/Macron/Democrat backlash confirm Chomsky’s “Russia benefits” and Paul’s “backfire.” Russia gains revenue and the US loses sanctions credibility. Fits “creative destruction” and “allies strained” (Kovalik, Chomsky).
+- **Iran’s position:** Iran oil exports *up*; Hormuz policy stated by the new Leader; revenge and “other fronts” signalled. Contradicts any narrative that Iran is purely losing or about to collapse. Asymmetric warfare (tech targets, unmanned boats, cyber) extends the battlefield and matches Jiang’s cost-imposition logic.
+- **Japan / yen:** Yen at 39-year lows (oil-driven) matches Jiang’s warning about Japan’s oil dependence and vulnerability. Financial expression of “Hormuz = 75% of Japan’s oil” and panic potential.
+- **Israel as author:** Jonathan Cook’s piece and Netanyahu’s “40 years” quote give primary-source support to Kovalik’s “plot” and Chomsky’s “collision course” — long-term Israeli design, not just US drift.
+- **Casualties:** KC-135 total (6 dead) already in GROUND-TROOPS-TRACKER; reinforces domestic US pressure (74% oppose ground troops) and “body bags” risk if ground invasion happens.
+
+**Likely path ahead (unchanged, slightly sharpened)**
+
+- **Path A (no ground invasion):** Messy exit remains possible. Hormuz could see more tactical openings (e.g. more Indian or friendly-flag transits) without full reopening; Iran keeps leverage. Russia keeps sanctions relief gains; allies remain strained. Japan (and others) keep paying an oil/yen cost until the war de-escalates.
+- **Path B (ground invasion / Kharg):** Trump’s rejection of Putin’s offer and Kharg non-denial leave the military option on the table. If the US (or allies) move on Kharg or send boots for uranium, Jiang’s “trapped troops” and “point of no return” become the central scenario; Iran’s “other fronts” and tech/cyber targets would likely expand.
+
+**Bottom line:** This batch *strengthens* the same fork. Hormuz is confirmed as leverage (selective, not total closure). Diplomatic off-ramp for uranium was offered and refused. Iran’s leadership has publicly doubled down on closure and revenge. No change to the overall prediction set; path is slightly clearer that the US is prioritising “secure the material” over a Russian-mediated deal, which makes Path B more plausible if the air campaign cannot deliver.
