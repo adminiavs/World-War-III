@@ -15,7 +15,8 @@
 | 11 Mar 2026 | Senate Democrats alarmed after classified briefing; Rubio says "people are going to have to go and get" the nuclear material |
 | 13 Mar 2026 | Pentagon approves 31st MEU + USS Tripoli deployment (5,000 troops); Special ops MC-130J planes leave RAF Mildenhall for Middle East |
 | 14 Mar 2026 | AFR: deployment "reeks of desperation"; troops still ~2 weeks away from arrival |
-| **Current** | **Ground invasion: NOT confirmed. Special ops: likely active. Marine landing force: en route.** |
+| 15 Mar 2026 | Wales (ex-SAS): 82nd/101st Airborne cancelled leave; analyst: island/Kharg occupation = unsustainable "fixed target"; Prince Sultan refuelers destroyed (degrades air cover for any landing); commentary: Marines to Kharg = "mountainous slaughter" |
+| **Current** | **Ground invasion: NOT confirmed. Special ops: likely active. Marine landing force: en route (~12 days). 82nd/101st leave cancelled (unconfirmed deployment orders).** |
 
 ---
 
@@ -60,16 +61,16 @@
 
 ---
 
-## The numbers (Day 14)
+## The numbers (Day 16)
 
 | Metric | Number |
 |--------|--------|
 | US troops in region | 50,000+ (before new MEU) |
-| US troops killed | 13 (7 combat, 6 in KC-135 crash) |
-| US troops wounded | 140+ (8 severely) |
+| US troops killed | 13+ (7 combat, 6 in KC-135 crash; "likely a massive undercount") |
+| US troops wounded | ~200 (commentary; up from 140+ official) |
 | Named US dead | Sgt. Benjamin N. Pennington (Prince Sultan Air Base, Saudi Arabia, 1 March) |
 | New Marines en route | ~5,000 |
-| Estimated arrival | ~27--28 March 2026 |
+| Estimated arrival | ~27--28 March 2026 (~12 days from Day 16) |
 | Americans opposed to ground troops | 74% (Quinnipiac poll) |
 | Americans supporting the war | 41% (NYT poll) -- "most unpopular foreign war in modern US history" |
 | US gas prices | $3.60/gallon (up from $2.90 before war) |
@@ -176,3 +177,7 @@ A Maronite priest -- **Father Pierre al-Rahi** -- was killed by an Israeli tank 
 | `news/2026-03-13_ewtn_middle-east-war-christians.md` | EWTN: Father Pierre al-Rahi, Christian exodus |
 | `news/2026-03-07_youtube_professor-jiang-iran-wwiii-greater-israel.md` | Jiang: ground troops prediction, point of no return |
 | `transcripts/2026-03-04_youtube_professor-jiang-us-iran-war-class-three-forces-trapped-troops.md` | Jiang: Vietnam analogy, trapped troops |
+| `transcripts/2026-03_youtube_straight-talk-mark-wales-sas-iran-hormuz-aus-gfIddacKhTM.md` | Wales (ex-SAS): 82nd/101st cancelled leave; regime change fanciful; Kharg/Hormuz ground ops; 1941 multi-front parallel |
+| `transcripts/2026-03_youtube_analyst-hormuz-islands-kharg-tanker-war-mines-iaTs6LxZmlo.md` | Analyst: island/Kharg occupation = fixed target, unsustainable; Tanker War logic; 5,000+ mines |
+| `transcripts/2026-03_youtube_commentary-oil-war-kharg-marines-prince-sultan-yuan-houthis-vir4v34hYrc.md` | Commentary: Prince Sultan refuelers hit; Marines to Kharg = mountainous slaughter; CENTCOM not operational |
+| `transcripts/2026-03_youtube_vlad-tv-nicholas-irvin-epic-fury-truth-polls-regime-change-2klEyeSejeI.md` | Sgt. Irvin: 500+ missions; regime change never works; ground reality worse than reported |
