@@ -121,3 +121,13 @@ The new stories don’t change the predictions; they show we are closer to the f
 - **Path B (ground invasion / Kharg):** Trump’s rejection of Putin’s offer and Kharg non-denial leave the military option on the table. If the US (or allies) move on Kharg or send boots for uranium, Jiang’s “trapped troops” and “point of no return” become the central scenario; Iran’s “other fronts” and tech/cyber targets would likely expand.
 
 **Bottom line:** This batch *strengthens* the same fork. Hormuz is confirmed as leverage (selective, not total closure). Diplomatic off-ramp for uranium was offered and refused. Iran’s leadership has publicly doubled down on closure and revenge. No change to the overall prediction set; path is slightly clearer that the US is prioritising “secure the material” over a Russian-mediated deal, which makes Path B more plausible if the air campaign cannot deliver.
+
+---
+
+## 6. Addendum: Fabian Vera Substack (6 Mar) — jet fuel as stressed derivative, $500B disruption
+
+**Source:** [The $500B Disruption: From LNG to Jet Fuel and the Cost of Hormuz](https://fvr07.substack.com/p/the-500b-disruption-from-lng-to-jet) (Fabian Vera, Substack, 6 March 2026). Stub: `news/2026-03-06_substack-fabian-vera_500b-disruption-lng-jet-fuel-cost-of-hormuz.md`.
+
+**Summary:** Post–Hormuz closure, jet fuel is the most dislocated derivative (crack spreads doubled; Asia ~$52/bbl; Europe 28‑month highs). ~18–20% of global jet fuel exports transit Hormuz; Jet A-1 cannot be substituted with diesel. Valuation: ~$125B annualized extra costs from 50% jet spike; Gulf refinery devaluation ~$200B in medium scenario; prolonged 90+ days → $500B–$1T combined. System dynamics: reinforcing loops dominate; demand destruction lags 4–8 weeks; "slow to save" (refineries throttle) tightens product further. Asian refineries (e.g. Zhejiang) cutting runs 20–30%. Paper interventions (e.g. Treasury futures) cannot reopen Hormuz; physical levers determine outcome.
+
+**Impact on Australia predictions:** Strengthens, does not change. Australia already has: jet fuel vulnerability (32% from China); China refinery halt; fuel crisis "worst in decades"; oil → refining → jet fuel (Chomsky extended). Vera adds: (1) mechanism — jet fuel is the globally most brittle product, so Australia's dependence sits inside a structural squeeze; (2) magnitude — $125B+ jet cost and $200B refinery devaluation imply worse and longer-lasting stress; (3) paper vs physical — Treasury tools cannot fix physical shortage. Supports "fuel crisis will deepen," "rationing likely," "secondary supply crises beyond Hormuz." No contradiction.

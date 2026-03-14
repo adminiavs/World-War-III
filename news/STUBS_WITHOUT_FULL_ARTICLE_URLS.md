@@ -4,6 +4,18 @@ This document lists the **source URL** of every news stub in `news/` that does *
 
 ---
 
+- https://www.palestinechronicle.com/a-declaration-of-war-closure-of-al-aqsa-mosque-raises-alarm-during-ramadan/
+- https://www.dawn.com/news/1981807/rallies-seek-oic-role-to-liberate-al-aqsa-mosque-from-israeli-occupation
+- https://au.int/en/pressreleases/20260313/oic-las-auc-condemn-continued-closure-al-aqsa-mosque
+- https://www.middleeastmonitor.com/20260313-arab-parliament-condemns-closure-of-al-aqsa-mosque-as-provocation-to-muslims/
+- https://ilkha.com/english/world/palestine-al-aqsa-under-threat-as-temple-groups-escalate-sacrifice-campaign-516942
+- https://www.cair.com/press_releases/cair-calls-on-u-s-to-demand-israel-lift-unprecedented-ramadan-closure-of-al-aqsa-mosque/
+- https://sightmagazine.com.au/news/trump-says-us-struck-military-targets-on-irans-kharg-island-key-oil-export-hub/
+- https://sites.duke.edu/lawfire/2026/03/13/three-independent-justifications-for-the-u-s-israeli-operations-against-iran/
+- https://english.alarabiya.net/News/middle-east/2026/03/14/us-attacks-iran-s-kharg-island-in-one-of-most-powerful-bombings-raids-in-history-trump
+- https://www.abc.net.au/news/2026-03-14/united-states-iran-war-donald-trump-middle-east-strategy/106436200
+- https://www.aljazeera.com/video/newsfeed/2026/3/13/worshippers-pray-outside-al-aqsa-amid-closure-on-al-quds-day
+- https://fvr07.substack.com/p/the-500b-disruption-from-lng-to-jet
 - https://www.youtube.com/watch?v=yC8lMSLY7Aw
 - https://www.youtube.com/watch?v=0rIgZD-tk3s
 - https://www.reuters.com/world/middle-east/iran-defies-trump-elevates-khameneis-son-mojtaba-successor-2026-03-08/

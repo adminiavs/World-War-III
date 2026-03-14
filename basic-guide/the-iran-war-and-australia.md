@@ -267,6 +267,7 @@ This is important context. Australia is simultaneously deepening US alliance com
 - `updates-and-predictions/day14_13-mar-2026.md`
 - `basic-guide/the-iran-war-for-beginners.md`
 - `news/2026-03-13_newscomau_china-halts-refinery-exports-jet-fuel-australia.md`
+- `news/2026-03-06_substack-fabian-vera_500b-disruption-lng-jet-fuel-cost-of-hormuz.md` — analysis of jet fuel as globally most dislocated derivative post-Hormuz; supports Australia jet fuel and supply-chain predictions.
 - `news/2026-03-14_guardian_is-australia-at-war-iran.md`
 - `news/2026-03-10_dailymail_albanese-military-support-wedgetail-announcement.md`
 - `news/2026-03-14_mercury_sinking-feeling-were-at-war-again.md`

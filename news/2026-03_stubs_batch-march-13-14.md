@@ -10,7 +10,7 @@ The following URLs could not be fully fetched. Listed for archive and follow-up.
 | 2026 | New Republic | https://newrepublic.com/article/207723/trump-outbursts-oil-shock-go-off-rails-aides-quietly-panic | Trump outbursts, oil shock, aides quietly panic |
 | 2026 | PBS | https://www.pbs.org/newshour/video/compass-points/2026/03/what-war-in-iran-has-revealed-and-what-remains-unknown | What war in Iran has revealed and what remains unknown |
 | 2026 | news.com.au | https://www.news.com.au/world/middle-east/big-problem-with-trumps-iran-war-promise/news-story/eeba74818c62bcc0250e4f94b2f1396b | Big problem with Trumps Iran war promise |
-| 14 Mar | SMH | https://www.smh.com.au/world/north-america/with-10-damning-words-pete-hegseth-says-the-quiet-part-out-loud-20260314-p5oafr.html | With 10 damning words Pete Hegseth says the quiet part out loud |
+| 14 Mar | SMH | *(full text in* `2026-03-14_smh_hegseth-ten-words-quiet-part-out-loud.md`*)* | With 10 damning words Pete Hegseth says the quiet part out loud — Hegseth: "The sooner David Ellison takes over that network the better"; admin pressuring media owners |
 | 14 Mar | Japan Times | https://www.japantimes.co.jp/news/2026/03/14/world/iran-war-us-strikes/ | U.S. intensifies strikes, rhetoric in Iran war as oil rises |
 | 2026 | The Nightly | https://thenightly.com.au/australia/australian-fuel-transport-backing-push-for-city-fuel-rationing-to-keep-regions-motoring-as-iran-war-continues-c-21936788 | Australian fuel transport backing push for city fuel rationing to keep regions motoring |
 | 14 Mar | Modern Diplomacy | https://moderndiplomacy.eu/2026/03/14/u-s-israel-war-on-iran-at-the-crossroads/ | U.S.-Israel war on Iran at the crossroads |
