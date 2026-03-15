@@ -2,7 +2,7 @@
 
 ![Iran War Research Archive 2026](iran%20war%20archive%202026.jpg)
 
-**Website:** This archive is also available at [https://iranarchive-jhxjfru5.manus.space/](https://iranarchive-jhxjfru5.manus.space/).
+**Website:** This archive is also available at [https://howtokillrobots.com/](https://howtokillrobots.com/).
 
 This repository tracks news, analysis, and primary sources related to the US-Israel-Iran war (Operation Epic Fury, February-March 2026) and the long policy history that preceded it.
 
@@ -22,6 +22,7 @@ The archive contains:
   - `THE-ANALYSTS.md` -- Who are Chomsky, Paul, Ritter, Kovalik and Jiang, and why they got it right
   - `the-nuclear-question-for-beginners.md` -- Why the war's main justification is contested, and the nuclear double standard
   - `the-iran-war-and-your-cost-of-living.md` -- How the war reaches your wallet: oil, fertiliser, food, interest rates
+  - `petrol-predictions.md` -- **Petrol prices by region:** what happened, what is happening now, and what to expect next week / next month / next 6 months / if the war lasts a year — covering the US, Australia, NZ, UK/Europe, Japan/South Korea, China, India, Pakistan, Southeast Asia, and the Gulf states
   - `the-iran-war-and-the-gulf.md` -- What is happening to Dubai, Qatar, Bahrain, Kuwait, Saudi Arabia and Oman
   - `how-to-read-war-news.md` -- How to critically read wartime coverage and identify propaganda
   - `the-iran-war-and-australia.md` -- How Australia got involved and what it means
