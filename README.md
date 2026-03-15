@@ -6,7 +6,7 @@
 
 This repository tracks news, analysis, and primary sources related to the US-Israel-Iran war (Operation Epic Fury, February-March 2026) and the long policy history that preceded it.
 
-**→ [Ground troops tracker](updates-and-predictions/GROUND-TROOPS-TRACKER.md)** — As of Day 14 (March 2026), the US has approved deployment of thousands of Marines and special-operations aircraft toward the Middle East, and officials have openly discussed putting boots on the ground in Iran. This affects real people and families; it is also the escalation Professor Jiang predicted in detail before the war. The tracker records what has been deployed, what officials have said, Jiang’s predictions vs. reality, and what to watch next.
+**→ [Ground troops tracker](basic-guide/GROUND-TROOPS-TRACKER.md)** — As of Day 14 (March 2026), the US has approved deployment of thousands of Marines and special-operations aircraft toward the Middle East, and officials have openly discussed putting boots on the ground in Iran. This affects real people and families; it is also the escalation Professor Jiang predicted in detail before the war. The tracker records what has been deployed, what officials have said, Jiang’s predictions vs. reality, and what to watch next.
 
 ---
 
