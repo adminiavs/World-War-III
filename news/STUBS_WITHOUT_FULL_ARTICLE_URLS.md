@@ -190,3 +190,4 @@ This document lists the **source URL** of every news stub in `news/` that does *
 - https://www.straitstimes.com/world/middle-east/china-says-it-will-donate-250000-to-families-of-iran-school-strike-victims
 - https://www.khaleejtimes.com/world/gulf/qatar-says-ignored-warnings-led-to-regional-war?_refresh=true
 - https://world.thaipbs.or.th/detail/half-of-thailands-fishing-fleet-may-stay-in-port-due-to-diesel-shortage-rising-fuel-prices/60683
+- https://x.com/MarioNawfal/status/2033003160441151689
