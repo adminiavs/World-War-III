@@ -56,6 +56,7 @@
 ## What Iran and others have said
 
 - **Ali Larijani** (Iran's national security chief, highest-profile Iranian public appearance since Khamenei's death, 13 March): "These attacks are out of fear, out of desperation. One who is strong wouldn't bomb demonstrations at all. It's clear that it has failed." Said Trump would be "sorry" for his "grave miscalculation."
+- **Abbas Araghchi** (Iranian FM, MS NOW / Politico, 15 March): Russia and China are providing Iran with **military assistance** as part of strategic partnership. "In the past we had close cooperation, which continues to this day, and this also includes military assistance." Wide-ranging relations with both — "politically, economically, even militarily." Strait of Hormuz: "closed only to American and Israeli ships and tankers, not to others." See: `news/2026-03-15_united24_iran-confirms-russia-china-military-support.md`.
 - **Mojtaba Khamenei** (new Supreme Leader): Reportedly in a coma; may have lost one or both legs. Has issued one written statement but not appeared publicly.
 - **Iran's judiciary chief** (attending same rally, ignoring live explosions): "We stand with the people against arrogance and Pharaoh-like oppressors. Our people are not afraid of the bombing, we will continue along this route."
 
@@ -107,6 +108,11 @@ Jiang said Kurdish groups are not unified and not capable of unseating the Irani
 **Source:** `transcripts/2026-03-04_youtube_professor-jiang-us-iran-war-class-three-forces-trapped-troops.md`
 
 Jiang said the US military's post-2003 doctrine (shock and awe, tech, no mass ground occupation) is unsuited to Iran. Iran is four times the size of Iraq, mountainous, and has 20 years of preparation. A ground war would become a quagmire. Senator Blumenthal (after classified briefing, 11 March): "We seem to be on a path toward deploying American troops on the ground in Iran to accomplish any of the potential objectives here." Senator Murphy: officials "could not detail any long-term plan." Professor Frank (University of Oregon): "There's no plan for the day after." This matches Jiang exactly.
+
+### Prediction 6: Russia and China would be drawn in / Russia would support Iran
+**Source:** `news/2026-03-07_youtube_professor-jiang-iran-wwiii-greater-israel.md`
+
+Jiang said ground troops would "draw GCC, Europe, **Russia, China**, Japan, South Korea." On nuclear/strategic: "**Lavrov: Russia will ensure Iran's success/survival; Russia giving intel** (like NATO in Ukraine)." **Confirmed 15 March 2026:** Iranian FM Araghchi (MS NOW / Politico) officially confirmed that Russia and China are providing Tehran with **military assistance**; "close cooperation... continues to this day, and this also includes military assistance." Western experts (SBS, 8 March) had said neither country would give direct military support and Kremlin had received no request from Iran — Araghchi's statement contradicts that framing. See: `news/2026-03-15_united24_iran-confirms-russia-china-military-support.md`.
 
 ---
 
@@ -181,3 +187,4 @@ A Maronite priest -- **Father Pierre al-Rahi** -- was killed by an Israeli tank 
 | `transcripts/2026-03_youtube_analyst-hormuz-islands-kharg-tanker-war-mines-iaTs6LxZmlo.md` | Analyst: island/Kharg occupation = fixed target, unsustainable; Tanker War logic; 5,000+ mines |
 | `transcripts/2026-03_youtube_commentary-oil-war-kharg-marines-prince-sultan-yuan-houthis-vir4v34hYrc.md` | Commentary: Prince Sultan refuelers hit; Marines to Kharg = mountainous slaughter; CENTCOM not operational |
 | `transcripts/2026-03_youtube_vlad-tv-nicholas-irvin-epic-fury-truth-polls-regime-change-2klEyeSejeI.md` | Sgt. Irvin: 500+ missions; regime change never works; ground reality worse than reported |
+| `news/2026-03-15_united24_iran-confirms-russia-china-military-support.md` | UNITED24/Politico: Araghchi confirms Russia and China providing Iran military assistance; Hormuz closed to US/Israeli vessels only |
