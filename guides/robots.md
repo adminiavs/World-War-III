@@ -10,57 +10,57 @@ Last updated: 15 March 2026 (Day 16)
 
 ### Iranian drones and asymmetric cost
 
-- **Iran’s drones** are central to the war. The repo repeatedly describes **asymmetric warfare**: cheap drones and missiles (on the order of $1,000–$50,000 per unit) against billion-dollar carriers, $13M THAAD interceptors, and $300M radars. Jiang and others predicted this would make the war economically unwinnable for the US; by Day 14–16 it is cited as confirmed — THAAD radar destroyed, KC-135 lost, Gulf allies “running out of interceptors,” $5.6B in munitions in the first two days.
-- **Volume and swarms:** Iran is described as firing hundreds of drones (e.g. Day 1: 209 drones; Day 2: 332 drones) and using “coordinated swarms” that “complicate interception” because they fly lower, slower, and in numbers that overwhelm defences. Drones are used alongside ballistic and cruise missiles across multiple fronts (Israel, Qatar, Bahrain, Kuwait, UAE).
-- **Cost asymmetry (UK F-35 vs Iranian drones):** One transcript (drone-cost-asymmetry) notes an RAF F-35 shooting down two Iranian drones after four hours airborne — flight cost alone over $132,000 (F-35 ~$33,000/hour) versus cheap one-way drones. The point: “you do need people on the ground to shape the outcomes”; “there are limits to what air power can do.”
-- **Supply lines and drones:** Jiang is quoted as saying supply lines through mountains can be shot down by “a random guy with a rocket launcher or a drone — exactly what Afghans did to Soviets.” So drones are framed as a way to make sustained ground supply impossible.
+- **Iran's drones** are central to the war. The repo repeatedly describes **asymmetric warfare**: cheap drones and missiles (on the order of $1,000–$50,000 per unit) against billion-dollar carriers, $13M THAAD interceptors, and $300M radars. Jiang and others predicted this would make the war economically unwinnable for the US; by Day 14–16 it is cited as confirmed — THAAD radar destroyed, KC-135 lost, Gulf allies "running out of interceptors," $5.6B in munitions in the first two days.
+- **Volume and swarms:** Iran is described as firing hundreds of drones (e.g. Day 1: 209 drones; Day 2: 332 drones) and using "coordinated swarms" that "complicate interception" because they fly lower, slower, and in numbers that overwhelm defences. Drones are used alongside ballistic and cruise missiles across multiple fronts (Israel, Qatar, Bahrain, Kuwait, UAE).
+- **Cost asymmetry (UK F-35 vs Iranian drones):** One transcript (drone-cost-asymmetry) notes an RAF F-35 shooting down two Iranian drones after four hours airborne — flight cost alone over $132,000 (F-35 ~$33,000/hour) versus cheap one-way drones. The point: "you do need people on the ground to shape the outcomes"; "there are limits to what air power can do."
+- **Supply lines and drones:** Jiang is quoted as saying supply lines through mountains can be shot down by "a random guy with a rocket launcher or a drone — exactly what Afghans did to Soviets." So drones are framed as a way to make sustained ground supply impossible.
 
-### US uncrewed and “robot-adjacent” systems
+### US uncrewed and "robot-adjacent" systems
 
-- **Lucas drone:** Al Jazeera DC (Balance of Power, Day 14) describes the **Lucas** — a US “low-cost unmanned combat attack system,” a kamikaze drone modeled on the Iranian Shahed, ~$35,000 each, used for long-range impact. A US official is quoted: “We captured it, pulled the guts out, sent it back to America, put a little ‘Made in America’ on it, brought it back here, and we’re shooting it at the Iranians.” So the US is explicitly using an Iranian-style one-way drone as a key tool.
-- **Other standoff systems:** The same segment lists Army precision-strike missile (500+ km, ~$1.6M), F-35 (including first air-to-air kill over Iran), new Tomahawk variant (~$2M), plus 50,000 troops, 200 fighter jets, two carriers, B-1/B-2/B-52. The framing is “Iran as testing ground” for new hardware and software.
-- **Mark Wales (ex-SAS):** He says drones are “complimentary to people,” not a replacement; “what you’re seeing now in Iran — there are limits to what air power can do.” He also says **robotics could be a “game changer”** — e.g. “autonomous partners,” and a Ukrainian rescue drone operating 30 km — and that the US has “capabilities really far advanced” that it keeps “in the locker.” So the repo treats ground robotics as a future or withheld option, not yet the main story in Iran.
+- **Lucas drone:** Al Jazeera DC (Balance of Power, Day 14) describes the **Lucas** — a US "low-cost unmanned combat attack system," a kamikaze drone modeled on the Iranian Shahed, ~$35,000 each, used for long-range impact. A US official is quoted: "We captured it, pulled the guts out, sent it back to America, put a little 'Made in America' on it, brought it back here, and we're shooting it at the Iranians." So the US is explicitly using an Iranian-style one-way drone as a key tool.
+- **Other standoff systems:** The same segment lists Army precision-strike missile (500+ km, ~$1.6M), F-35 (including first air-to-air kill over Iran), new Tomahawk variant (~$2M), plus 50,000 troops, 200 fighter jets, two carriers, B-1/B-2/B-52. The framing is "Iran as testing ground" for new hardware and software.
+- **Mark Wales (ex-SAS):** He says drones are "complimentary to people," not a replacement; "what you're seeing now in Iran — there are limits to what air power can do." He also says **robotics could be a "game changer"** — e.g. "autonomous partners," and a Ukrainian rescue drone operating 30 km — and that the US has "capabilities really far advanced" that it keeps "in the locker." So the repo treats ground robotics as a future or withheld option, not yet the main story in Iran.
 
 ### Humanoid robots in combat (Ukraine)
 
-- **Phantom MK-1 (UkraNews, 13 Mar 2026):** The American company **Foundation** transferred two **Phantom MK-1 humanoid robots** to Ukraine (February 2026) for testing in combat conditions. Ukraine is described as a “key platform for testing new military technologies in real conditions of modern warfare.” The robots do **not** hold weapons yet. Planned uses: delivery of equipment, reconnaissance in closed spaces (shelters, bunkers), and working with human-built infrastructure. Foundation’s stated **future goal**: the robot should be able to use any weapon used by a person. Specs: ~4 mph, payload up to 20 kg, weight 79 kg, height 175 cm. Limits: expensive, heavy, battery-dependent, can lose balance or fail. **Cybersecurity risk:** if adversaries gain access to software or comms, the system could be used against its operators. Experts (via Time): AI can make mistakes, show bias, or exceed limits in complex environments; in the US the principle is that **the final decision on use of force should be made by a person**. Phantom MK-2 is planned for April (better protection, water resistance, up to 80 kg payload). This is **Ukraine**, not Iran, but it shows humanoid robots entering real combat testing in the same timeframe as the Iran war, with a stated path toward weaponization.
+- **Phantom MK-1 (UkraNews, 13 Mar 2026):** The American company **Foundation** transferred two **Phantom MK-1 humanoid robots** to Ukraine (February 2026) for testing in combat conditions. Ukraine is described as a "key platform for testing new military technologies in real conditions of modern warfare." The robots do **not** hold weapons yet. Planned uses: delivery of equipment, reconnaissance in closed spaces (shelters, bunkers), and working with human-built infrastructure. Foundation's stated **future goal**: the robot should be able to use any weapon used by a person. Specs: ~4 mph, payload up to 20 kg, weight 79 kg, height 175 cm. Limits: expensive, heavy, battery-dependent, can lose balance or fail. **Cybersecurity risk:** if adversaries gain access to software or comms, the system could be used against its operators. Experts (via Time): AI can make mistakes, show bias, or exceed limits in complex environments; in the US the principle is that **the final decision on use of force should be made by a person**. Phantom MK-2 is planned for April (better protection, water resistance, up to 80 kg payload). This is **Ukraine**, not Iran, but it shows humanoid robots entering real combat testing in the same timeframe as the Iran war, with a stated path toward weaponization.
 
 ### Maritime: mines and mine-clearing
 
-- **Iran’s mines:** Multiple sources state Iran has **5,000+ naval mines** (domestic, Russian, Chinese; acoustic, magnetic, pressure). If Iran “resorts to mining,” clearing is “very time-consuming”; “Iran’s potential to mine the area remains a serious threat that would cause international economic chaos.”
-- **US mine-clearing:** The US “doesn’t have many minesweepers; they retired most of them before this conflict started. **They are now relying on robots, helicopters, and potentially help from allies.**” So **robots are explicitly mentioned as part of the mine-clearing response** — a concrete “robots in war” use in the repo. The analyst’s point is that the US had not planned for this and is short of both traditional minesweepers and the capacity to clear mines at scale.
+- **Iran's mines:** Multiple sources state Iran has **5,000+ naval mines** (domestic, Russian, Chinese; acoustic, magnetic, pressure). If Iran "resorts to mining," clearing is "very time-consuming"; "Iran's potential to mine the area remains a serious threat that would cause international economic chaos."
+- **US mine-clearing:** The US "doesn't have many minesweepers; they retired most of them before this conflict started. **They are now relying on robots, helicopters, and potentially help from allies.**" So **robots are explicitly mentioned as part of the mine-clearing response** — a concrete "robots in war" use in the repo. The analyst's point is that the US had not planned for this and is short of both traditional minesweepers and the capacity to clear mines at scale.
 
 ---
 
-## 2. AI-enabled targeting and “autonomous” decisions
+## 2. AI-enabled targeting and "autonomous" decisions
 
 ### Lavender, Gospel, and LLM-based target generation
 
-- **Listening Post (Al Jazeera):** Matt Mahmoodi (Amnesty Tech, Cambridge) describes a “new form of warfare” emerging from Gaza and now in Iran: **target acquisition systems like Lavender and Gospel** that use “large tranches of information (social media data, government databases)” to decide “whether someone is a combatant.” In Iran, he says, **a large language model (LLM)** is used in a **“chat-prompt-based interface”** so the military can “put in a human-speak prompt that asks for particular targets to be generated with particular characteristics.” So the repo presents **LLM-generated target lists** as a current feature of this war.
-- **Scale and vetting:** Lavender is described as producing lists of **40,000 names**; the question “who vetted these names?” is raised. Targeting is “probabilistic” and “relational” — e.g. connection on social media to someone who “said something or have a particular affiliation” can “render you a threat.” The criticism is that this is **“AI washing”** of the idea of a legitimate target: “simply saying because the system said these targets are correct that makes it a legitimate target” is framed as **a violation of international law** because “individuals in the chain of command have not actively been involved in vetting and understanding who they’re targeting and why.”
+- **Listening Post (Al Jazeera):** Matt Mahmoodi (Amnesty Tech, Cambridge) describes a "new form of warfare" emerging from Gaza and now in Iran: **target acquisition systems like Lavender and Gospel** that use "large tranches of information (social media data, government databases)" to decide "whether someone is a combatant." In Iran, he says, **a large language model (LLM)** is used in a **"chat-prompt-based interface"** so the military can "put in a human-speak prompt that asks for particular targets to be generated with particular characteristics." So the repo presents **LLM-generated target lists** as a current feature of this war.
+- **Scale and vetting:** Lavender is described as producing lists of **40,000 names**; the question "who vetted these names?" is raised. Targeting is "probabilistic" and "relational" — e.g. connection on social media to someone who "said something or have a particular affiliation" can "render you a threat." The criticism is that this is **"AI washing"** of the idea of a legitimate target: "simply saying because the system said these targets are correct that makes it a legitimate target" is framed as **a violation of international law** because "individuals in the chain of command have not actively been involved in vetting and understanding who they're targeting and why."
 
 ### Manab school and civilian harm
 
-- The **Manab school bombing** (Minab; at least 165 schoolgirls and staff killed) is cited across the repo as the emblematic failure of this kind of targeting. WaPo is quoted: the school was on the target list “possibly mistaken for a military site.” Another analyst (k_JU8wVfwJ4) is cited: four targets, two empty warehouses, one hospital, one school — **“50% of our targets were illegal under the law of war”**; Hegseth “closed down the units responsible for screening targets” for civilian nature. So the repo ties **AI/LLM-assisted target lists to unlawful attacks and the removal of human screening**.
+- The **Manab school bombing** (Minab; at least 165 schoolgirls and staff killed) is cited across the repo as the emblematic failure of this kind of targeting. WaPo is quoted: the school was on the target list "possibly mistaken for a military site." Another analyst (k_JU8wVfwJ4) is cited: four targets, two empty warehouses, one hospital, one school — **"50% of our targets were illegal under the law of war"**; Hegseth "closed down the units responsible for screening targets" for civilian nature. So the repo ties **AI/LLM-assisted target lists to unlawful attacks and the removal of human screening**.
 
 ### Claude, Palantir, and the Pentagon
 
-- **README and day updates:** The administration’s **AI tools (Palantir/Claude)** are described as having **identified the school as a target**; **Claude, embedded in Palantir’s Maven Smart System**, is used for “real-time targeting, prioritization, and location coordinates.” Over **1,000 targets in the first 24 hours**, 2,000+ in the first week; Pentagon officials quoted: “no stupid rules of engagement.”
-- **Anthropic and autonomous weapons:** Anthropic refused Pentagon demands to allow use for **“autonomous weapons or mass surveillance”**; Hegseth threatened the **Defense Production Act** to compel compliance and designated Anthropic a “supply-chain risk” with a six-month phase-out. The military is still using Claude because commanders say they “cannot suddenly discontinue it without compromising operations.” **Anthropic is now suing the government** after refusing to allow Claude for autonomous weapons. So the repo presents **Claude as a dual-use tool**: used for targeting in Iran, while the company publicly resists “fully autonomous” weapons and faces legal and political pressure.
-- **Listening Post again:** “Oversight” is described as “incredibly permissive” — e.g. someone looking at a list “for 15 seconds, 2 minutes” and deeming that sufficient without “interrogating how the particular large language model arrived at the list.” The **Stop Killer Robots Coalition** and calls for an **internationally binding instrument on autonomous weapon systems** are cited; the claim is there is “no way of ensuring any oversight, no accountability,” and companies “skirt all of that whilst deriving most of the profit.” **“Fog of war, which was already thick, is being made thicker by AI.”**
+- **README and day updates:** The administration's **AI tools (Palantir/Claude)** are described as having **identified the school as a target**; **Claude, embedded in Palantir's Maven Smart System**, is used for "real-time targeting, prioritization, and location coordinates." Over **1,000 targets in the first 24 hours**, 2,000+ in the first week; Pentagon officials quoted: "no stupid rules of engagement."
+- **Anthropic and autonomous weapons:** Anthropic refused Pentagon demands to allow use for **"autonomous weapons or mass surveillance"**; Hegseth threatened the **Defense Production Act** to compel compliance and designated Anthropic a "supply-chain risk" with a six-month phase-out. The military is still using Claude because commanders say they "cannot suddenly discontinue it without compromising operations." **Anthropic is now suing the government** after refusing to allow Claude for autonomous weapons. So the repo presents **Claude as a dual-use tool**: used for targeting in Iran, while the company publicly resists "fully autonomous" weapons and faces legal and political pressure.
+- **Listening Post again:** "Oversight" is described as "incredibly permissive" — e.g. someone looking at a list "for 15 seconds, 2 minutes" and deeming that sufficient without "interrogating how the particular large language model arrived at the list." The **Stop Killer Robots Coalition** and calls for an **internationally binding instrument on autonomous weapon systems** are cited; the claim is there is "no way of ensuring any oversight, no accountability," and companies "skirt all of that whilst deriving most of the profit." **"Fog of war, which was already thick, is being made thicker by AI."**
 
 ### Scientists, tech, and war
 
-- **War-science-nukes transcript:** A speaker (Defense Innovation Board, Vietnam-era background) says **“there is no war that is won without the exploitation of science and technology at its center”** and that strength of nations is “how clever you are with computing or calculations or strategies.” So the repo ties **computing and automation** to military success in general, without naming specific robots in Iran.
+- **War-science-nukes transcript:** A speaker (Defense Innovation Board, Vietnam-era background) says **"there is no war that is won without the exploitation of science and technology at its center"** and that strength of nations is "how clever you are with computing or calculations or strategies." So the repo ties **computing and automation** to military success in general, without naming specific robots in Iran.
 - **Gulf AI and datacentres:** UAE and Gulf AI ambitions (datacentres) are said to be in jeopardy; AWS data centres have been hit; Iran has warned that infrastructure linked to Google, Microsoft, **Palantir**, Nvidia, Oracle could become targets. So **Palantir** appears both as a provider of targeting (Maven + Claude) and as potential infrastructure at risk in theatre.
 
 ---
 
 ## 3. Autonomous weapons and the law of war
 
-- **Definitional grey zone:** “Autonomous” in the repo ranges from (a) **human-supervised AI that generates target lists** (current use of Claude/Palantir/Lavender-style systems) to (b) **weapons that fire or select targets without a human in the loop** (what Anthropic says it refuses). The criticism is that **supervision is so thin** (e.g. 15-second review of 40,000 names) that the line between “AI-assisted” and “autonomous” is blurred in practice.
-- **Accountability:** “With the insertion of AI we have a complete muddying up of who made the decision to kill. Was it the system? The designer? The person who operated the interface?” International humanitarian law requires a **legitimate target** and a **chain of command with accountability**; the claim in the repo is that AI “makes it difficult to determine whether some attacks were deliberate, intelligence failures, or errors in AI itself” and can allow militaries to “evade accountability — just say the machine got it wrong.”
-- **Law of war and unlawful orders:** Mark Wales (ex-SAS) says soldiers are trained that “you don’t have to follow unlawful orders” and can refuse to “blow that school up” if it’s not a legitimate target — “in practice not always that easy.” The repo uses that to contrast with **algorithmic target lists** where the “human component” may be reduced to clicking a prompt or approving a list without meaningful vetting.
+- **Definitional grey zone:** "Autonomous" in the repo ranges from (a) **human-supervised AI that generates target lists** (current use of Claude/Palantir/Lavender-style systems) to (b) **weapons that fire or select targets without a human in the loop** (what Anthropic says it refuses). The criticism is that **supervision is so thin** (e.g. 15-second review of 40,000 names) that the line between "AI-assisted" and "autonomous" is blurred in practice.
+- **Accountability:** "With the insertion of AI we have a complete muddying up of who made the decision to kill. Was it the system? The designer? The person who operated the interface?" International humanitarian law requires a **legitimate target** and a **chain of command with accountability**; the claim in the repo is that AI "makes it difficult to determine whether some attacks were deliberate, intelligence failures, or errors in AI itself" and can allow militaries to "evade accountability — just say the machine got it wrong."
+- **Law of war and unlawful orders:** Mark Wales (ex-SAS) says soldiers are trained that "you don't have to follow unlawful orders" and can refuse to "blow that school up" if it's not a legitimate target — "in practice not always that easy." The repo uses that to contrast with **algorithmic target lists** where the "human component" may be reduced to clicking a prompt or approving a list without meaningful vetting.
 
 ---
 
@@ -69,20 +69,108 @@ Last updated: 15 March 2026 (Day 16)
 | Topic | Where in repo | Gist |
 |-------|----------------|------|
 | Iranian drones / swarms | README, day updates, analyst transcripts, Prof. Jiang, Listening Post | Cheap drones vs expensive defences; volume and swarms; asymmetric cost; limits of air power alone |
-| Lucas (US kamikaze drone) | Al Jazeera DC Balance of Power (Day 14) | US copy of Shahed-style drone, ~$35k, “testing ground” in Iran |
-| Mine-clearing robots | Analyst (iaTs6LxZmlo) | US short of minesweepers; “relying on **robots**, helicopters, and allies” to clear mines |
-| Robotics as “game changer” | Mark Wales (Straight Talk) | Drones complementary to people; robotics/autonomous partners possible “game changer”; US has advanced capabilities “in the locker” |
-| Lavender / Gospel / LLM targeting | Listening Post, day 16, README | Gaza-style systems + LLM prompt interface in Iran; 40,000-name lists; “AI washing” of lawful targeting |
+| Lucas (US kamikaze drone) | Al Jazeera DC Balance of Power (Day 14) | US copy of Shahed-style drone, ~$35k, "testing ground" in Iran |
+| Mine-clearing robots | Analyst (iaTs6LxZmlo) | US short of minesweepers; "relying on **robots**, helicopters, and allies" to clear mines |
+| Robotics as "game changer" | Mark Wales (Straight Talk) | Drones complementary to people; robotics/autonomous partners possible "game changer"; US has advanced capabilities "in the locker" |
+| Lavender / Gospel / LLM targeting | Listening Post, day 16, README | Gaza-style systems + LLM prompt interface in Iran; 40,000-name lists; "AI washing" of lawful targeting |
 | Claude / Palantir in Iran | README, day 12, Lawfare, Listening Post | Maven + Claude for targeting; 1,000+ targets first 24h; Anthropic resists autonomous weapons; sued; DPA threat |
-| Manab school | Multiple day updates, Listening Post, analyst k_JU8wVfwJ4 | School on target list; 165+ dead; 50% targets “illegal”; Hegseth closed target-screening units |
+| Manab school | Multiple day updates, Listening Post, analyst k_JU8wVfwJ4 | School on target list; 165+ dead; 50% targets "illegal"; Hegseth closed target-screening units |
 | Stop Killer Robots / binding instrument | Listening Post | Call for international treaty on autonomous weapons; no oversight or accountability under current use |
-| Science and computing in war | War-science-nukes transcript | “No war won without science and technology”; computing and strategy as strength |
-| Phantom MK-1 humanoid (Ukraine) | UkraNews (13 Mar 2026), Time | Foundation sent two humanoid robots to Ukraine for front-line testing; no weapons yet; future goal = use any human weapon; recon, logistics; MK-2 April (80 kg payload); cybersecurity and “human in the loop” cited |
+| Science and computing in war | War-science-nukes transcript | "No war won without science and technology"; computing and strategy as strength |
+| Phantom MK-1 humanoid (Ukraine) | UkraNews (13 Mar 2026), Time | Foundation sent two humanoid robots to Ukraine for front-line testing; no weapons yet; future goal = use any human weapon; recon, logistics; MK-2 April (80 kg payload); cybersecurity and "human in the loop" cited |
 
 ---
 
-## 5. Implications for “robots in war”
+## 5. Implications for "robots in war"
 
-- **Drones** are already central — both Iranian (swarms, cost asymmetry) and US (Lucas, F-35 vs drones). The repo does **not** treat the war as “robots vs humans” but as **drones and standoff weapons** still dependent on people and strategy; Wales and others stress “limits to what air power can do” and the need for ground presence.
-- **Robots** in the literal sense (uncrewed ground or maritime systems) appear in **mine-clearing** (US in Gulf) and, in a separate theatre, **humanoid testing in Ukraine**: Foundation’s Phantom MK-1 is in combat testing for recon and logistics, with a stated future goal of weaponization (“use any weapon used by a person”). So ground robotics are in use or in test in active conflicts, not yet as the main combatant in Iran.
-- **AI and autonomy** are in use for **targeting**: LLM-generated lists, Lavender/Gospel-style systems, and Claude/Palantir in Maven. The repo consistently frames this as **increasing risk to civilians**, **eroding accountability**, and **thickening the fog of war**, while companies profit and resist only the narrow category of “fully autonomous” weapons. So the “robot” that matters most in the repo’s narrative is **the automated target list** — not a physical robot, but a decision system that can lead to strikes on schools and hospitals when human review is nominal.
+- **Drones** are already central — both Iranian (swarms, cost asymmetry) and US (Lucas, F-35 vs drones). The repo does **not** treat the war as "robots vs humans" but as **drones and standoff weapons** still dependent on people and strategy; Wales and others stress "limits to what air power can do" and the need for ground presence.
+- **Robots** in the literal sense (uncrewed ground or maritime systems) appear in **mine-clearing** (US in Gulf) and, in a separate theatre, **humanoid testing in Ukraine**: Foundation's Phantom MK-1 is in combat testing for recon and logistics, with a stated future goal of weaponization ("use any weapon used by a person"). So ground robotics are in use or in test in active conflicts, not yet as the main combatant in Iran.
+- **AI and autonomy** are in use for **targeting**: LLM-generated lists, Lavender/Gospel-style systems, and Claude/Palantir in Maven. The repo consistently frames this as **increasing risk to civilians**, **eroding accountability**, and **thickening the fog of war**, while companies profit and resist only the narrow category of "fully autonomous" weapons. So the "robot" that matters most in the repo's narrative is **the automated target list** — not a physical robot, but a decision system that can lead to strikes on schools and hospitals when human review is nominal.
+
+---
+
+## 6. Predictions relevant to robots and autonomous systems
+
+These are predictions made before or during the war that directly speak to the role of drones, autonomous systems, mines, AI, and cost asymmetry. They are drawn from the repo's prediction tracking in the README and `updates-and-predictions/`.
+
+---
+
+### Prediction 1: Iran would use cheap drones against expensive US systems — and the US would run out of interceptors first
+**Who:** Professor Jiang (~April 2024, ~two years before the war)
+**Status: Confirmed**
+
+This is the prediction most directly relevant to drones and autonomous systems. Jiang argued the asymmetric math was simple and fatal for the US: Iran could fire drones costing $1,000–$50,000 to force the US to fire interceptors costing $1–13 million each. Even if the US shot down every drone, it would go broke first.
+
+**What happened:** The Pentagon fired a **quarter of its entire THAAD stockpile** in a single engagement in June 2025 (before the war), producing only 11–12 new interceptors per year. In the war itself, the EU defence commissioner stated the US "cannot supply enough missiles for Iran, Gulf, and Ukraine simultaneously." Gulf allies are described as running out "much faster than us." $5.6B in munitions were spent in the first two days; $2B/day ongoing. Iran, by contrast, deliberately slowed its launch rate on Day 12 — down to 10 missiles and 26 drones — to conserve inventory for a long war.
+
+**Why this matters for robots:** This prediction identifies the fundamental economic driver of both drone warfare and autonomous systems in this conflict. If human-piloted systems are too expensive to risk and interceptor stockpiles are depleted, **autonomous and semi-autonomous platforms** (drones, loitering munitions, unmanned boats) become structurally necessary — not just useful. The US "Lucas" drone (a copy of the Iranian Shahed) is a direct institutional response to this cost logic.
+
+---
+
+### Prediction 2: The 2002 Millennium Challenge war game proved Iran wins with asymmetric tactics — and the US buried the result
+**Who:** Professor Jiang (~April 2024)
+**Status: Confirmed**
+
+The 2002 Millennium Challenge was the largest US war game ever conducted — specifically designed to test a war against a "rogue state" in the Persian Gulf (widely understood to be Iran). The Iranian side (Red Team, commanded by retired Marine Lt. Gen. Paul Van Riper) used asymmetric tactics — small fast boats, swarm attacks, low-tech communications — and sank most of the US fleet in the first day. The Pentagon declared the outcome unacceptable, reset the simulation, and **banned asymmetric play** to manufacture a US victory. The result was buried.
+
+**What happened:** The repo cites the interceptor asymmetry and munitions depletion as "exactly as described" by the Millennium Challenge. Iran's tactic of **targeting sensors and "eyes" of defence systems** (radars, early warning infrastructure) is described as consistent with what the 2002 war game showed would work. Iran laying 2,000–6,000 mines in the Strait is also consistent.
+
+**Why this matters for robots:** The Millennium Challenge showed that **swarms of small, cheap, semi-autonomous craft and weapons** could defeat a technologically superior conventional force. The US knew this in 2002 and did not adapt its autonomous-defence doctrine accordingly. The lesson re-learned in 2026 is that **quantity of autonomous systems** (cheap drones, mines, swarm boats) can defeat **quality of manned platforms** (carriers, F-35s, THAAD).
+
+---
+
+### Prediction 3: Gulf AI ambitions (data centres, Palantir, Nvidia) would be in jeopardy
+**Who:** Professor Jiang (7 March 2026, citing prior framework)
+**Status: Confirmed**
+
+Jiang predicted that the UAE and Gulf states' ambitions to become global AI hubs — hosting data centres for AWS, Azure, Google Cloud, Oracle, Palantir, Nvidia — would be directly threatened by the war.
+
+**What happened:** AWS data centres were hit. Iran explicitly warned that infrastructure linked to Google, Microsoft, Palantir, Nvidia, and Oracle could become targets. Just Security published a law of armed conflict analysis of whether data centre strikes are lawful. The Economic Times estimated $30B in Gulf data centre projects at risk.
+
+**Why this matters for robots:** **Palantir** — whose Maven Smart System uses Claude for targeting — is simultaneously being used as a weapon system and being targeted as infrastructure. The AI targeting system and the AI data centre are in the same threat environment. If Gulf data centres are destroyed or evacuated, it affects global AI compute capacity at exactly the moment autonomous weapons systems are being deployed at scale. The prediction confirms the war is being fought, in part, over the physical infrastructure of AI itself.
+
+---
+
+### Prediction 4: Intelligence would be "cooked" — now taking the form of AI-generated target lists
+**Who:** Kovalik (2018), Chomsky (2006-07)
+**Status: Confirmed**
+
+The pre-war prediction — that intelligence would be fabricated or manipulated to justify the war — has confirmed, but in a form the predictors could not have specified: **automated target generation**. WaPo reported the Manab school was on the target list "possibly mistaken for a military site." Palantir/Claude produced 1,000+ targets in the first 24 hours. The repo's Listening Post section connects this directly: AI systems generating 40,000-name target lists without meaningful human vetting is both an intelligence-fabrication mechanism (the system decides who is a "combatant") and a way of producing the volume of strikes needed to sustain a "decisive campaign" narrative.
+
+**Why this matters for robots:** The "cooked intelligence" prediction has taken a new technical form. Rather than a Colin Powell moment at the UN with fabricated satellite images, the 2026 version is **automated target generation** that produces lists too large and fast for any human to meaningfully review. The AI is both the intelligence product and the justification for the strike. **Anthropic is suing the government** after refusing to allow Claude for autonomous weapons — but as the Listening Post notes, when review is "15 seconds for 40,000 names," the practical distinction between "AI-assisted" and "autonomous killing" has already collapsed. The cooked-intelligence prediction has become: **the machine generates the intelligence and the target simultaneously, and the human just clicks approve**.
+
+---
+
+### Prediction 5: Supply lines through mountains can be cut by a drone — exactly what Afghans did to the Soviets
+**Who:** Professor Jiang (~March 2025)
+**Status: Not yet tested** (ground troops not yet in Iran)
+
+Jiang predicted that if US ground troops entered Iran's mountainous terrain (Zagros, Alborz), their supply lines would face exactly what the Soviets faced in Afghanistan — but worse, because Iran has a sophisticated industrial drone programme rather than Stinger missiles and rocket launchers.
+
+**Why this matters for robots:** This is the **future-facing** prediction most directly relevant to ground robotics. If US forces enter mountainous Iran and face drone interdiction of supply convoys, **autonomous logistics robots** — able to navigate terrain that would be suicidal for human-driven trucks — become a military necessity. The Phantom MK-1's stated use case (delivering equipment in enclosed spaces, planned payload up to 80 kg in MK-2) is directly relevant. Ukraine is the current test bed; Iran would be the operational theatre if ground troops are deployed. The prediction also means Iran's drone programme — already demonstrated at scale against Gulf bases — would shift to hunting supply lines, creating exactly the demand for autonomous counter-drone and logistics systems that the US reportedly has "in the locker."
+
+---
+
+### Prediction 6: Operation Prosperity Guardian proved the US cannot defeat even the Houthis — same limits now visible in Iran
+**Who:** Professor Jiang (~March 2025)
+**Status: Confirmed**
+
+Jiang used the 2023-25 Red Sea campaign as a template: the US had "special forces, air supremacy, technological omniscience, but they don't have infantry," and Biden admitted losing the Red Sea while continuing anyway. The Houthis — a non-state actor with no air force — used cheap drones and anti-ship missiles to sustain a 16-month campaign that disrupted global shipping and forced carriers to burn interceptors at unsustainable rates.
+
+**What happened:** As of Day 16, the Houthis have announced they will enter the Iran war "imminently" to close Bab-el-Mandeb alongside Hormuz. The same force-structure failure — air supremacy without the infantry or autonomous systems to hold ground or clear threats — is playing out in the Gulf.
+
+**Why this matters for robots:** The Houthi campaign is the **proof of concept** for cheap autonomous munitions (one-way drones, anti-ship missiles) defeating expensive manned defences across two theatres and 18 months. The institutional lesson being absorbed — validated by Houthis, now being re-validated by Iran — is that autonomous and semi-autonomous offensive systems are the primary tools of smaller powers fighting the US, and that the US cannot sustain interceptor-based manned defence at scale. Every call for autonomous weapons on the US side (Lucas drone, AI targeting, mine-clearing robots, hypothetical autonomous ships) is a direct institutional response to this asymmetry, predicted before the war began.
+
+---
+
+### Summary: what the predictions say about the trajectory of robots in this war
+
+The predictions converge on four conclusions:
+
+1. **Cost asymmetry makes autonomous weapons structurally necessary.** Once cheap Iranian drones force the US to fire $13M interceptors, the logic of autonomous defence (AI intercept systems, autonomous counter-drones, mine-clearing robots) becomes urgent at the institutional level. The US is already relying on robots for mine-clearing precisely because it decommissioned minesweepers; the same economic logic will drive automation in other domains.
+
+2. **The Millennium Challenge result has been confirmed in real war, twice.** Swarms of cheap semi-autonomous systems — drones, mines, unmanned boats — have defeated technologically superior conventional forces in the Red Sea (Houthis, 18 months) and are doing so again in the Gulf. The US suppressed that finding in 2002; it has now been demonstrated operationally at scale.
+
+3. **AI targeting systems are already "autonomous" in practice.** The prediction that intelligence would be "cooked" has become the prediction that AI generates both the intelligence and the target list at a speed and volume that makes human review nominal. The Manab school is the emblematic result. The accountability line between "AI-assisted" and "autonomous killing" has blurred past the point of legal clarity.
+
+4. **Ground robotics and supply robots become critical if ground troops enter Iran.** Jiang's supply-line prediction means that logistics robots (like Phantom MK-1, but faster and eventually armed) would be militarily necessary for any sustained ground campaign in Iranian mountain terrain. Ukraine is the test bed. If the Marines or 82nd Airborne enter Iran, the demand for autonomous ground systems will shift from theoretical to urgent.
